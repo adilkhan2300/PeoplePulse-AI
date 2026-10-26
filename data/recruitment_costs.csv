@@ -1,0 +1,29 @@
+department,job_role,recruitment_cost,onboarding_cost,training_cost,average_time_to_fill_days
+Engineering,Software Engineer,16200.0,7200.0,5400.0,58
+Engineering,Senior Software Engineer,23400.0,10400.0,7800.0,62
+Engineering,Lead Engineer,29700.0,13200.0,9900.0,63
+Engineering,DevOps Engineer,17550.0,7800.0,5850.0,52
+Engineering,Engineering Manager,31500.0,14000.0,10500.0,48
+Sales,Sales Representative,11250.0,5000.0,3750.0,70
+Sales,Account Executive,16650.0,7400.0,5550.0,52
+Sales,Enterprise Account Exec,24300.0,10800.0,8100.0,39
+Sales,Sales Manager,26550.0,11800.0,8850.0,53
+Product,Associate Product Manager,13050.0,5800.0,4350.0,31
+Product,Product Manager,18900.0,8400.0,6300.0,62
+Product,Senior Product Manager,26100.0,11600.0,8700.0,35
+Product,Director of Product,34650.0,15400.0,11550.0,35
+Customer Success,Support Specialist,9000.0,4000.0,3000.0,72
+Customer Success,Customer Success Manager,13050.0,5800.0,4350.0,64
+Customer Success,Senior CSM,17550.0,7800.0,5850.0,48
+Customer Success,CS Team Lead,19350.0,8600.0,6450.0,40
+Marketing,Content Specialist,9900.0,4400.0,3300.0,67
+Marketing,Marketing Manager,17550.0,7800.0,5850.0,73
+Marketing,Growth Marketer,14400.0,6400.0,4800.0,52
+Marketing,Brand Director,29700.0,13200.0,9900.0,56
+Human Resources,HR Coordinator,9000.0,4000.0,3000.0,40
+Human Resources,Talent Acquisition Partner,13050.0,5800.0,4350.0,56
+Human Resources,HR Business Partner,18450.0,8200.0,6150.0,48
+Human Resources,People Operations Manager,21600.0,9600.0,7200.0,68
+Finance,Financial Analyst,13320.0,5920.0,4440.0,46
+Finance,Senior Accountant,17550.0,7800.0,5850.0,59
+Finance,Finance Manager,24750.0,11000.0,8250.0,39

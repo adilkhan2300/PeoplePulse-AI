@@ -1,0 +1,1201 @@
+employee_id,training_date,training_hours,training_program,training_completion_status,skills_development_score
+EMP-1000,2025-09-10,7,Compliance & Safety,Incomplete,49.0
+EMP-1001,2025-09-10,19,Technical Upskilling,Completed,82.4
+EMP-1002,2025-09-10,0,Leadership Accelerate,Incomplete,21.6
+EMP-1003,2025-09-10,15,Technical Upskilling,Completed,57.9
+EMP-1004,2025-09-10,5,Leadership Accelerate,Incomplete,34.1
+EMP-1005,2025-09-10,21,Leadership Accelerate,Completed,100.0
+EMP-1006,2025-09-10,35,Technical Upskilling,Completed,98.8
+EMP-1007,2025-09-10,27,Leadership Accelerate,Completed,89.9
+EMP-1008,2025-09-10,2,Compliance & Safety,Incomplete,33.1
+EMP-1009,2025-09-10,8,Leadership Accelerate,Incomplete,44.2
+EMP-1010,2025-09-10,39,Compliance & Safety,Completed,100.0
+EMP-1011,2025-09-10,32,Compliance & Safety,Completed,100.0
+EMP-1012,2025-09-10,0,Technical Upskilling,Incomplete,25.5
+EMP-1013,2025-09-10,27,Technical Upskilling,Completed,100.0
+EMP-1014,2025-09-10,38,None,Completed,100.0
+EMP-1015,2025-09-10,10,Technical Upskilling,Incomplete,41.0
+EMP-1016,2025-09-10,37,Technical Upskilling,Completed,100.0
+EMP-1017,2025-09-10,12,Technical Upskilling,Completed,61.3
+EMP-1018,2025-09-10,47,Technical Upskilling,Completed,100.0
+EMP-1019,2025-09-10,12,Technical Upskilling,Completed,72.9
+EMP-1020,2025-09-10,19,None,Completed,76.7
+EMP-1021,2025-09-10,30,None,Completed,94.6
+EMP-1022,2025-09-10,16,Leadership Accelerate,Completed,65.7
+EMP-1023,2025-09-10,37,Technical Upskilling,Completed,100.0
+EMP-1024,2025-09-10,11,Leadership Accelerate,Completed,43.2
+EMP-1025,2025-09-10,24,Leadership Accelerate,Completed,82.6
+EMP-1026,2025-09-10,49,Technical Upskilling,Completed,100.0
+EMP-1027,2025-09-10,8,Technical Upskilling,Incomplete,53.7
+EMP-1028,2025-09-10,0,Technical Upskilling,Incomplete,30.0
+EMP-1029,2025-09-10,29,Technical Upskilling,Completed,76.3
+EMP-1030,2025-09-10,0,Leadership Accelerate,Incomplete,41.4
+EMP-1031,2025-09-10,37,Compliance & Safety,Completed,100.0
+EMP-1032,2025-09-10,21,Technical Upskilling,Completed,69.6
+EMP-1033,2025-09-10,2,Leadership Accelerate,Incomplete,28.4
+EMP-1034,2025-09-10,0,Technical Upskilling,Incomplete,17.4
+EMP-1035,2025-09-10,28,Technical Upskilling,Completed,95.6
+EMP-1036,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1037,2025-09-10,28,Technical Upskilling,Completed,98.5
+EMP-1038,2025-09-10,43,Technical Upskilling,Completed,100.0
+EMP-1039,2025-09-10,21,Leadership Accelerate,Completed,85.4
+EMP-1040,2025-09-10,0,None,Incomplete,37.5
+EMP-1041,2025-09-10,19,Compliance & Safety,Completed,78.0
+EMP-1042,2025-09-10,21,Leadership Accelerate,Completed,88.5
+EMP-1043,2025-09-10,8,Technical Upskilling,Incomplete,52.6
+EMP-1044,2025-09-10,5,Leadership Accelerate,Incomplete,50.4
+EMP-1045,2025-09-10,24,Leadership Accelerate,Completed,80.5
+EMP-1046,2025-09-10,3,Technical Upskilling,Incomplete,32.3
+EMP-1047,2025-09-10,8,Leadership Accelerate,Incomplete,48.0
+EMP-1048,2025-09-10,27,Leadership Accelerate,Completed,89.4
+EMP-1049,2025-09-10,0,Leadership Accelerate,Incomplete,28.1
+EMP-1050,2025-09-10,25,Leadership Accelerate,Completed,81.9
+EMP-1051,2025-09-10,29,Technical Upskilling,Completed,88.6
+EMP-1052,2025-09-10,35,Leadership Accelerate,Completed,86.8
+EMP-1053,2025-09-10,3,None,Incomplete,25.0
+EMP-1054,2025-09-10,1,Compliance & Safety,Incomplete,42.6
+EMP-1055,2025-09-10,19,Leadership Accelerate,Completed,67.4
+EMP-1056,2025-09-10,12,Technical Upskilling,Completed,52.7
+EMP-1057,2025-09-10,28,Technical Upskilling,Completed,98.8
+EMP-1058,2025-09-10,6,Compliance & Safety,Incomplete,43.3
+EMP-1059,2025-09-10,28,Compliance & Safety,Completed,100.0
+EMP-1060,2025-09-10,27,Leadership Accelerate,Completed,89.9
+EMP-1061,2025-09-10,22,Technical Upskilling,Completed,76.4
+EMP-1062,2025-09-10,10,Technical Upskilling,Incomplete,38.4
+EMP-1063,2025-09-10,24,Compliance & Safety,Completed,75.5
+EMP-1064,2025-09-10,36,Technical Upskilling,Completed,100.0
+EMP-1065,2025-09-10,14,None,Completed,72.5
+EMP-1066,2025-09-10,17,Compliance & Safety,Completed,47.1
+EMP-1067,2025-09-10,11,Leadership Accelerate,Completed,56.4
+EMP-1068,2025-09-10,14,Compliance & Safety,Completed,71.7
+EMP-1069,2025-09-10,0,Compliance & Safety,Incomplete,25.0
+EMP-1070,2025-09-10,17,Compliance & Safety,Completed,51.9
+EMP-1071,2025-09-10,16,Technical Upskilling,Completed,63.3
+EMP-1072,2025-09-10,0,Leadership Accelerate,Incomplete,22.8
+EMP-1073,2025-09-10,9,Technical Upskilling,Incomplete,39.5
+EMP-1074,2025-09-10,22,Technical Upskilling,Completed,82.7
+EMP-1075,2025-09-10,19,Technical Upskilling,Completed,48.9
+EMP-1076,2025-09-10,26,None,Completed,75.4
+EMP-1077,2025-09-10,14,Compliance & Safety,Completed,61.1
+EMP-1078,2025-09-10,30,Technical Upskilling,Completed,100.0
+EMP-1079,2025-09-10,22,Leadership Accelerate,Completed,62.2
+EMP-1080,2025-09-10,10,Technical Upskilling,Incomplete,65.7
+EMP-1081,2025-09-10,25,Leadership Accelerate,Completed,89.6
+EMP-1082,2025-09-10,36,Compliance & Safety,Completed,100.0
+EMP-1083,2025-09-10,10,Compliance & Safety,Incomplete,50.2
+EMP-1084,2025-09-10,15,Technical Upskilling,Completed,70.3
+EMP-1085,2025-09-10,36,Technical Upskilling,Completed,100.0
+EMP-1086,2025-09-10,18,Technical Upskilling,Completed,71.4
+EMP-1087,2025-09-10,15,Compliance & Safety,Completed,50.1
+EMP-1088,2025-09-10,0,Technical Upskilling,Incomplete,25.8
+EMP-1089,2025-09-10,4,Compliance & Safety,Incomplete,49.8
+EMP-1090,2025-09-10,0,Leadership Accelerate,Incomplete,22.5
+EMP-1091,2025-09-10,20,Technical Upskilling,Completed,97.0
+EMP-1092,2025-09-10,22,Technical Upskilling,Completed,58.7
+EMP-1093,2025-09-10,34,Technical Upskilling,Completed,100.0
+EMP-1094,2025-09-10,14,Technical Upskilling,Completed,67.4
+EMP-1095,2025-09-10,38,Technical Upskilling,Completed,100.0
+EMP-1096,2025-09-10,15,Compliance & Safety,Completed,61.6
+EMP-1097,2025-09-10,31,Technical Upskilling,Completed,94.9
+EMP-1098,2025-09-10,22,Technical Upskilling,Completed,78.4
+EMP-1099,2025-09-10,14,Technical Upskilling,Completed,53.1
+EMP-1100,2025-09-10,21,Technical Upskilling,Completed,73.1
+EMP-1101,2025-09-10,13,Compliance & Safety,Completed,58.9
+EMP-1102,2025-09-10,23,Leadership Accelerate,Completed,74.7
+EMP-1103,2025-09-10,16,Compliance & Safety,Completed,66.0
+EMP-1104,2025-09-10,6,Technical Upskilling,Incomplete,32.4
+EMP-1105,2025-09-10,20,None,Completed,81.3
+EMP-1106,2025-09-10,17,Technical Upskilling,Completed,65.7
+EMP-1107,2025-09-10,20,Leadership Accelerate,Completed,86.8
+EMP-1108,2025-09-10,28,Compliance & Safety,Completed,91.6
+EMP-1109,2025-09-10,6,Compliance & Safety,Incomplete,38.6
+EMP-1110,2025-09-10,25,Compliance & Safety,Completed,74.6
+EMP-1111,2025-09-10,23,Technical Upskilling,Completed,92.3
+EMP-1112,2025-09-10,16,Technical Upskilling,Completed,62.6
+EMP-1113,2025-09-10,5,Leadership Accelerate,Incomplete,43.9
+EMP-1114,2025-09-10,0,Technical Upskilling,Incomplete,23.4
+EMP-1115,2025-09-10,13,Technical Upskilling,Completed,68.0
+EMP-1116,2025-09-10,11,Leadership Accelerate,Completed,51.8
+EMP-1117,2025-09-10,33,Leadership Accelerate,Completed,100.0
+EMP-1118,2025-09-10,13,Leadership Accelerate,Completed,52.2
+EMP-1119,2025-09-10,30,Compliance & Safety,Completed,97.6
+EMP-1120,2025-09-10,11,None,Completed,51.6
+EMP-1121,2025-09-10,27,Technical Upskilling,Completed,86.9
+EMP-1122,2025-09-10,30,Compliance & Safety,Completed,100.0
+EMP-1123,2025-09-10,6,Leadership Accelerate,Incomplete,43.4
+EMP-1124,2025-09-10,30,Leadership Accelerate,Completed,72.3
+EMP-1125,2025-09-10,25,Technical Upskilling,Completed,81.3
+EMP-1126,2025-09-10,0,Compliance & Safety,Incomplete,29.6
+EMP-1127,2025-09-10,0,Technical Upskilling,Incomplete,49.1
+EMP-1128,2025-09-10,30,Technical Upskilling,Completed,92.9
+EMP-1129,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1130,2025-09-10,8,Technical Upskilling,Incomplete,50.2
+EMP-1131,2025-09-10,17,Technical Upskilling,Completed,77.8
+EMP-1132,2025-09-10,9,Leadership Accelerate,Incomplete,32.7
+EMP-1133,2025-09-10,20,Technical Upskilling,Completed,54.2
+EMP-1134,2025-09-10,6,Compliance & Safety,Incomplete,29.6
+EMP-1135,2025-09-10,22,Leadership Accelerate,Completed,70.4
+EMP-1136,2025-09-10,3,None,Incomplete,17.1
+EMP-1137,2025-09-10,30,Technical Upskilling,Completed,100.0
+EMP-1138,2025-09-10,29,None,Completed,68.9
+EMP-1139,2025-09-10,18,Leadership Accelerate,Completed,84.8
+EMP-1140,2025-09-10,7,Leadership Accelerate,Incomplete,45.9
+EMP-1141,2025-09-10,20,Technical Upskilling,Completed,57.6
+EMP-1142,2025-09-10,15,Leadership Accelerate,Completed,46.1
+EMP-1143,2025-09-10,17,Compliance & Safety,Completed,77.9
+EMP-1144,2025-09-10,6,Compliance & Safety,Incomplete,46.6
+EMP-1145,2025-09-10,22,Technical Upskilling,Completed,85.1
+EMP-1146,2025-09-10,5,Leadership Accelerate,Incomplete,31.1
+EMP-1147,2025-09-10,16,Leadership Accelerate,Completed,70.4
+EMP-1148,2025-09-10,30,Technical Upskilling,Completed,90.5
+EMP-1149,2025-09-10,22,Technical Upskilling,Completed,67.4
+EMP-1150,2025-09-10,20,None,Completed,62.2
+EMP-1151,2025-09-10,40,Compliance & Safety,Completed,100.0
+EMP-1152,2025-09-10,18,Technical Upskilling,Completed,70.8
+EMP-1153,2025-09-10,25,Compliance & Safety,Completed,93.5
+EMP-1154,2025-09-10,17,None,Completed,76.8
+EMP-1155,2025-09-10,2,Compliance & Safety,Incomplete,10.5
+EMP-1156,2025-09-10,17,Leadership Accelerate,Completed,67.1
+EMP-1157,2025-09-10,29,None,Completed,91.9
+EMP-1158,2025-09-10,22,Technical Upskilling,Completed,76.7
+EMP-1159,2025-09-10,22,Leadership Accelerate,Completed,74.0
+EMP-1160,2025-09-10,13,Leadership Accelerate,Completed,45.4
+EMP-1161,2025-09-10,11,Technical Upskilling,Completed,59.8
+EMP-1162,2025-09-10,12,Leadership Accelerate,Completed,54.3
+EMP-1163,2025-09-10,22,Technical Upskilling,Completed,89.4
+EMP-1164,2025-09-10,18,Technical Upskilling,Completed,64.7
+EMP-1165,2025-09-10,0,Compliance & Safety,Incomplete,25.0
+EMP-1166,2025-09-10,15,None,Completed,44.4
+EMP-1167,2025-09-10,8,Compliance & Safety,Incomplete,61.2
+EMP-1168,2025-09-10,12,Leadership Accelerate,Completed,72.3
+EMP-1169,2025-09-10,31,Compliance & Safety,Completed,87.1
+EMP-1170,2025-09-10,18,Technical Upskilling,Completed,57.2
+EMP-1171,2025-09-10,10,None,Incomplete,55.0
+EMP-1172,2025-09-10,13,None,Completed,57.5
+EMP-1173,2025-09-10,26,Compliance & Safety,Completed,79.4
+EMP-1174,2025-09-10,24,Technical Upskilling,Completed,93.3
+EMP-1175,2025-09-10,24,Technical Upskilling,Completed,100.0
+EMP-1176,2025-09-10,31,Technical Upskilling,Completed,100.0
+EMP-1177,2025-09-10,30,Compliance & Safety,Completed,89.7
+EMP-1178,2025-09-10,43,Leadership Accelerate,Completed,100.0
+EMP-1179,2025-09-10,13,Compliance & Safety,Completed,66.5
+EMP-1180,2025-09-10,32,Leadership Accelerate,Completed,100.0
+EMP-1181,2025-09-10,36,Technical Upskilling,Completed,100.0
+EMP-1182,2025-09-10,24,Technical Upskilling,Completed,79.7
+EMP-1183,2025-09-10,41,Technical Upskilling,Completed,100.0
+EMP-1184,2025-09-10,28,Leadership Accelerate,Completed,91.4
+EMP-1185,2025-09-10,9,Technical Upskilling,Incomplete,45.1
+EMP-1186,2025-09-10,23,Leadership Accelerate,Completed,48.9
+EMP-1187,2025-09-10,25,Leadership Accelerate,Completed,86.8
+EMP-1188,2025-09-10,7,Technical Upskilling,Incomplete,57.4
+EMP-1189,2025-09-10,15,Technical Upskilling,Completed,57.1
+EMP-1190,2025-09-10,0,Leadership Accelerate,Incomplete,25.8
+EMP-1191,2025-09-10,20,Leadership Accelerate,Completed,76.2
+EMP-1192,2025-09-10,5,Compliance & Safety,Incomplete,48.9
+EMP-1193,2025-09-10,2,Technical Upskilling,Incomplete,33.2
+EMP-1194,2025-09-10,29,Leadership Accelerate,Completed,100.0
+EMP-1195,2025-09-10,37,Technical Upskilling,Completed,100.0
+EMP-1196,2025-09-10,37,Technical Upskilling,Completed,100.0
+EMP-1197,2025-09-10,27,Technical Upskilling,Completed,82.3
+EMP-1198,2025-09-10,13,None,Completed,56.7
+EMP-1199,2025-09-10,25,Technical Upskilling,Completed,88.0
+EMP-1200,2025-09-10,27,Technical Upskilling,Completed,100.0
+EMP-1201,2025-09-10,26,Compliance & Safety,Completed,88.0
+EMP-1202,2025-09-10,11,Technical Upskilling,Completed,63.7
+EMP-1203,2025-09-10,4,Technical Upskilling,Incomplete,45.8
+EMP-1204,2025-09-10,27,Technical Upskilling,Completed,100.0
+EMP-1205,2025-09-10,34,Technical Upskilling,Completed,100.0
+EMP-1206,2025-09-10,31,None,Completed,99.1
+EMP-1207,2025-09-10,36,Compliance & Safety,Completed,100.0
+EMP-1208,2025-09-10,4,Technical Upskilling,Incomplete,51.9
+EMP-1209,2025-09-10,27,Leadership Accelerate,Completed,94.3
+EMP-1210,2025-09-10,11,None,Completed,57.4
+EMP-1211,2025-09-10,17,Compliance & Safety,Completed,52.0
+EMP-1212,2025-09-10,0,Compliance & Safety,Incomplete,18.7
+EMP-1213,2025-09-10,39,Compliance & Safety,Completed,100.0
+EMP-1214,2025-09-10,10,Technical Upskilling,Incomplete,44.8
+EMP-1215,2025-09-10,12,Technical Upskilling,Completed,60.0
+EMP-1216,2025-09-10,0,Technical Upskilling,Incomplete,40.6
+EMP-1217,2025-09-10,42,Compliance & Safety,Completed,100.0
+EMP-1218,2025-09-10,34,Leadership Accelerate,Completed,100.0
+EMP-1219,2025-09-10,9,Leadership Accelerate,Incomplete,75.9
+EMP-1220,2025-09-10,14,Leadership Accelerate,Completed,54.9
+EMP-1221,2025-09-10,6,Leadership Accelerate,Incomplete,42.2
+EMP-1222,2025-09-10,25,Technical Upskilling,Completed,93.6
+EMP-1223,2025-09-10,5,Compliance & Safety,Incomplete,42.3
+EMP-1224,2025-09-10,27,Leadership Accelerate,Completed,87.4
+EMP-1225,2025-09-10,18,Technical Upskilling,Completed,65.8
+EMP-1226,2025-09-10,13,Leadership Accelerate,Completed,39.6
+EMP-1227,2025-09-10,24,Technical Upskilling,Completed,68.1
+EMP-1228,2025-09-10,24,Leadership Accelerate,Completed,86.3
+EMP-1229,2025-09-10,0,Technical Upskilling,Incomplete,30.9
+EMP-1230,2025-09-10,8,Technical Upskilling,Incomplete,39.4
+EMP-1231,2025-09-10,0,Technical Upskilling,Incomplete,21.1
+EMP-1232,2025-09-10,27,Leadership Accelerate,Completed,85.9
+EMP-1233,2025-09-10,24,Technical Upskilling,Completed,73.8
+EMP-1234,2025-09-10,0,Technical Upskilling,Incomplete,28.5
+EMP-1235,2025-09-10,16,Compliance & Safety,Completed,73.3
+EMP-1236,2025-09-10,26,Compliance & Safety,Completed,92.1
+EMP-1237,2025-09-10,23,Leadership Accelerate,Completed,92.9
+EMP-1238,2025-09-10,23,Compliance & Safety,Completed,70.2
+EMP-1239,2025-09-10,5,Technical Upskilling,Incomplete,43.0
+EMP-1240,2025-09-10,26,Compliance & Safety,Completed,100.0
+EMP-1241,2025-09-10,14,Leadership Accelerate,Completed,49.8
+EMP-1242,2025-09-10,19,None,Completed,79.5
+EMP-1243,2025-09-10,14,None,Completed,45.5
+EMP-1244,2025-09-10,0,Compliance & Safety,Incomplete,45.3
+EMP-1245,2025-09-10,4,Leadership Accelerate,Incomplete,40.1
+EMP-1246,2025-09-10,21,Technical Upskilling,Completed,85.9
+EMP-1247,2025-09-10,12,Leadership Accelerate,Completed,62.3
+EMP-1248,2025-09-10,12,Compliance & Safety,Completed,68.6
+EMP-1249,2025-09-10,16,Leadership Accelerate,Completed,54.4
+EMP-1250,2025-09-10,16,Technical Upskilling,Completed,59.2
+EMP-1251,2025-09-10,39,Compliance & Safety,Completed,100.0
+EMP-1252,2025-09-10,28,Leadership Accelerate,Completed,100.0
+EMP-1253,2025-09-10,3,Technical Upskilling,Incomplete,28.8
+EMP-1254,2025-09-10,3,Compliance & Safety,Incomplete,35.1
+EMP-1255,2025-09-10,28,Compliance & Safety,Completed,100.0
+EMP-1256,2025-09-10,10,Technical Upskilling,Incomplete,32.5
+EMP-1257,2025-09-10,0,None,Incomplete,26.7
+EMP-1258,2025-09-10,29,Compliance & Safety,Completed,87.2
+EMP-1259,2025-09-10,16,Leadership Accelerate,Completed,66.5
+EMP-1260,2025-09-10,17,Leadership Accelerate,Completed,67.8
+EMP-1261,2025-09-10,36,Technical Upskilling,Completed,100.0
+EMP-1262,2025-09-10,18,Technical Upskilling,Completed,74.0
+EMP-1263,2025-09-10,10,Compliance & Safety,Incomplete,48.6
+EMP-1264,2025-09-10,27,Leadership Accelerate,Completed,90.6
+EMP-1265,2025-09-10,35,Leadership Accelerate,Completed,100.0
+EMP-1266,2025-09-10,34,Compliance & Safety,Completed,99.4
+EMP-1267,2025-09-10,23,Compliance & Safety,Completed,78.8
+EMP-1268,2025-09-10,20,Technical Upskilling,Completed,63.7
+EMP-1269,2025-09-10,20,Technical Upskilling,Completed,82.2
+EMP-1270,2025-09-10,15,Technical Upskilling,Completed,68.6
+EMP-1271,2025-09-10,11,Compliance & Safety,Completed,56.5
+EMP-1272,2025-09-10,0,Leadership Accelerate,Incomplete,24.1
+EMP-1273,2025-09-10,24,Compliance & Safety,Completed,77.4
+EMP-1274,2025-09-10,25,Compliance & Safety,Completed,73.5
+EMP-1275,2025-09-10,50,None,Completed,100.0
+EMP-1276,2025-09-10,21,Compliance & Safety,Completed,62.2
+EMP-1277,2025-09-10,7,Leadership Accelerate,Incomplete,49.4
+EMP-1278,2025-09-10,19,Leadership Accelerate,Completed,81.7
+EMP-1279,2025-09-10,9,Technical Upskilling,Incomplete,32.5
+EMP-1280,2025-09-10,0,Technical Upskilling,Incomplete,27.8
+EMP-1281,2025-09-10,18,Leadership Accelerate,Completed,49.5
+EMP-1282,2025-09-10,9,Technical Upskilling,Incomplete,52.4
+EMP-1283,2025-09-10,4,Compliance & Safety,Incomplete,54.8
+EMP-1284,2025-09-10,4,Technical Upskilling,Incomplete,34.4
+EMP-1285,2025-09-10,24,Compliance & Safety,Completed,88.4
+EMP-1286,2025-09-10,19,Leadership Accelerate,Completed,55.3
+EMP-1287,2025-09-10,27,Compliance & Safety,Completed,89.5
+EMP-1288,2025-09-10,34,Compliance & Safety,Completed,100.0
+EMP-1289,2025-09-10,0,Technical Upskilling,Incomplete,18.8
+EMP-1290,2025-09-10,18,Leadership Accelerate,Completed,67.7
+EMP-1291,2025-09-10,41,Technical Upskilling,Completed,100.0
+EMP-1292,2025-09-10,24,Technical Upskilling,Completed,64.4
+EMP-1293,2025-09-10,13,Technical Upskilling,Completed,59.7
+EMP-1294,2025-09-10,36,Compliance & Safety,Completed,100.0
+EMP-1295,2025-09-10,33,Compliance & Safety,Completed,99.5
+EMP-1296,2025-09-10,28,Technical Upskilling,Completed,80.9
+EMP-1297,2025-09-10,0,Technical Upskilling,Incomplete,20.5
+EMP-1298,2025-09-10,11,None,Completed,43.4
+EMP-1299,2025-09-10,12,Leadership Accelerate,Completed,57.9
+EMP-1300,2025-09-10,9,Compliance & Safety,Incomplete,49.5
+EMP-1301,2025-09-10,4,Technical Upskilling,Incomplete,38.3
+EMP-1302,2025-09-10,21,Compliance & Safety,Completed,91.0
+EMP-1303,2025-09-10,23,Technical Upskilling,Completed,80.2
+EMP-1304,2025-09-10,24,Technical Upskilling,Completed,77.6
+EMP-1305,2025-09-10,13,Technical Upskilling,Completed,53.5
+EMP-1306,2025-09-10,4,Compliance & Safety,Incomplete,33.5
+EMP-1307,2025-09-10,15,None,Completed,78.4
+EMP-1308,2025-09-10,31,Compliance & Safety,Completed,98.6
+EMP-1309,2025-09-10,34,Leadership Accelerate,Completed,94.9
+EMP-1310,2025-09-10,24,Technical Upskilling,Completed,78.8
+EMP-1311,2025-09-10,2,Compliance & Safety,Incomplete,38.8
+EMP-1312,2025-09-10,35,Technical Upskilling,Completed,90.4
+EMP-1313,2025-09-10,21,Leadership Accelerate,Completed,100.0
+EMP-1314,2025-09-10,20,Technical Upskilling,Completed,92.7
+EMP-1315,2025-09-10,21,Technical Upskilling,Completed,75.7
+EMP-1316,2025-09-10,16,Compliance & Safety,Completed,53.4
+EMP-1317,2025-09-10,40,Compliance & Safety,Completed,100.0
+EMP-1318,2025-09-10,38,Compliance & Safety,Completed,100.0
+EMP-1319,2025-09-10,25,None,Completed,75.1
+EMP-1320,2025-09-10,0,Technical Upskilling,Incomplete,21.8
+EMP-1321,2025-09-10,27,Leadership Accelerate,Completed,88.9
+EMP-1322,2025-09-10,31,Technical Upskilling,Completed,100.0
+EMP-1323,2025-09-10,16,Technical Upskilling,Completed,74.6
+EMP-1324,2025-09-10,31,Technical Upskilling,Completed,95.7
+EMP-1325,2025-09-10,26,Technical Upskilling,Completed,75.7
+EMP-1326,2025-09-10,14,Compliance & Safety,Completed,47.7
+EMP-1327,2025-09-10,22,Technical Upskilling,Completed,78.0
+EMP-1328,2025-09-10,12,Leadership Accelerate,Completed,48.4
+EMP-1329,2025-09-10,27,Compliance & Safety,Completed,93.2
+EMP-1330,2025-09-10,18,Technical Upskilling,Completed,56.9
+EMP-1331,2025-09-10,3,Compliance & Safety,Incomplete,24.9
+EMP-1332,2025-09-10,28,Leadership Accelerate,Completed,90.7
+EMP-1333,2025-09-10,23,None,Completed,90.3
+EMP-1334,2025-09-10,31,Technical Upskilling,Completed,90.1
+EMP-1335,2025-09-10,26,Technical Upskilling,Completed,80.3
+EMP-1336,2025-09-10,3,Compliance & Safety,Incomplete,37.8
+EMP-1337,2025-09-10,17,Compliance & Safety,Completed,91.7
+EMP-1338,2025-09-10,14,Technical Upskilling,Completed,61.2
+EMP-1339,2025-09-10,0,Compliance & Safety,Incomplete,43.1
+EMP-1340,2025-09-10,25,Technical Upskilling,Completed,78.8
+EMP-1341,2025-09-10,33,Compliance & Safety,Completed,100.0
+EMP-1342,2025-09-10,34,Compliance & Safety,Completed,100.0
+EMP-1343,2025-09-10,0,None,Incomplete,25.8
+EMP-1344,2025-09-10,26,None,Completed,96.4
+EMP-1345,2025-09-10,0,Leadership Accelerate,Incomplete,29.5
+EMP-1346,2025-09-10,25,Technical Upskilling,Completed,64.0
+EMP-1347,2025-09-10,22,None,Completed,74.3
+EMP-1348,2025-09-10,11,None,Completed,60.2
+EMP-1349,2025-09-10,7,Technical Upskilling,Incomplete,42.3
+EMP-1350,2025-09-10,14,Technical Upskilling,Completed,63.9
+EMP-1351,2025-09-10,26,Technical Upskilling,Completed,88.5
+EMP-1352,2025-09-10,27,Leadership Accelerate,Completed,88.1
+EMP-1353,2025-09-10,16,Compliance & Safety,Completed,45.7
+EMP-1354,2025-09-10,29,Leadership Accelerate,Completed,97.6
+EMP-1355,2025-09-10,39,Leadership Accelerate,Completed,100.0
+EMP-1356,2025-09-10,17,Technical Upskilling,Completed,61.3
+EMP-1357,2025-09-10,17,Compliance & Safety,Completed,70.0
+EMP-1358,2025-09-10,17,Compliance & Safety,Completed,84.2
+EMP-1359,2025-09-10,0,Technical Upskilling,Incomplete,32.2
+EMP-1360,2025-09-10,20,Technical Upskilling,Completed,72.9
+EMP-1361,2025-09-10,23,Technical Upskilling,Completed,94.4
+EMP-1362,2025-09-10,19,Leadership Accelerate,Completed,54.8
+EMP-1363,2025-09-10,4,Compliance & Safety,Incomplete,34.6
+EMP-1364,2025-09-10,45,Technical Upskilling,Completed,100.0
+EMP-1365,2025-09-10,36,Compliance & Safety,Completed,100.0
+EMP-1366,2025-09-10,22,None,Completed,82.2
+EMP-1367,2025-09-10,13,Compliance & Safety,Completed,52.0
+EMP-1368,2025-09-10,1,None,Incomplete,29.7
+EMP-1369,2025-09-10,19,Compliance & Safety,Completed,69.3
+EMP-1370,2025-09-10,16,None,Completed,75.9
+EMP-1371,2025-09-10,37,Technical Upskilling,Completed,100.0
+EMP-1372,2025-09-10,5,Technical Upskilling,Incomplete,36.5
+EMP-1373,2025-09-10,11,Leadership Accelerate,Completed,57.8
+EMP-1374,2025-09-10,32,Compliance & Safety,Completed,100.0
+EMP-1375,2025-09-10,12,Compliance & Safety,Completed,55.7
+EMP-1376,2025-09-10,13,Leadership Accelerate,Completed,46.1
+EMP-1377,2025-09-10,10,Compliance & Safety,Incomplete,51.5
+EMP-1378,2025-09-10,18,Leadership Accelerate,Completed,71.0
+EMP-1379,2025-09-10,7,Compliance & Safety,Incomplete,45.2
+EMP-1380,2025-09-10,25,Technical Upskilling,Completed,76.2
+EMP-1381,2025-09-10,21,Technical Upskilling,Completed,70.2
+EMP-1382,2025-09-10,31,Technical Upskilling,Completed,84.0
+EMP-1383,2025-09-10,26,Leadership Accelerate,Completed,79.9
+EMP-1384,2025-09-10,30,Compliance & Safety,Completed,100.0
+EMP-1385,2025-09-10,1,Leadership Accelerate,Incomplete,10.0
+EMP-1386,2025-09-10,9,Leadership Accelerate,Incomplete,44.2
+EMP-1387,2025-09-10,25,Leadership Accelerate,Completed,88.3
+EMP-1388,2025-09-10,27,Compliance & Safety,Completed,76.5
+EMP-1389,2025-09-10,17,Technical Upskilling,Completed,63.5
+EMP-1390,2025-09-10,12,Technical Upskilling,Completed,66.5
+EMP-1391,2025-09-10,0,None,Incomplete,45.0
+EMP-1392,2025-09-10,0,Technical Upskilling,Incomplete,25.8
+EMP-1393,2025-09-10,18,Compliance & Safety,Completed,76.2
+EMP-1394,2025-09-10,16,Technical Upskilling,Completed,63.1
+EMP-1395,2025-09-10,24,Technical Upskilling,Completed,87.7
+EMP-1396,2025-09-10,24,Leadership Accelerate,Completed,90.9
+EMP-1397,2025-09-10,0,Compliance & Safety,Incomplete,36.9
+EMP-1398,2025-09-10,8,Compliance & Safety,Incomplete,42.5
+EMP-1399,2025-09-10,32,Compliance & Safety,Completed,100.0
+EMP-1400,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1401,2025-09-10,21,Leadership Accelerate,Completed,74.9
+EMP-1402,2025-09-10,17,Compliance & Safety,Completed,59.1
+EMP-1403,2025-09-10,27,Compliance & Safety,Completed,77.0
+EMP-1404,2025-09-10,21,Technical Upskilling,Completed,86.0
+EMP-1405,2025-09-10,32,Technical Upskilling,Completed,73.0
+EMP-1406,2025-09-10,28,Leadership Accelerate,Completed,80.8
+EMP-1407,2025-09-10,20,Leadership Accelerate,Completed,75.6
+EMP-1408,2025-09-10,13,Leadership Accelerate,Completed,78.0
+EMP-1409,2025-09-10,24,Technical Upskilling,Completed,77.6
+EMP-1410,2025-09-10,3,Leadership Accelerate,Incomplete,47.4
+EMP-1411,2025-09-10,30,Technical Upskilling,Completed,100.0
+EMP-1412,2025-09-10,33,Technical Upskilling,Completed,100.0
+EMP-1413,2025-09-10,33,Compliance & Safety,Completed,83.7
+EMP-1414,2025-09-10,13,Technical Upskilling,Completed,54.3
+EMP-1415,2025-09-10,21,Technical Upskilling,Completed,76.4
+EMP-1416,2025-09-10,10,Leadership Accelerate,Incomplete,52.8
+EMP-1417,2025-09-10,36,Technical Upskilling,Completed,100.0
+EMP-1418,2025-09-10,26,Leadership Accelerate,Completed,86.3
+EMP-1419,2025-09-10,0,Technical Upskilling,Incomplete,34.8
+EMP-1420,2025-09-10,7,Technical Upskilling,Incomplete,24.6
+EMP-1421,2025-09-10,14,Leadership Accelerate,Completed,67.3
+EMP-1422,2025-09-10,25,Leadership Accelerate,Completed,87.9
+EMP-1423,2025-09-10,9,Technical Upskilling,Incomplete,55.5
+EMP-1424,2025-09-10,38,Technical Upskilling,Completed,100.0
+EMP-1425,2025-09-10,27,Leadership Accelerate,Completed,95.4
+EMP-1426,2025-09-10,22,None,Completed,58.6
+EMP-1427,2025-09-10,18,None,Completed,61.1
+EMP-1428,2025-09-10,25,Technical Upskilling,Completed,100.0
+EMP-1429,2025-09-10,28,Leadership Accelerate,Completed,100.0
+EMP-1430,2025-09-10,29,None,Completed,90.6
+EMP-1431,2025-09-10,20,Compliance & Safety,Completed,77.5
+EMP-1432,2025-09-10,22,Leadership Accelerate,Completed,83.6
+EMP-1433,2025-09-10,8,Technical Upskilling,Incomplete,43.0
+EMP-1434,2025-09-10,10,Leadership Accelerate,Incomplete,47.9
+EMP-1435,2025-09-10,34,Technical Upskilling,Completed,100.0
+EMP-1436,2025-09-10,6,Technical Upskilling,Incomplete,38.4
+EMP-1437,2025-09-10,22,Compliance & Safety,Completed,79.1
+EMP-1438,2025-09-10,1,Compliance & Safety,Incomplete,33.3
+EMP-1439,2025-09-10,19,Leadership Accelerate,Completed,72.5
+EMP-1440,2025-09-10,42,Leadership Accelerate,Completed,100.0
+EMP-1441,2025-09-10,23,Compliance & Safety,Completed,92.7
+EMP-1442,2025-09-10,40,Technical Upskilling,Completed,100.0
+EMP-1443,2025-09-10,21,Leadership Accelerate,Completed,73.8
+EMP-1444,2025-09-10,26,Technical Upskilling,Completed,83.8
+EMP-1445,2025-09-10,4,Technical Upskilling,Incomplete,47.3
+EMP-1446,2025-09-10,32,Technical Upskilling,Completed,72.7
+EMP-1447,2025-09-10,7,Technical Upskilling,Incomplete,46.7
+EMP-1448,2025-09-10,42,Leadership Accelerate,Completed,100.0
+EMP-1449,2025-09-10,25,Leadership Accelerate,Completed,88.2
+EMP-1450,2025-09-10,0,Leadership Accelerate,Incomplete,16.9
+EMP-1451,2025-09-10,34,None,Completed,87.8
+EMP-1452,2025-09-10,29,Technical Upskilling,Completed,80.5
+EMP-1453,2025-09-10,0,Leadership Accelerate,Incomplete,12.0
+EMP-1454,2025-09-10,27,Leadership Accelerate,Completed,90.9
+EMP-1455,2025-09-10,33,Leadership Accelerate,Completed,97.9
+EMP-1456,2025-09-10,26,Technical Upskilling,Completed,93.5
+EMP-1457,2025-09-10,15,Leadership Accelerate,Completed,44.0
+EMP-1458,2025-09-10,17,Technical Upskilling,Completed,50.4
+EMP-1459,2025-09-10,11,Technical Upskilling,Completed,58.2
+EMP-1460,2025-09-10,12,Technical Upskilling,Completed,57.7
+EMP-1461,2025-09-10,12,Technical Upskilling,Completed,68.3
+EMP-1462,2025-09-10,30,None,Completed,100.0
+EMP-1463,2025-09-10,48,Compliance & Safety,Completed,100.0
+EMP-1464,2025-09-10,24,Technical Upskilling,Completed,92.7
+EMP-1465,2025-09-10,7,Compliance & Safety,Incomplete,30.2
+EMP-1466,2025-09-10,35,Compliance & Safety,Completed,100.0
+EMP-1467,2025-09-10,30,Technical Upskilling,Completed,100.0
+EMP-1468,2025-09-10,22,None,Completed,81.0
+EMP-1469,2025-09-10,20,Technical Upskilling,Completed,71.5
+EMP-1470,2025-09-10,7,Leadership Accelerate,Incomplete,45.7
+EMP-1471,2025-09-10,0,Compliance & Safety,Incomplete,33.2
+EMP-1472,2025-09-10,18,Compliance & Safety,Completed,46.3
+EMP-1473,2025-09-10,20,None,Completed,74.8
+EMP-1474,2025-09-10,17,Leadership Accelerate,Completed,66.9
+EMP-1475,2025-09-10,32,Technical Upskilling,Completed,86.9
+EMP-1476,2025-09-10,23,Technical Upskilling,Completed,97.6
+EMP-1477,2025-09-10,6,Leadership Accelerate,Incomplete,44.9
+EMP-1478,2025-09-10,19,Compliance & Safety,Completed,62.3
+EMP-1479,2025-09-10,18,Compliance & Safety,Completed,74.9
+EMP-1480,2025-09-10,26,Technical Upskilling,Completed,83.4
+EMP-1481,2025-09-10,25,Technical Upskilling,Completed,71.3
+EMP-1482,2025-09-10,6,Leadership Accelerate,Incomplete,42.6
+EMP-1483,2025-09-10,17,Compliance & Safety,Completed,76.4
+EMP-1484,2025-09-10,0,Technical Upskilling,Incomplete,36.9
+EMP-1485,2025-09-10,39,Technical Upskilling,Completed,100.0
+EMP-1486,2025-09-10,17,None,Completed,80.6
+EMP-1487,2025-09-10,21,Compliance & Safety,Completed,70.2
+EMP-1488,2025-09-10,20,None,Completed,75.5
+EMP-1489,2025-09-10,8,Compliance & Safety,Incomplete,49.1
+EMP-1490,2025-09-10,20,Technical Upskilling,Completed,66.9
+EMP-1491,2025-09-10,17,Compliance & Safety,Completed,70.1
+EMP-1492,2025-09-10,17,Technical Upskilling,Completed,64.1
+EMP-1493,2025-09-10,38,Technical Upskilling,Completed,100.0
+EMP-1494,2025-09-10,0,Compliance & Safety,Incomplete,25.0
+EMP-1495,2025-09-10,0,Leadership Accelerate,Incomplete,30.9
+EMP-1496,2025-09-10,27,Compliance & Safety,Completed,87.9
+EMP-1497,2025-09-10,2,Compliance & Safety,Incomplete,22.5
+EMP-1498,2025-09-10,18,Leadership Accelerate,Completed,54.9
+EMP-1499,2025-09-10,19,Technical Upskilling,Completed,84.2
+EMP-1500,2025-09-10,23,Leadership Accelerate,Completed,86.5
+EMP-1501,2025-09-10,12,Technical Upskilling,Completed,52.1
+EMP-1502,2025-09-10,16,Technical Upskilling,Completed,73.9
+EMP-1503,2025-09-10,21,None,Completed,76.7
+EMP-1504,2025-09-10,12,Leadership Accelerate,Completed,67.4
+EMP-1505,2025-09-10,21,Compliance & Safety,Completed,82.7
+EMP-1506,2025-09-10,16,Technical Upskilling,Completed,60.8
+EMP-1507,2025-09-10,19,Technical Upskilling,Completed,92.7
+EMP-1508,2025-09-10,16,Leadership Accelerate,Completed,45.3
+EMP-1509,2025-09-10,27,Leadership Accelerate,Completed,81.4
+EMP-1510,2025-09-10,21,Technical Upskilling,Completed,77.4
+EMP-1511,2025-09-10,1,None,Incomplete,32.4
+EMP-1512,2025-09-10,12,Compliance & Safety,Completed,44.9
+EMP-1513,2025-09-10,29,Compliance & Safety,Completed,88.7
+EMP-1514,2025-09-10,12,Leadership Accelerate,Completed,63.8
+EMP-1515,2025-09-10,29,Leadership Accelerate,Completed,98.7
+EMP-1516,2025-09-10,28,Technical Upskilling,Completed,89.0
+EMP-1517,2025-09-10,30,Technical Upskilling,Completed,80.7
+EMP-1518,2025-09-10,20,Compliance & Safety,Completed,77.4
+EMP-1519,2025-09-10,0,Leadership Accelerate,Incomplete,22.1
+EMP-1520,2025-09-10,31,Technical Upskilling,Completed,100.0
+EMP-1521,2025-09-10,3,Leadership Accelerate,Incomplete,30.9
+EMP-1522,2025-09-10,33,None,Completed,100.0
+EMP-1523,2025-09-10,1,Leadership Accelerate,Incomplete,19.7
+EMP-1524,2025-09-10,27,Compliance & Safety,Completed,100.0
+EMP-1525,2025-09-10,13,Leadership Accelerate,Completed,60.7
+EMP-1526,2025-09-10,37,Compliance & Safety,Completed,100.0
+EMP-1527,2025-09-10,28,Technical Upskilling,Completed,84.4
+EMP-1528,2025-09-10,14,Leadership Accelerate,Completed,56.6
+EMP-1529,2025-09-10,45,Leadership Accelerate,Completed,100.0
+EMP-1530,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1531,2025-09-10,0,Technical Upskilling,Incomplete,25.1
+EMP-1532,2025-09-10,14,Technical Upskilling,Completed,56.1
+EMP-1533,2025-09-10,31,Compliance & Safety,Completed,100.0
+EMP-1534,2025-09-10,13,Leadership Accelerate,Completed,55.2
+EMP-1535,2025-09-10,32,Compliance & Safety,Completed,96.0
+EMP-1536,2025-09-10,0,Technical Upskilling,Incomplete,26.1
+EMP-1537,2025-09-10,9,Compliance & Safety,Incomplete,58.6
+EMP-1538,2025-09-10,13,None,Completed,77.8
+EMP-1539,2025-09-10,13,Leadership Accelerate,Completed,47.7
+EMP-1540,2025-09-10,5,Leadership Accelerate,Incomplete,37.3
+EMP-1541,2025-09-10,13,Leadership Accelerate,Completed,65.4
+EMP-1542,2025-09-10,0,Leadership Accelerate,Incomplete,31.7
+EMP-1543,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1544,2025-09-10,0,Leadership Accelerate,Incomplete,37.6
+EMP-1545,2025-09-10,14,Technical Upskilling,Completed,67.9
+EMP-1546,2025-09-10,17,Compliance & Safety,Completed,54.0
+EMP-1547,2025-09-10,15,Compliance & Safety,Completed,70.2
+EMP-1548,2025-09-10,31,Technical Upskilling,Completed,97.2
+EMP-1549,2025-09-10,20,Compliance & Safety,Completed,67.5
+EMP-1550,2025-09-10,39,Technical Upskilling,Completed,100.0
+EMP-1551,2025-09-10,22,Compliance & Safety,Completed,52.6
+EMP-1552,2025-09-10,30,Compliance & Safety,Completed,98.8
+EMP-1553,2025-09-10,29,Leadership Accelerate,Completed,85.3
+EMP-1554,2025-09-10,22,Technical Upskilling,Completed,65.8
+EMP-1555,2025-09-10,6,Leadership Accelerate,Incomplete,36.1
+EMP-1556,2025-09-10,22,Leadership Accelerate,Completed,76.8
+EMP-1557,2025-09-10,32,Technical Upskilling,Completed,100.0
+EMP-1558,2025-09-10,19,None,Completed,70.5
+EMP-1559,2025-09-10,0,None,Incomplete,43.3
+EMP-1560,2025-09-10,7,Technical Upskilling,Incomplete,34.9
+EMP-1561,2025-09-10,17,Technical Upskilling,Completed,70.4
+EMP-1562,2025-09-10,33,Technical Upskilling,Completed,96.5
+EMP-1563,2025-09-10,16,Technical Upskilling,Completed,73.8
+EMP-1564,2025-09-10,27,Technical Upskilling,Completed,94.1
+EMP-1565,2025-09-10,22,Technical Upskilling,Completed,95.5
+EMP-1566,2025-09-10,29,Technical Upskilling,Completed,90.7
+EMP-1567,2025-09-10,29,Leadership Accelerate,Completed,100.0
+EMP-1568,2025-09-10,1,Leadership Accelerate,Incomplete,18.9
+EMP-1569,2025-09-10,42,Leadership Accelerate,Completed,100.0
+EMP-1570,2025-09-10,11,Technical Upskilling,Completed,51.7
+EMP-1571,2025-09-10,6,None,Incomplete,37.0
+EMP-1572,2025-09-10,9,Compliance & Safety,Incomplete,43.5
+EMP-1573,2025-09-10,13,None,Completed,52.3
+EMP-1574,2025-09-10,35,Leadership Accelerate,Completed,100.0
+EMP-1575,2025-09-10,24,Compliance & Safety,Completed,100.0
+EMP-1576,2025-09-10,18,Technical Upskilling,Completed,56.9
+EMP-1577,2025-09-10,32,Leadership Accelerate,Completed,100.0
+EMP-1578,2025-09-10,14,Technical Upskilling,Completed,78.8
+EMP-1579,2025-09-10,22,Technical Upskilling,Completed,75.9
+EMP-1580,2025-09-10,0,Compliance & Safety,Incomplete,25.8
+EMP-1581,2025-09-10,37,Technical Upskilling,Completed,100.0
+EMP-1582,2025-09-10,30,Leadership Accelerate,Completed,94.5
+EMP-1583,2025-09-10,21,Leadership Accelerate,Completed,67.4
+EMP-1584,2025-09-10,17,Compliance & Safety,Completed,54.5
+EMP-1585,2025-09-10,8,Technical Upskilling,Incomplete,54.0
+EMP-1586,2025-09-10,7,Leadership Accelerate,Incomplete,42.5
+EMP-1587,2025-09-10,29,None,Completed,93.9
+EMP-1588,2025-09-10,27,Leadership Accelerate,Completed,100.0
+EMP-1589,2025-09-10,0,Compliance & Safety,Incomplete,25.9
+EMP-1590,2025-09-10,11,Leadership Accelerate,Completed,62.3
+EMP-1591,2025-09-10,20,Leadership Accelerate,Completed,69.6
+EMP-1592,2025-09-10,2,Compliance & Safety,Incomplete,25.2
+EMP-1593,2025-09-10,24,Leadership Accelerate,Completed,83.2
+EMP-1594,2025-09-10,14,Technical Upskilling,Completed,62.4
+EMP-1595,2025-09-10,24,Technical Upskilling,Completed,80.8
+EMP-1596,2025-09-10,14,Compliance & Safety,Completed,74.5
+EMP-1597,2025-09-10,38,Leadership Accelerate,Completed,100.0
+EMP-1598,2025-09-10,15,Leadership Accelerate,Completed,64.2
+EMP-1599,2025-09-10,4,Technical Upskilling,Incomplete,32.1
+EMP-1600,2025-09-10,20,None,Completed,88.8
+EMP-1601,2025-09-10,0,Technical Upskilling,Incomplete,45.0
+EMP-1602,2025-09-10,13,Compliance & Safety,Completed,60.1
+EMP-1603,2025-09-10,32,Technical Upskilling,Completed,100.0
+EMP-1604,2025-09-10,12,Technical Upskilling,Completed,51.4
+EMP-1605,2025-09-10,13,Compliance & Safety,Completed,77.4
+EMP-1606,2025-09-10,33,None,Completed,100.0
+EMP-1607,2025-09-10,29,Technical Upskilling,Completed,93.5
+EMP-1608,2025-09-10,14,Technical Upskilling,Completed,53.8
+EMP-1609,2025-09-10,30,Leadership Accelerate,Completed,88.2
+EMP-1610,2025-09-10,16,Leadership Accelerate,Completed,74.1
+EMP-1611,2025-09-10,17,None,Completed,55.6
+EMP-1612,2025-09-10,23,Technical Upskilling,Completed,75.7
+EMP-1613,2025-09-10,43,Technical Upskilling,Completed,100.0
+EMP-1614,2025-09-10,38,Leadership Accelerate,Completed,100.0
+EMP-1615,2025-09-10,19,Compliance & Safety,Completed,73.8
+EMP-1616,2025-09-10,17,Leadership Accelerate,Completed,72.1
+EMP-1617,2025-09-10,32,Leadership Accelerate,Completed,94.3
+EMP-1618,2025-09-10,15,Compliance & Safety,Completed,77.4
+EMP-1619,2025-09-10,9,None,Incomplete,50.1
+EMP-1620,2025-09-10,16,Leadership Accelerate,Completed,69.0
+EMP-1621,2025-09-10,25,Technical Upskilling,Completed,70.2
+EMP-1622,2025-09-10,8,Technical Upskilling,Incomplete,44.2
+EMP-1623,2025-09-10,34,None,Completed,97.7
+EMP-1624,2025-09-10,17,Leadership Accelerate,Completed,74.4
+EMP-1625,2025-09-10,12,Leadership Accelerate,Completed,60.8
+EMP-1626,2025-09-10,28,Compliance & Safety,Completed,85.1
+EMP-1627,2025-09-10,16,Technical Upskilling,Completed,71.2
+EMP-1628,2025-09-10,38,Technical Upskilling,Completed,100.0
+EMP-1629,2025-09-10,5,Technical Upskilling,Incomplete,39.2
+EMP-1630,2025-09-10,0,Leadership Accelerate,Incomplete,44.8
+EMP-1631,2025-09-10,43,Compliance & Safety,Completed,100.0
+EMP-1632,2025-09-10,32,Technical Upskilling,Completed,100.0
+EMP-1633,2025-09-10,47,None,Completed,100.0
+EMP-1634,2025-09-10,0,Technical Upskilling,Incomplete,36.3
+EMP-1635,2025-09-10,17,Technical Upskilling,Completed,63.8
+EMP-1636,2025-09-10,19,Compliance & Safety,Completed,82.5
+EMP-1637,2025-09-10,0,Compliance & Safety,Incomplete,31.5
+EMP-1638,2025-09-10,12,Compliance & Safety,Completed,54.5
+EMP-1639,2025-09-10,27,Compliance & Safety,Completed,89.5
+EMP-1640,2025-09-10,11,Technical Upskilling,Completed,49.3
+EMP-1641,2025-09-10,36,Technical Upskilling,Completed,100.0
+EMP-1642,2025-09-10,19,Technical Upskilling,Completed,80.4
+EMP-1643,2025-09-10,18,Technical Upskilling,Completed,47.9
+EMP-1644,2025-09-10,12,Compliance & Safety,Completed,53.4
+EMP-1645,2025-09-10,23,Compliance & Safety,Completed,74.3
+EMP-1646,2025-09-10,23,Technical Upskilling,Completed,73.2
+EMP-1647,2025-09-10,18,Technical Upskilling,Completed,71.7
+EMP-1648,2025-09-10,31,Leadership Accelerate,Completed,81.8
+EMP-1649,2025-09-10,22,Leadership Accelerate,Completed,86.1
+EMP-1650,2025-09-10,13,Compliance & Safety,Completed,68.3
+EMP-1651,2025-09-10,25,None,Completed,71.5
+EMP-1652,2025-09-10,11,Compliance & Safety,Completed,52.7
+EMP-1653,2025-09-10,0,Technical Upskilling,Incomplete,51.5
+EMP-1654,2025-09-10,0,Technical Upskilling,Incomplete,18.2
+EMP-1655,2025-09-10,17,Compliance & Safety,Completed,74.2
+EMP-1656,2025-09-10,12,Leadership Accelerate,Completed,65.9
+EMP-1657,2025-09-10,19,None,Completed,72.9
+EMP-1658,2025-09-10,27,Technical Upskilling,Completed,87.8
+EMP-1659,2025-09-10,10,Technical Upskilling,Incomplete,60.9
+EMP-1660,2025-09-10,26,Compliance & Safety,Completed,80.9
+EMP-1661,2025-09-10,29,Compliance & Safety,Completed,93.8
+EMP-1662,2025-09-10,21,Technical Upskilling,Completed,66.8
+EMP-1663,2025-09-10,36,Leadership Accelerate,Completed,96.7
+EMP-1664,2025-09-10,30,Leadership Accelerate,Completed,100.0
+EMP-1665,2025-09-10,23,Technical Upskilling,Completed,86.0
+EMP-1666,2025-09-10,0,None,Incomplete,35.5
+EMP-1667,2025-09-10,0,Technical Upskilling,Incomplete,26.7
+EMP-1668,2025-09-10,18,Compliance & Safety,Completed,74.8
+EMP-1669,2025-09-10,15,Leadership Accelerate,Completed,57.0
+EMP-1670,2025-09-10,7,Leadership Accelerate,Incomplete,47.8
+EMP-1671,2025-09-10,13,Leadership Accelerate,Completed,46.0
+EMP-1672,2025-09-10,14,Leadership Accelerate,Completed,67.9
+EMP-1673,2025-09-10,33,Compliance & Safety,Completed,100.0
+EMP-1674,2025-09-10,7,Technical Upskilling,Incomplete,53.9
+EMP-1675,2025-09-10,22,None,Completed,83.8
+EMP-1676,2025-09-10,32,Compliance & Safety,Completed,98.8
+EMP-1677,2025-09-10,19,Compliance & Safety,Completed,76.7
+EMP-1678,2025-09-10,15,Technical Upskilling,Completed,70.7
+EMP-1679,2025-09-10,24,Technical Upskilling,Completed,93.5
+EMP-1680,2025-09-10,14,Leadership Accelerate,Completed,66.1
+EMP-1681,2025-09-10,42,Technical Upskilling,Completed,100.0
+EMP-1682,2025-09-10,12,Compliance & Safety,Completed,52.1
+EMP-1683,2025-09-10,32,Compliance & Safety,Completed,97.5
+EMP-1684,2025-09-10,28,Compliance & Safety,Completed,89.7
+EMP-1685,2025-09-10,27,Technical Upskilling,Completed,85.0
+EMP-1686,2025-09-10,28,Technical Upskilling,Completed,90.3
+EMP-1687,2025-09-10,34,Technical Upskilling,Completed,100.0
+EMP-1688,2025-09-10,18,Technical Upskilling,Completed,67.8
+EMP-1689,2025-09-10,25,Technical Upskilling,Completed,84.2
+EMP-1690,2025-09-10,9,Compliance & Safety,Incomplete,49.6
+EMP-1691,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1692,2025-09-10,23,Technical Upskilling,Completed,65.1
+EMP-1693,2025-09-10,26,Leadership Accelerate,Completed,92.8
+EMP-1694,2025-09-10,18,Compliance & Safety,Completed,82.4
+EMP-1695,2025-09-10,11,Compliance & Safety,Completed,48.4
+EMP-1696,2025-09-10,6,Technical Upskilling,Incomplete,51.0
+EMP-1697,2025-09-10,3,Compliance & Safety,Incomplete,27.2
+EMP-1698,2025-09-10,37,None,Completed,100.0
+EMP-1699,2025-09-10,36,Compliance & Safety,Completed,91.6
+EMP-1700,2025-09-10,37,Leadership Accelerate,Completed,100.0
+EMP-1701,2025-09-10,26,Leadership Accelerate,Completed,97.0
+EMP-1702,2025-09-10,20,Compliance & Safety,Completed,75.3
+EMP-1703,2025-09-10,44,Compliance & Safety,Completed,100.0
+EMP-1704,2025-09-10,7,Compliance & Safety,Incomplete,60.0
+EMP-1705,2025-09-10,16,Technical Upskilling,Completed,63.7
+EMP-1706,2025-09-10,29,Leadership Accelerate,Completed,93.3
+EMP-1707,2025-09-10,11,Technical Upskilling,Completed,53.8
+EMP-1708,2025-09-10,25,Leadership Accelerate,Completed,90.3
+EMP-1709,2025-09-10,14,Leadership Accelerate,Completed,53.7
+EMP-1710,2025-09-10,4,Compliance & Safety,Incomplete,24.1
+EMP-1711,2025-09-10,28,Technical Upskilling,Completed,79.6
+EMP-1712,2025-09-10,29,Technical Upskilling,Completed,100.0
+EMP-1713,2025-09-10,42,Technical Upskilling,Completed,94.8
+EMP-1714,2025-09-10,4,Leadership Accelerate,Incomplete,38.8
+EMP-1715,2025-09-10,0,Technical Upskilling,Incomplete,40.3
+EMP-1716,2025-09-10,9,Leadership Accelerate,Incomplete,51.5
+EMP-1717,2025-09-10,33,None,Completed,100.0
+EMP-1718,2025-09-10,24,Leadership Accelerate,Completed,78.4
+EMP-1719,2025-09-10,31,Technical Upskilling,Completed,96.4
+EMP-1720,2025-09-10,25,Technical Upskilling,Completed,83.1
+EMP-1721,2025-09-10,16,Technical Upskilling,Completed,65.7
+EMP-1722,2025-09-10,14,Leadership Accelerate,Completed,51.8
+EMP-1723,2025-09-10,27,Leadership Accelerate,Completed,95.9
+EMP-1724,2025-09-10,31,Leadership Accelerate,Completed,83.3
+EMP-1725,2025-09-10,13,Leadership Accelerate,Completed,54.6
+EMP-1726,2025-09-10,6,Technical Upskilling,Incomplete,36.1
+EMP-1727,2025-09-10,28,Leadership Accelerate,Completed,78.7
+EMP-1728,2025-09-10,23,Compliance & Safety,Completed,69.3
+EMP-1729,2025-09-10,22,Technical Upskilling,Completed,83.5
+EMP-1730,2025-09-10,24,Technical Upskilling,Completed,74.8
+EMP-1731,2025-09-10,27,Technical Upskilling,Completed,88.7
+EMP-1732,2025-09-10,8,Leadership Accelerate,Incomplete,65.2
+EMP-1733,2025-09-10,20,Leadership Accelerate,Completed,69.2
+EMP-1734,2025-09-10,23,None,Completed,67.3
+EMP-1735,2025-09-10,21,Leadership Accelerate,Completed,79.1
+EMP-1736,2025-09-10,5,Compliance & Safety,Incomplete,55.2
+EMP-1737,2025-09-10,0,Technical Upskilling,Incomplete,33.8
+EMP-1738,2025-09-10,9,Leadership Accelerate,Incomplete,37.8
+EMP-1739,2025-09-10,9,Compliance & Safety,Incomplete,50.2
+EMP-1740,2025-09-10,0,Leadership Accelerate,Incomplete,15.5
+EMP-1741,2025-09-10,22,Compliance & Safety,Completed,82.2
+EMP-1742,2025-09-10,9,Leadership Accelerate,Incomplete,49.7
+EMP-1743,2025-09-10,20,Leadership Accelerate,Completed,61.8
+EMP-1744,2025-09-10,4,Technical Upskilling,Incomplete,54.5
+EMP-1745,2025-09-10,4,Technical Upskilling,Incomplete,38.3
+EMP-1746,2025-09-10,20,Technical Upskilling,Completed,73.6
+EMP-1747,2025-09-10,30,None,Completed,100.0
+EMP-1748,2025-09-10,23,Technical Upskilling,Completed,85.8
+EMP-1749,2025-09-10,20,Technical Upskilling,Completed,80.9
+EMP-1750,2025-09-10,18,Leadership Accelerate,Completed,66.9
+EMP-1751,2025-09-10,13,Compliance & Safety,Completed,59.6
+EMP-1752,2025-09-10,16,Leadership Accelerate,Completed,56.4
+EMP-1753,2025-09-10,19,Technical Upskilling,Completed,83.5
+EMP-1754,2025-09-10,42,Technical Upskilling,Completed,100.0
+EMP-1755,2025-09-10,17,Leadership Accelerate,Completed,67.5
+EMP-1756,2025-09-10,4,Technical Upskilling,Incomplete,28.8
+EMP-1757,2025-09-10,18,Technical Upskilling,Completed,68.9
+EMP-1758,2025-09-10,8,Compliance & Safety,Incomplete,44.8
+EMP-1759,2025-09-10,24,Technical Upskilling,Completed,83.7
+EMP-1760,2025-09-10,30,Technical Upskilling,Completed,100.0
+EMP-1761,2025-09-10,44,Technical Upskilling,Completed,100.0
+EMP-1762,2025-09-10,16,Technical Upskilling,Completed,65.8
+EMP-1763,2025-09-10,30,Technical Upskilling,Completed,87.7
+EMP-1764,2025-09-10,24,Leadership Accelerate,Completed,100.0
+EMP-1765,2025-09-10,12,Leadership Accelerate,Completed,66.3
+EMP-1766,2025-09-10,0,Technical Upskilling,Incomplete,11.5
+EMP-1767,2025-09-10,9,Technical Upskilling,Incomplete,60.4
+EMP-1768,2025-09-10,13,Technical Upskilling,Completed,73.3
+EMP-1769,2025-09-10,20,Compliance & Safety,Completed,85.8
+EMP-1770,2025-09-10,32,Technical Upskilling,Completed,92.4
+EMP-1771,2025-09-10,12,Technical Upskilling,Completed,51.2
+EMP-1772,2025-09-10,31,Leadership Accelerate,Completed,96.3
+EMP-1773,2025-09-10,8,Technical Upskilling,Incomplete,47.0
+EMP-1774,2025-09-10,26,Technical Upskilling,Completed,80.7
+EMP-1775,2025-09-10,29,Compliance & Safety,Completed,100.0
+EMP-1776,2025-09-10,5,Technical Upskilling,Incomplete,34.1
+EMP-1777,2025-09-10,0,Compliance & Safety,Incomplete,40.3
+EMP-1778,2025-09-10,24,Compliance & Safety,Completed,54.1
+EMP-1779,2025-09-10,13,Technical Upskilling,Completed,78.1
+EMP-1780,2025-09-10,16,Technical Upskilling,Completed,72.4
+EMP-1781,2025-09-10,22,Technical Upskilling,Completed,80.6
+EMP-1782,2025-09-10,16,Compliance & Safety,Completed,58.3
+EMP-1783,2025-09-10,23,Technical Upskilling,Completed,75.5
+EMP-1784,2025-09-10,31,Leadership Accelerate,Completed,92.5
+EMP-1785,2025-09-10,5,Leadership Accelerate,Incomplete,37.4
+EMP-1786,2025-09-10,24,Technical Upskilling,Completed,89.1
+EMP-1787,2025-09-10,11,None,Completed,56.2
+EMP-1788,2025-09-10,15,Compliance & Safety,Completed,58.4
+EMP-1789,2025-09-10,20,None,Completed,72.8
+EMP-1790,2025-09-10,32,None,Completed,100.0
+EMP-1791,2025-09-10,31,Compliance & Safety,Completed,96.0
+EMP-1792,2025-09-10,10,Compliance & Safety,Incomplete,60.0
+EMP-1793,2025-09-10,14,Compliance & Safety,Completed,65.0
+EMP-1794,2025-09-10,27,Technical Upskilling,Completed,84.0
+EMP-1795,2025-09-10,32,None,Completed,100.0
+EMP-1796,2025-09-10,31,Compliance & Safety,Completed,100.0
+EMP-1797,2025-09-10,20,Technical Upskilling,Completed,80.4
+EMP-1798,2025-09-10,14,Compliance & Safety,Completed,50.9
+EMP-1799,2025-09-10,0,Compliance & Safety,Incomplete,17.0
+EMP-1800,2025-09-10,28,Leadership Accelerate,Completed,93.4
+EMP-1801,2025-09-10,28,Technical Upskilling,Completed,75.2
+EMP-1802,2025-09-10,0,None,Incomplete,38.0
+EMP-1803,2025-09-10,19,Leadership Accelerate,Completed,67.3
+EMP-1804,2025-09-10,41,Technical Upskilling,Completed,100.0
+EMP-1805,2025-09-10,0,Leadership Accelerate,Incomplete,10.0
+EMP-1806,2025-09-10,17,None,Completed,59.2
+EMP-1807,2025-09-10,1,Leadership Accelerate,Incomplete,21.5
+EMP-1808,2025-09-10,39,Technical Upskilling,Completed,100.0
+EMP-1809,2025-09-10,0,Technical Upskilling,Incomplete,28.0
+EMP-1810,2025-09-10,2,None,Incomplete,43.4
+EMP-1811,2025-09-10,29,Technical Upskilling,Completed,93.8
+EMP-1812,2025-09-10,18,None,Completed,63.5
+EMP-1813,2025-09-10,27,Technical Upskilling,Completed,100.0
+EMP-1814,2025-09-10,7,Technical Upskilling,Incomplete,56.6
+EMP-1815,2025-09-10,43,Leadership Accelerate,Completed,100.0
+EMP-1816,2025-09-10,18,Technical Upskilling,Completed,83.4
+EMP-1817,2025-09-10,0,Leadership Accelerate,Incomplete,18.7
+EMP-1818,2025-09-10,8,Technical Upskilling,Incomplete,45.4
+EMP-1819,2025-09-10,5,Technical Upskilling,Incomplete,30.4
+EMP-1820,2025-09-10,30,Technical Upskilling,Completed,100.0
+EMP-1821,2025-09-10,23,Compliance & Safety,Completed,76.9
+EMP-1822,2025-09-10,39,Technical Upskilling,Completed,100.0
+EMP-1823,2025-09-10,27,Leadership Accelerate,Completed,95.0
+EMP-1824,2025-09-10,4,Compliance & Safety,Incomplete,37.8
+EMP-1825,2025-09-10,4,Leadership Accelerate,Incomplete,45.4
+EMP-1826,2025-09-10,24,Technical Upskilling,Completed,83.6
+EMP-1827,2025-09-10,14,Technical Upskilling,Completed,48.9
+EMP-1828,2025-09-10,36,Compliance & Safety,Completed,100.0
+EMP-1829,2025-09-10,11,Compliance & Safety,Completed,53.7
+EMP-1830,2025-09-10,0,Compliance & Safety,Incomplete,37.8
+EMP-1831,2025-09-10,10,Compliance & Safety,Incomplete,44.1
+EMP-1832,2025-09-10,27,Technical Upskilling,Completed,79.4
+EMP-1833,2025-09-10,34,Leadership Accelerate,Completed,88.8
+EMP-1834,2025-09-10,26,Technical Upskilling,Completed,93.9
+EMP-1835,2025-09-10,32,Leadership Accelerate,Completed,88.3
+EMP-1836,2025-09-10,36,Leadership Accelerate,Completed,100.0
+EMP-1837,2025-09-10,63,None,Completed,100.0
+EMP-1838,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1839,2025-09-10,21,Leadership Accelerate,Completed,67.5
+EMP-1840,2025-09-10,11,Compliance & Safety,Completed,50.1
+EMP-1841,2025-09-10,42,Technical Upskilling,Completed,100.0
+EMP-1842,2025-09-10,11,Leadership Accelerate,Completed,45.8
+EMP-1843,2025-09-10,27,Technical Upskilling,Completed,83.4
+EMP-1844,2025-09-10,34,Compliance & Safety,Completed,100.0
+EMP-1845,2025-09-10,10,Technical Upskilling,Incomplete,62.7
+EMP-1846,2025-09-10,18,Leadership Accelerate,Completed,83.0
+EMP-1847,2025-09-10,13,Leadership Accelerate,Completed,67.6
+EMP-1848,2025-09-10,22,Technical Upskilling,Completed,86.8
+EMP-1849,2025-09-10,20,Leadership Accelerate,Completed,64.2
+EMP-1850,2025-09-10,19,Leadership Accelerate,Completed,90.2
+EMP-1851,2025-09-10,6,Compliance & Safety,Incomplete,43.8
+EMP-1852,2025-09-10,31,None,Completed,82.3
+EMP-1853,2025-09-10,11,Leadership Accelerate,Completed,42.9
+EMP-1854,2025-09-10,20,Technical Upskilling,Completed,74.8
+EMP-1855,2025-09-10,45,Compliance & Safety,Completed,100.0
+EMP-1856,2025-09-10,21,Technical Upskilling,Completed,72.0
+EMP-1857,2025-09-10,25,Technical Upskilling,Completed,100.0
+EMP-1858,2025-09-10,13,Leadership Accelerate,Completed,52.9
+EMP-1859,2025-09-10,0,None,Incomplete,13.9
+EMP-1860,2025-09-10,13,Technical Upskilling,Completed,60.8
+EMP-1861,2025-09-10,32,None,Completed,94.8
+EMP-1862,2025-09-10,38,Technical Upskilling,Completed,100.0
+EMP-1863,2025-09-10,21,Leadership Accelerate,Completed,65.6
+EMP-1864,2025-09-10,21,Compliance & Safety,Completed,86.6
+EMP-1865,2025-09-10,17,None,Completed,76.8
+EMP-1866,2025-09-10,19,Leadership Accelerate,Completed,88.2
+EMP-1867,2025-09-10,17,Compliance & Safety,Completed,63.6
+EMP-1868,2025-09-10,25,Technical Upskilling,Completed,90.4
+EMP-1869,2025-09-10,24,Technical Upskilling,Completed,81.6
+EMP-1870,2025-09-10,13,None,Completed,66.2
+EMP-1871,2025-09-10,16,Compliance & Safety,Completed,47.7
+EMP-1872,2025-09-10,41,Technical Upskilling,Completed,100.0
+EMP-1873,2025-09-10,3,Technical Upskilling,Incomplete,32.8
+EMP-1874,2025-09-10,39,Leadership Accelerate,Completed,100.0
+EMP-1875,2025-09-10,24,Leadership Accelerate,Completed,94.1
+EMP-1876,2025-09-10,0,Technical Upskilling,Incomplete,27.3
+EMP-1877,2025-09-10,39,Technical Upskilling,Completed,100.0
+EMP-1878,2025-09-10,41,Compliance & Safety,Completed,100.0
+EMP-1879,2025-09-10,14,Leadership Accelerate,Completed,50.3
+EMP-1880,2025-09-10,20,Leadership Accelerate,Completed,74.0
+EMP-1881,2025-09-10,10,Technical Upskilling,Incomplete,31.0
+EMP-1882,2025-09-10,14,Technical Upskilling,Completed,55.3
+EMP-1883,2025-09-10,36,None,Completed,100.0
+EMP-1884,2025-09-10,3,Compliance & Safety,Incomplete,32.4
+EMP-1885,2025-09-10,20,Compliance & Safety,Completed,64.2
+EMP-1886,2025-09-10,22,Leadership Accelerate,Completed,70.2
+EMP-1887,2025-09-10,11,Technical Upskilling,Completed,42.5
+EMP-1888,2025-09-10,28,Compliance & Safety,Completed,88.7
+EMP-1889,2025-09-10,20,Leadership Accelerate,Completed,66.8
+EMP-1890,2025-09-10,20,Technical Upskilling,Completed,74.1
+EMP-1891,2025-09-10,15,Leadership Accelerate,Completed,51.9
+EMP-1892,2025-09-10,38,Compliance & Safety,Completed,100.0
+EMP-1893,2025-09-10,0,Technical Upskilling,Incomplete,46.7
+EMP-1894,2025-09-10,0,Technical Upskilling,Incomplete,16.5
+EMP-1895,2025-09-10,7,None,Incomplete,46.2
+EMP-1896,2025-09-10,24,Leadership Accelerate,Completed,65.1
+EMP-1897,2025-09-10,28,Compliance & Safety,Completed,90.9
+EMP-1898,2025-09-10,0,Technical Upskilling,Incomplete,30.8
+EMP-1899,2025-09-10,9,Compliance & Safety,Incomplete,31.2
+EMP-1900,2025-09-10,10,Technical Upskilling,Incomplete,44.7
+EMP-1901,2025-09-10,29,Technical Upskilling,Completed,89.1
+EMP-1902,2025-09-10,25,Technical Upskilling,Completed,74.2
+EMP-1903,2025-09-10,11,Compliance & Safety,Completed,61.8
+EMP-1904,2025-09-10,35,Leadership Accelerate,Completed,100.0
+EMP-1905,2025-09-10,20,Technical Upskilling,Completed,64.7
+EMP-1906,2025-09-10,15,Technical Upskilling,Completed,76.8
+EMP-1907,2025-09-10,0,Compliance & Safety,Incomplete,19.3
+EMP-1908,2025-09-10,27,Technical Upskilling,Completed,87.9
+EMP-1909,2025-09-10,5,Compliance & Safety,Incomplete,51.4
+EMP-1910,2025-09-10,48,Technical Upskilling,Completed,100.0
+EMP-1911,2025-09-10,2,Leadership Accelerate,Incomplete,44.8
+EMP-1912,2025-09-10,19,Technical Upskilling,Completed,76.3
+EMP-1913,2025-09-10,17,Compliance & Safety,Completed,68.6
+EMP-1914,2025-09-10,28,None,Completed,77.1
+EMP-1915,2025-09-10,22,Compliance & Safety,Completed,70.9
+EMP-1916,2025-09-10,26,Leadership Accelerate,Completed,90.4
+EMP-1917,2025-09-10,0,Technical Upskilling,Incomplete,25.9
+EMP-1918,2025-09-10,6,None,Incomplete,48.8
+EMP-1919,2025-09-10,27,Leadership Accelerate,Completed,87.5
+EMP-1920,2025-09-10,19,Leadership Accelerate,Completed,85.7
+EMP-1921,2025-09-10,5,Technical Upskilling,Incomplete,39.7
+EMP-1922,2025-09-10,31,Compliance & Safety,Completed,88.3
+EMP-1923,2025-09-10,12,Compliance & Safety,Completed,51.5
+EMP-1924,2025-09-10,15,None,Completed,48.7
+EMP-1925,2025-09-10,20,None,Completed,92.6
+EMP-1926,2025-09-10,31,Leadership Accelerate,Completed,98.9
+EMP-1927,2025-09-10,34,Leadership Accelerate,Completed,98.4
+EMP-1928,2025-09-10,8,Technical Upskilling,Incomplete,54.1
+EMP-1929,2025-09-10,23,Leadership Accelerate,Completed,80.3
+EMP-1930,2025-09-10,36,Technical Upskilling,Completed,98.8
+EMP-1931,2025-09-10,15,Compliance & Safety,Completed,74.6
+EMP-1932,2025-09-10,24,Leadership Accelerate,Completed,89.9
+EMP-1933,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1934,2025-09-10,29,Technical Upskilling,Completed,98.6
+EMP-1935,2025-09-10,28,Technical Upskilling,Completed,95.9
+EMP-1936,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1937,2025-09-10,28,Technical Upskilling,Completed,99.1
+EMP-1938,2025-09-10,25,Compliance & Safety,Completed,92.6
+EMP-1939,2025-09-10,17,Technical Upskilling,Completed,67.5
+EMP-1940,2025-09-10,7,Leadership Accelerate,Incomplete,47.4
+EMP-1941,2025-09-10,12,Technical Upskilling,Completed,59.2
+EMP-1942,2025-09-10,28,Compliance & Safety,Completed,90.6
+EMP-1943,2025-09-10,16,Leadership Accelerate,Completed,55.8
+EMP-1944,2025-09-10,19,Compliance & Safety,Completed,74.4
+EMP-1945,2025-09-10,19,None,Completed,78.5
+EMP-1946,2025-09-10,18,Leadership Accelerate,Completed,67.3
+EMP-1947,2025-09-10,27,Compliance & Safety,Completed,90.6
+EMP-1948,2025-09-10,25,Leadership Accelerate,Completed,78.2
+EMP-1949,2025-09-10,0,Technical Upskilling,Incomplete,10.0
+EMP-1950,2025-09-10,16,Technical Upskilling,Completed,70.4
+EMP-1951,2025-09-10,7,Technical Upskilling,Incomplete,38.1
+EMP-1952,2025-09-10,24,Compliance & Safety,Completed,96.4
+EMP-1953,2025-09-10,0,Leadership Accelerate,Incomplete,29.6
+EMP-1954,2025-09-10,15,Technical Upskilling,Completed,51.8
+EMP-1955,2025-09-10,1,Compliance & Safety,Incomplete,21.7
+EMP-1956,2025-09-10,7,Compliance & Safety,Incomplete,50.4
+EMP-1957,2025-09-10,18,Compliance & Safety,Completed,75.3
+EMP-1958,2025-09-10,28,Leadership Accelerate,Completed,100.0
+EMP-1959,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1960,2025-09-10,23,Technical Upskilling,Completed,84.0
+EMP-1961,2025-09-10,41,Compliance & Safety,Completed,100.0
+EMP-1962,2025-09-10,23,Technical Upskilling,Completed,58.2
+EMP-1963,2025-09-10,23,None,Completed,87.4
+EMP-1964,2025-09-10,29,Technical Upskilling,Completed,100.0
+EMP-1965,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-1966,2025-09-10,0,Technical Upskilling,Incomplete,43.7
+EMP-1967,2025-09-10,0,Compliance & Safety,Incomplete,19.3
+EMP-1968,2025-09-10,9,Leadership Accelerate,Incomplete,44.1
+EMP-1969,2025-09-10,2,Technical Upskilling,Incomplete,43.0
+EMP-1970,2025-09-10,9,Technical Upskilling,Incomplete,39.0
+EMP-1971,2025-09-10,6,Technical Upskilling,Incomplete,48.5
+EMP-1972,2025-09-10,14,Compliance & Safety,Completed,55.0
+EMP-1973,2025-09-10,12,Leadership Accelerate,Completed,43.5
+EMP-1974,2025-09-10,25,Leadership Accelerate,Completed,97.0
+EMP-1975,2025-09-10,16,None,Completed,43.3
+EMP-1976,2025-09-10,23,Compliance & Safety,Completed,77.1
+EMP-1977,2025-09-10,2,Compliance & Safety,Incomplete,33.0
+EMP-1978,2025-09-10,0,Technical Upskilling,Incomplete,38.2
+EMP-1979,2025-09-10,38,Leadership Accelerate,Completed,100.0
+EMP-1980,2025-09-10,2,Technical Upskilling,Incomplete,35.6
+EMP-1981,2025-09-10,29,Technical Upskilling,Completed,91.2
+EMP-1982,2025-09-10,0,Technical Upskilling,Incomplete,32.0
+EMP-1983,2025-09-10,34,Technical Upskilling,Completed,100.0
+EMP-1984,2025-09-10,20,Technical Upskilling,Completed,64.6
+EMP-1985,2025-09-10,20,Compliance & Safety,Completed,82.4
+EMP-1986,2025-09-10,15,Compliance & Safety,Completed,70.4
+EMP-1987,2025-09-10,27,Leadership Accelerate,Completed,84.1
+EMP-1988,2025-09-10,32,None,Completed,100.0
+EMP-1989,2025-09-10,19,Technical Upskilling,Completed,75.0
+EMP-1990,2025-09-10,5,Leadership Accelerate,Incomplete,61.3
+EMP-1991,2025-09-10,15,Leadership Accelerate,Completed,71.5
+EMP-1992,2025-09-10,7,Technical Upskilling,Incomplete,33.3
+EMP-1993,2025-09-10,23,Technical Upskilling,Completed,70.6
+EMP-1994,2025-09-10,5,Compliance & Safety,Incomplete,43.5
+EMP-1995,2025-09-10,31,Technical Upskilling,Completed,100.0
+EMP-1996,2025-09-10,17,Technical Upskilling,Completed,66.6
+EMP-1997,2025-09-10,16,Leadership Accelerate,Completed,60.2
+EMP-1998,2025-09-10,7,Technical Upskilling,Incomplete,37.2
+EMP-1999,2025-09-10,0,Compliance & Safety,Incomplete,21.4
+EMP-2000,2025-09-10,24,Compliance & Safety,Completed,73.1
+EMP-2001,2025-09-10,12,Leadership Accelerate,Completed,45.4
+EMP-2002,2025-09-10,13,Technical Upskilling,Completed,44.2
+EMP-2003,2025-09-10,35,Leadership Accelerate,Completed,100.0
+EMP-2004,2025-09-10,21,Leadership Accelerate,Completed,85.0
+EMP-2005,2025-09-10,29,Leadership Accelerate,Completed,100.0
+EMP-2006,2025-09-10,0,Compliance & Safety,Incomplete,42.3
+EMP-2007,2025-09-10,20,Compliance & Safety,Completed,44.6
+EMP-2008,2025-09-10,13,None,Completed,68.8
+EMP-2009,2025-09-10,34,None,Completed,100.0
+EMP-2010,2025-09-10,20,Compliance & Safety,Completed,84.7
+EMP-2011,2025-09-10,0,Compliance & Safety,Incomplete,26.9
+EMP-2012,2025-09-10,25,Compliance & Safety,Completed,80.1
+EMP-2013,2025-09-10,14,Technical Upskilling,Completed,84.2
+EMP-2014,2025-09-10,17,Leadership Accelerate,Completed,64.6
+EMP-2015,2025-09-10,21,Compliance & Safety,Completed,72.2
+EMP-2016,2025-09-10,38,Compliance & Safety,Completed,100.0
+EMP-2017,2025-09-10,0,Technical Upskilling,Incomplete,25.5
+EMP-2018,2025-09-10,17,Leadership Accelerate,Completed,63.1
+EMP-2019,2025-09-10,32,Leadership Accelerate,Completed,100.0
+EMP-2020,2025-09-10,8,Compliance & Safety,Incomplete,48.1
+EMP-2021,2025-09-10,8,Technical Upskilling,Incomplete,51.8
+EMP-2022,2025-09-10,15,Technical Upskilling,Completed,55.8
+EMP-2023,2025-09-10,20,Compliance & Safety,Completed,67.3
+EMP-2024,2025-09-10,36,Technical Upskilling,Completed,100.0
+EMP-2025,2025-09-10,16,Compliance & Safety,Completed,73.3
+EMP-2026,2025-09-10,19,None,Completed,69.8
+EMP-2027,2025-09-10,23,Compliance & Safety,Completed,70.1
+EMP-2028,2025-09-10,23,Technical Upskilling,Completed,87.6
+EMP-2029,2025-09-10,18,Technical Upskilling,Completed,56.4
+EMP-2030,2025-09-10,19,Compliance & Safety,Completed,68.1
+EMP-2031,2025-09-10,0,Technical Upskilling,Incomplete,49.4
+EMP-2032,2025-09-10,28,Leadership Accelerate,Completed,95.6
+EMP-2033,2025-09-10,32,Technical Upskilling,Completed,100.0
+EMP-2034,2025-09-10,33,Compliance & Safety,Completed,100.0
+EMP-2035,2025-09-10,22,Technical Upskilling,Completed,72.3
+EMP-2036,2025-09-10,6,Technical Upskilling,Incomplete,40.9
+EMP-2037,2025-09-10,21,Technical Upskilling,Completed,77.8
+EMP-2038,2025-09-10,13,Leadership Accelerate,Completed,63.8
+EMP-2039,2025-09-10,33,Technical Upskilling,Completed,100.0
+EMP-2040,2025-09-10,23,Leadership Accelerate,Completed,77.9
+EMP-2041,2025-09-10,3,None,Incomplete,31.9
+EMP-2042,2025-09-10,7,Technical Upskilling,Incomplete,33.5
+EMP-2043,2025-09-10,39,Leadership Accelerate,Completed,100.0
+EMP-2044,2025-09-10,26,Technical Upskilling,Completed,90.4
+EMP-2045,2025-09-10,0,Technical Upskilling,Incomplete,18.2
+EMP-2046,2025-09-10,0,Technical Upskilling,Incomplete,33.5
+EMP-2047,2025-09-10,38,Leadership Accelerate,Completed,100.0
+EMP-2048,2025-09-10,2,Technical Upskilling,Incomplete,20.2
+EMP-2049,2025-09-10,15,Leadership Accelerate,Completed,66.6
+EMP-2050,2025-09-10,19,Technical Upskilling,Completed,59.6
+EMP-2051,2025-09-10,0,Technical Upskilling,Incomplete,19.0
+EMP-2052,2025-09-10,15,Leadership Accelerate,Completed,49.4
+EMP-2053,2025-09-10,27,Leadership Accelerate,Completed,97.5
+EMP-2054,2025-09-10,20,Leadership Accelerate,Completed,77.4
+EMP-2055,2025-09-10,27,Leadership Accelerate,Completed,99.1
+EMP-2056,2025-09-10,29,Compliance & Safety,Completed,88.9
+EMP-2057,2025-09-10,8,Compliance & Safety,Incomplete,50.7
+EMP-2058,2025-09-10,28,Compliance & Safety,Completed,74.6
+EMP-2059,2025-09-10,17,Technical Upskilling,Completed,59.7
+EMP-2060,2025-09-10,26,Compliance & Safety,Completed,83.2
+EMP-2061,2025-09-10,29,Leadership Accelerate,Completed,91.8
+EMP-2062,2025-09-10,25,Leadership Accelerate,Completed,83.2
+EMP-2063,2025-09-10,36,Technical Upskilling,Completed,100.0
+EMP-2064,2025-09-10,25,Leadership Accelerate,Completed,65.3
+EMP-2065,2025-09-10,23,Leadership Accelerate,Completed,68.9
+EMP-2066,2025-09-10,11,Compliance & Safety,Completed,71.7
+EMP-2067,2025-09-10,20,Leadership Accelerate,Completed,73.3
+EMP-2068,2025-09-10,10,Compliance & Safety,Incomplete,38.3
+EMP-2069,2025-09-10,26,Compliance & Safety,Completed,81.6
+EMP-2070,2025-09-10,0,Leadership Accelerate,Incomplete,30.6
+EMP-2071,2025-09-10,17,Technical Upskilling,Completed,67.5
+EMP-2072,2025-09-10,20,Compliance & Safety,Completed,70.3
+EMP-2073,2025-09-10,12,Technical Upskilling,Completed,51.6
+EMP-2074,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-2075,2025-09-10,29,Compliance & Safety,Completed,81.3
+EMP-2076,2025-09-10,43,Leadership Accelerate,Completed,100.0
+EMP-2077,2025-09-10,17,Technical Upskilling,Completed,68.3
+EMP-2078,2025-09-10,19,Technical Upskilling,Completed,62.8
+EMP-2079,2025-09-10,23,Leadership Accelerate,Completed,59.4
+EMP-2080,2025-09-10,0,Technical Upskilling,Incomplete,29.3
+EMP-2081,2025-09-10,26,Leadership Accelerate,Completed,88.7
+EMP-2082,2025-09-10,0,Leadership Accelerate,Incomplete,37.4
+EMP-2083,2025-09-10,33,Technical Upskilling,Completed,100.0
+EMP-2084,2025-09-10,28,Technical Upskilling,Completed,89.1
+EMP-2085,2025-09-10,25,Leadership Accelerate,Completed,77.2
+EMP-2086,2025-09-10,28,Compliance & Safety,Completed,88.7
+EMP-2087,2025-09-10,9,Compliance & Safety,Incomplete,72.6
+EMP-2088,2025-09-10,25,None,Completed,78.0
+EMP-2089,2025-09-10,16,Leadership Accelerate,Completed,66.4
+EMP-2090,2025-09-10,12,Compliance & Safety,Completed,60.6
+EMP-2091,2025-09-10,25,Compliance & Safety,Completed,96.3
+EMP-2092,2025-09-10,10,Technical Upskilling,Incomplete,37.3
+EMP-2093,2025-09-10,0,Leadership Accelerate,Incomplete,39.6
+EMP-2094,2025-09-10,15,Technical Upskilling,Completed,63.0
+EMP-2095,2025-09-10,0,Compliance & Safety,Incomplete,40.4
+EMP-2096,2025-09-10,32,Leadership Accelerate,Completed,100.0
+EMP-2097,2025-09-10,18,Technical Upskilling,Completed,70.1
+EMP-2098,2025-09-10,21,None,Completed,71.9
+EMP-2099,2025-09-10,14,None,Completed,63.1
+EMP-2100,2025-09-10,41,None,Completed,100.0
+EMP-2101,2025-09-10,23,Technical Upskilling,Completed,87.9
+EMP-2102,2025-09-10,18,Compliance & Safety,Completed,79.9
+EMP-2103,2025-09-10,16,Compliance & Safety,Completed,59.6
+EMP-2104,2025-09-10,11,Leadership Accelerate,Completed,48.9
+EMP-2105,2025-09-10,7,Technical Upskilling,Incomplete,29.9
+EMP-2106,2025-09-10,22,Leadership Accelerate,Completed,70.9
+EMP-2107,2025-09-10,13,Compliance & Safety,Completed,65.9
+EMP-2108,2025-09-10,0,Technical Upskilling,Incomplete,25.0
+EMP-2109,2025-09-10,0,None,Incomplete,16.1
+EMP-2110,2025-09-10,48,Technical Upskilling,Completed,100.0
+EMP-2111,2025-09-10,21,None,Completed,76.9
+EMP-2112,2025-09-10,35,Compliance & Safety,Completed,100.0
+EMP-2113,2025-09-10,30,Compliance & Safety,Completed,95.4
+EMP-2114,2025-09-10,1,Compliance & Safety,Incomplete,26.5
+EMP-2115,2025-09-10,14,Leadership Accelerate,Completed,76.0
+EMP-2116,2025-09-10,14,Technical Upskilling,Completed,47.7
+EMP-2117,2025-09-10,27,Leadership Accelerate,Completed,95.8
+EMP-2118,2025-09-10,14,Leadership Accelerate,Completed,64.2
+EMP-2119,2025-09-10,16,Technical Upskilling,Completed,49.1
+EMP-2120,2025-09-10,28,Technical Upskilling,Completed,83.7
+EMP-2121,2025-09-10,24,Leadership Accelerate,Completed,78.8
+EMP-2122,2025-09-10,42,Compliance & Safety,Completed,100.0
+EMP-2123,2025-09-10,8,Technical Upskilling,Incomplete,53.9
+EMP-2124,2025-09-10,8,None,Incomplete,35.0
+EMP-2125,2025-09-10,30,Leadership Accelerate,Completed,78.1
+EMP-2126,2025-09-10,31,Technical Upskilling,Completed,100.0
+EMP-2127,2025-09-10,12,Leadership Accelerate,Completed,52.7
+EMP-2128,2025-09-10,30,Leadership Accelerate,Completed,93.4
+EMP-2129,2025-09-10,14,Technical Upskilling,Completed,36.3
+EMP-2130,2025-09-10,32,Leadership Accelerate,Completed,88.4
+EMP-2131,2025-09-10,16,Compliance & Safety,Completed,59.8
+EMP-2132,2025-09-10,15,Technical Upskilling,Completed,62.9
+EMP-2133,2025-09-10,11,Technical Upskilling,Completed,66.9
+EMP-2134,2025-09-10,35,Technical Upskilling,Completed,100.0
+EMP-2135,2025-09-10,41,Compliance & Safety,Completed,100.0
+EMP-2136,2025-09-10,26,Compliance & Safety,Completed,75.3
+EMP-2137,2025-09-10,34,Technical Upskilling,Completed,100.0
+EMP-2138,2025-09-10,19,Technical Upskilling,Completed,68.7
+EMP-2139,2025-09-10,19,Leadership Accelerate,Completed,58.0
+EMP-2140,2025-09-10,23,Leadership Accelerate,Completed,64.2
+EMP-2141,2025-09-10,2,Technical Upskilling,Incomplete,35.8
+EMP-2142,2025-09-10,12,Technical Upskilling,Completed,73.9
+EMP-2143,2025-09-10,6,Compliance & Safety,Incomplete,47.3
+EMP-2144,2025-09-10,23,Technical Upskilling,Completed,84.4
+EMP-2145,2025-09-10,0,Compliance & Safety,Incomplete,19.0
+EMP-2146,2025-09-10,0,Technical Upskilling,Incomplete,30.3
+EMP-2147,2025-09-10,15,None,Completed,59.4
+EMP-2148,2025-09-10,24,Technical Upskilling,Completed,93.5
+EMP-2149,2025-09-10,28,Technical Upskilling,Completed,72.1
+EMP-2150,2025-09-10,29,Technical Upskilling,Completed,92.3
+EMP-2151,2025-09-10,9,Compliance & Safety,Incomplete,30.6
+EMP-2152,2025-09-10,22,Technical Upskilling,Completed,66.2
+EMP-2153,2025-09-10,37,Technical Upskilling,Completed,100.0
+EMP-2154,2025-09-10,30,Technical Upskilling,Completed,92.6
+EMP-2155,2025-09-10,0,Technical Upskilling,Incomplete,30.5
+EMP-2156,2025-09-10,20,Technical Upskilling,Completed,70.4
+EMP-2157,2025-09-10,10,Technical Upskilling,Incomplete,58.6
+EMP-2158,2025-09-10,14,Compliance & Safety,Completed,56.9
+EMP-2159,2025-09-10,33,Technical Upskilling,Completed,100.0
+EMP-2160,2025-09-10,9,Leadership Accelerate,Incomplete,43.9
+EMP-2161,2025-09-10,21,None,Completed,75.2
+EMP-2162,2025-09-10,28,Technical Upskilling,Completed,94.2
+EMP-2163,2025-09-10,31,Technical Upskilling,Completed,99.0
+EMP-2164,2025-09-10,4,Compliance & Safety,Incomplete,32.4
+EMP-2165,2025-09-10,42,Technical Upskilling,Completed,100.0
+EMP-2166,2025-09-10,38,Compliance & Safety,Completed,100.0
+EMP-2167,2025-09-10,33,Leadership Accelerate,Completed,80.4
+EMP-2168,2025-09-10,40,Technical Upskilling,Completed,100.0
+EMP-2169,2025-09-10,20,Technical Upskilling,Completed,96.6
+EMP-2170,2025-09-10,8,Compliance & Safety,Incomplete,56.8
+EMP-2171,2025-09-10,23,Technical Upskilling,Completed,81.0
+EMP-2172,2025-09-10,46,Compliance & Safety,Completed,100.0
+EMP-2173,2025-09-10,40,Leadership Accelerate,Completed,100.0
+EMP-2174,2025-09-10,13,Leadership Accelerate,Completed,46.4
+EMP-2175,2025-09-10,24,Technical Upskilling,Completed,79.3
+EMP-2176,2025-09-10,30,Technical Upskilling,Completed,100.0
+EMP-2177,2025-09-10,27,Compliance & Safety,Completed,90.7
+EMP-2178,2025-09-10,10,Technical Upskilling,Incomplete,47.0
+EMP-2179,2025-09-10,8,Leadership Accelerate,Incomplete,55.9
+EMP-2180,2025-09-10,27,Compliance & Safety,Completed,94.0
+EMP-2181,2025-09-10,14,Technical Upskilling,Completed,56.5
+EMP-2182,2025-09-10,35,None,Completed,100.0
+EMP-2183,2025-09-10,0,Technical Upskilling,Incomplete,40.3
+EMP-2184,2025-09-10,24,Compliance & Safety,Completed,87.2
+EMP-2185,2025-09-10,24,Compliance & Safety,Completed,67.1
+EMP-2186,2025-09-10,0,Leadership Accelerate,Incomplete,26.7
+EMP-2187,2025-09-10,15,Leadership Accelerate,Completed,62.6
+EMP-2188,2025-09-10,28,Leadership Accelerate,Completed,96.3
+EMP-2189,2025-09-10,26,Technical Upskilling,Completed,91.1
+EMP-2190,2025-09-10,17,Compliance & Safety,Completed,75.2
+EMP-2191,2025-09-10,22,Compliance & Safety,Completed,73.8
+EMP-2192,2025-09-10,24,Compliance & Safety,Completed,82.3
+EMP-2193,2025-09-10,18,None,Completed,69.9
+EMP-2194,2025-09-10,25,Leadership Accelerate,Completed,91.3
+EMP-2195,2025-09-10,20,Technical Upskilling,Completed,70.9
+EMP-2196,2025-09-10,18,Leadership Accelerate,Completed,71.9
+EMP-2197,2025-09-10,13,Leadership Accelerate,Completed,58.7
+EMP-2198,2025-09-10,39,Technical Upskilling,Completed,100.0
+EMP-2199,2025-09-10,0,Technical Upskilling,Incomplete,36.4

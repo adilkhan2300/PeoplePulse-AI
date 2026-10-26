@@ -1,0 +1,1201 @@
+employee_id,reporting_period,base_salary,bonus,salary_change_percentage,compensation_band,promotion_status
+EMP-1000,2025-Q4,59270.83,0.0,1.54,Below Benchmark,No recent promotion
+EMP-1001,2025-Q4,104461.56,6881.89,6.55,Market Competitive,No recent promotion
+EMP-1002,2025-Q4,187978.64,25044.23,7.35,Market Competitive,No recent promotion
+EMP-1003,2025-Q4,100506.59,7093.92,5.97,Market Competitive,No recent promotion
+EMP-1004,2025-Q4,88858.3,3965.49,5.67,Above Market,No recent promotion
+EMP-1005,2025-Q4,96510.43,9085.78,7.49,Market Competitive,No recent promotion
+EMP-1006,2025-Q4,192854.09,25628.43,3.66,Market Competitive,Promoted in last 12m
+EMP-1007,2025-Q4,64347.54,4647.56,2.16,Below Benchmark,No recent promotion
+EMP-1008,2025-Q4,98225.04,5807.75,8.52,Market Competitive,No recent promotion
+EMP-1009,2025-Q4,162786.76,15886.29,4.26,Above Market,No recent promotion
+EMP-1010,2025-Q4,41399.12,0.0,2.45,Below Benchmark,No recent promotion
+EMP-1011,2025-Q4,99112.65,4217.35,3.66,Market Competitive,Promoted in last 12m
+EMP-1012,2025-Q4,154820.2,24106.13,6.28,Above Market,No recent promotion
+EMP-1013,2025-Q4,99013.92,0.0,7.56,Market Competitive,Promoted in last 12m
+EMP-1014,2025-Q4,180454.83,27482.42,5.84,Market Competitive,No recent promotion
+EMP-1015,2025-Q4,123461.42,0.0,8.35,Above Market,No recent promotion
+EMP-1016,2025-Q4,43624.74,3422.9,0.63,Below Benchmark,Promoted in last 12m
+EMP-1017,2025-Q4,145017.87,0.0,6.2,Above Market,No recent promotion
+EMP-1018,2025-Q4,75490.42,0.0,7.08,Above Market,Promoted in last 12m
+EMP-1019,2025-Q4,86581.89,9952.33,3.58,Above Market,No recent promotion
+EMP-1020,2025-Q4,73825.62,12220.02,9.48,Market Competitive,No recent promotion
+EMP-1021,2025-Q4,85173.0,5062.3,0.22,Below Benchmark,Promoted in last 12m
+EMP-1022,2025-Q4,73598.46,0.0,5.94,Market Competitive,No recent promotion
+EMP-1023,2025-Q4,160161.14,14076.79,8.7,Above Market,No recent promotion
+EMP-1024,2025-Q4,165318.77,0.0,8.14,Above Market,Promoted in last 12m
+EMP-1025,2025-Q4,65366.29,6448.36,6.24,Market Competitive,No recent promotion
+EMP-1026,2025-Q4,186702.7,0.0,3.49,Market Competitive,No recent promotion
+EMP-1027,2025-Q4,122308.73,5346.67,4.35,Market Competitive,Promoted in last 12m
+EMP-1028,2025-Q4,110723.11,10965.86,7.19,Market Competitive,No recent promotion
+EMP-1029,2025-Q4,50610.56,0.0,4.08,Market Competitive,No recent promotion
+EMP-1030,2025-Q4,39305.72,4298.82,1.82,Below Benchmark,No recent promotion
+EMP-1031,2025-Q4,148422.73,18160.55,3.29,Market Competitive,No recent promotion
+EMP-1032,2025-Q4,226251.62,23682.21,5.71,Above Market,No recent promotion
+EMP-1033,2025-Q4,149796.66,0.0,2.2,Below Benchmark,No recent promotion
+EMP-1034,2025-Q4,71225.83,8633.43,6.85,Market Competitive,No recent promotion
+EMP-1035,2025-Q4,111751.31,0.0,7.53,Above Market,No recent promotion
+EMP-1036,2025-Q4,187045.69,12031.81,8.13,Above Market,No recent promotion
+EMP-1037,2025-Q4,72319.73,4222.53,0.58,Below Benchmark,No recent promotion
+EMP-1038,2025-Q4,192547.43,24072.84,6.89,Market Competitive,Promoted in last 12m
+EMP-1039,2025-Q4,82909.2,4336.26,1.29,Below Benchmark,No recent promotion
+EMP-1040,2025-Q4,91538.98,5706.2,4.61,Market Competitive,No recent promotion
+EMP-1041,2025-Q4,120436.53,0.0,3.19,Market Competitive,No recent promotion
+EMP-1042,2025-Q4,86627.81,0.0,2.42,Below Benchmark,No recent promotion
+EMP-1043,2025-Q4,130933.96,9474.16,3.8,Above Market,Promoted in last 12m
+EMP-1044,2025-Q4,101673.81,0.0,0.61,Below Benchmark,No recent promotion
+EMP-1045,2025-Q4,106551.4,0.0,5.13,Market Competitive,No recent promotion
+EMP-1046,2025-Q4,59709.38,6745.54,7.65,Market Competitive,No recent promotion
+EMP-1047,2025-Q4,57375.06,10029.72,4.67,Market Competitive,No recent promotion
+EMP-1048,2025-Q4,79948.04,5623.83,2.16,Below Benchmark,Promoted in last 12m
+EMP-1049,2025-Q4,106694.58,16693.52,5.88,Market Competitive,No recent promotion
+EMP-1050,2025-Q4,159953.39,0.0,5.26,Market Competitive,No recent promotion
+EMP-1051,2025-Q4,82124.34,7780.95,6.68,Market Competitive,No recent promotion
+EMP-1052,2025-Q4,164835.98,11960.04,6.29,Market Competitive,Promoted in last 12m
+EMP-1053,2025-Q4,72279.58,11472.38,1.64,Below Benchmark,No recent promotion
+EMP-1054,2025-Q4,78215.55,0.0,0.38,Below Benchmark,No recent promotion
+EMP-1055,2025-Q4,144086.1,6604.07,7.42,Market Competitive,Promoted in last 12m
+EMP-1056,2025-Q4,91966.55,9936.27,0.28,Below Benchmark,No recent promotion
+EMP-1057,2025-Q4,107310.48,0.0,9.4,Market Competitive,No recent promotion
+EMP-1058,2025-Q4,148249.31,0.0,8.2,Market Competitive,No recent promotion
+EMP-1059,2025-Q4,107738.26,13655.02,3.02,Market Competitive,No recent promotion
+EMP-1060,2025-Q4,120338.96,0.0,7.98,Above Market,No recent promotion
+EMP-1061,2025-Q4,107115.79,11729.67,7.73,Market Competitive,No recent promotion
+EMP-1062,2025-Q4,131099.58,0.0,5.26,Market Competitive,No recent promotion
+EMP-1063,2025-Q4,64879.64,3337.51,1.36,Below Benchmark,No recent promotion
+EMP-1064,2025-Q4,98763.41,0.0,4.84,Market Competitive,No recent promotion
+EMP-1065,2025-Q4,161896.68,14719.17,3.22,Market Competitive,No recent promotion
+EMP-1066,2025-Q4,210639.96,21969.14,8.34,Market Competitive,No recent promotion
+EMP-1067,2025-Q4,131033.24,6655.3,3.47,Above Market,No recent promotion
+EMP-1068,2025-Q4,110622.83,0.0,0.11,Below Benchmark,No recent promotion
+EMP-1069,2025-Q4,77906.34,0.0,1.83,Below Benchmark,No recent promotion
+EMP-1070,2025-Q4,229002.17,34449.33,5.89,Above Market,No recent promotion
+EMP-1071,2025-Q4,92626.63,6545.89,3.05,Market Competitive,Promoted in last 12m
+EMP-1072,2025-Q4,166517.0,0.0,8.34,Above Market,No recent promotion
+EMP-1073,2025-Q4,61731.89,7084.07,3.43,Above Market,No recent promotion
+EMP-1074,2025-Q4,221735.01,36486.78,3.64,Above Market,Promoted in last 12m
+EMP-1075,2025-Q4,167904.59,28474.81,4.36,Market Competitive,No recent promotion
+EMP-1076,2025-Q4,66667.16,0.0,0.89,Below Benchmark,No recent promotion
+EMP-1077,2025-Q4,185459.0,16595.71,6.89,Market Competitive,No recent promotion
+EMP-1078,2025-Q4,125889.5,5091.41,3.39,Above Market,No recent promotion
+EMP-1079,2025-Q4,158863.93,21643.13,4.82,Market Competitive,Promoted in last 12m
+EMP-1080,2025-Q4,113495.86,11679.74,6.27,Above Market,No recent promotion
+EMP-1081,2025-Q4,88252.51,0.0,3.54,Above Market,No recent promotion
+EMP-1082,2025-Q4,176095.18,8231.75,1.61,Below Benchmark,No recent promotion
+EMP-1083,2025-Q4,164271.98,0.0,6.04,Market Competitive,No recent promotion
+EMP-1084,2025-Q4,141511.31,0.0,8.57,Market Competitive,No recent promotion
+EMP-1085,2025-Q4,58321.12,6285.31,0.62,Below Benchmark,No recent promotion
+EMP-1086,2025-Q4,162567.03,23824.58,4.96,Market Competitive,No recent promotion
+EMP-1087,2025-Q4,43459.07,0.0,2.45,Below Benchmark,No recent promotion
+EMP-1088,2025-Q4,55235.94,2212.86,8.82,Market Competitive,No recent promotion
+EMP-1089,2025-Q4,66154.47,9306.77,5.8,Market Competitive,No recent promotion
+EMP-1090,2025-Q4,75039.22,0.0,8.69,Market Competitive,No recent promotion
+EMP-1091,2025-Q4,120739.4,8556.61,5.64,Above Market,No recent promotion
+EMP-1092,2025-Q4,148534.79,0.0,8.53,Market Competitive,No recent promotion
+EMP-1093,2025-Q4,55502.27,8923.08,7.67,Market Competitive,Promoted in last 12m
+EMP-1094,2025-Q4,159479.61,8252.87,0.89,Below Benchmark,No recent promotion
+EMP-1095,2025-Q4,141775.99,11001.07,6.14,Market Competitive,No recent promotion
+EMP-1096,2025-Q4,158137.61,15361.68,7.42,Market Competitive,Promoted in last 12m
+EMP-1097,2025-Q4,136650.61,6030.47,8.92,Market Competitive,No recent promotion
+EMP-1098,2025-Q4,188030.67,30521.37,5.67,Above Market,No recent promotion
+EMP-1099,2025-Q4,58366.0,6856.44,1.11,Below Benchmark,No recent promotion
+EMP-1100,2025-Q4,181273.86,0.0,7.51,Market Competitive,Promoted in last 12m
+EMP-1101,2025-Q4,174580.9,0.0,6.55,Market Competitive,No recent promotion
+EMP-1102,2025-Q4,99792.96,11418.39,4.86,Market Competitive,No recent promotion
+EMP-1103,2025-Q4,177750.31,0.0,6.02,Market Competitive,No recent promotion
+EMP-1104,2025-Q4,55394.63,5210.95,7.63,Market Competitive,No recent promotion
+EMP-1105,2025-Q4,82192.66,8262.7,0.92,Below Benchmark,Promoted in last 12m
+EMP-1106,2025-Q4,104895.93,17290.99,9.25,Market Competitive,No recent promotion
+EMP-1107,2025-Q4,62339.61,5656.72,8.41,Above Market,No recent promotion
+EMP-1108,2025-Q4,87689.24,10800.82,0.24,Below Benchmark,No recent promotion
+EMP-1109,2025-Q4,138171.05,24393.83,0.17,Below Benchmark,No recent promotion
+EMP-1110,2025-Q4,102465.94,10435.59,8.69,Market Competitive,No recent promotion
+EMP-1111,2025-Q4,200768.39,32473.25,6.33,Above Market,No recent promotion
+EMP-1112,2025-Q4,110788.24,0.0,4.42,Market Competitive,No recent promotion
+EMP-1113,2025-Q4,165891.06,14541.62,4.33,Market Competitive,No recent promotion
+EMP-1114,2025-Q4,121910.06,0.0,8.43,Above Market,No recent promotion
+EMP-1115,2025-Q4,120142.7,0.0,4.81,Above Market,Promoted in last 12m
+EMP-1116,2025-Q4,106979.33,0.0,4.2,Market Competitive,No recent promotion
+EMP-1117,2025-Q4,126856.32,6827.81,8.07,Market Competitive,Promoted in last 12m
+EMP-1118,2025-Q4,122081.79,0.0,4.64,Market Competitive,No recent promotion
+EMP-1119,2025-Q4,103438.71,0.0,5.65,Market Competitive,Promoted in last 12m
+EMP-1120,2025-Q4,60605.17,0.0,0.45,Below Benchmark,No recent promotion
+EMP-1121,2025-Q4,88298.18,0.0,4.54,Above Market,Promoted in last 12m
+EMP-1122,2025-Q4,114731.7,5644.44,4.29,Market Competitive,No recent promotion
+EMP-1123,2025-Q4,51457.04,5083.99,0.53,Below Benchmark,No recent promotion
+EMP-1124,2025-Q4,165785.57,0.0,0.84,Below Benchmark,No recent promotion
+EMP-1125,2025-Q4,99276.65,0.0,5.24,Above Market,No recent promotion
+EMP-1126,2025-Q4,84719.25,11037.27,1.25,Below Benchmark,No recent promotion
+EMP-1127,2025-Q4,56991.07,9057.16,1.51,Below Benchmark,No recent promotion
+EMP-1128,2025-Q4,143369.97,7374.01,7.92,Market Competitive,No recent promotion
+EMP-1129,2025-Q4,144609.11,7425.01,0.35,Below Benchmark,No recent promotion
+EMP-1130,2025-Q4,157814.63,19946.95,5.88,Market Competitive,No recent promotion
+EMP-1131,2025-Q4,186422.36,0.0,9.01,Above Market,No recent promotion
+EMP-1132,2025-Q4,48061.68,5000.43,1.54,Below Benchmark,No recent promotion
+EMP-1133,2025-Q4,81520.55,10026.04,1.7,Below Benchmark,Promoted in last 12m
+EMP-1134,2025-Q4,137005.82,20554.92,0.37,Below Benchmark,No recent promotion
+EMP-1135,2025-Q4,91950.52,11732.07,4.43,Market Competitive,No recent promotion
+EMP-1136,2025-Q4,181183.75,0.0,6.38,Market Competitive,No recent promotion
+EMP-1137,2025-Q4,83729.78,8164.53,7.17,Market Competitive,No recent promotion
+EMP-1138,2025-Q4,121280.21,17260.82,5.17,Above Market,No recent promotion
+EMP-1139,2025-Q4,123077.7,10351.02,4.29,Market Competitive,Promoted in last 12m
+EMP-1140,2025-Q4,104913.11,0.0,9.12,Market Competitive,No recent promotion
+EMP-1141,2025-Q4,79802.92,0.0,6.86,Market Competitive,No recent promotion
+EMP-1142,2025-Q4,136354.72,10344.8,8.83,Market Competitive,Promoted in last 12m
+EMP-1143,2025-Q4,162854.54,14880.77,7.72,Market Competitive,Promoted in last 12m
+EMP-1144,2025-Q4,173251.78,23485.26,2.36,Below Benchmark,No recent promotion
+EMP-1145,2025-Q4,168041.25,0.0,4.26,Market Competitive,No recent promotion
+EMP-1146,2025-Q4,125473.36,22505.7,6.79,Above Market,No recent promotion
+EMP-1147,2025-Q4,70834.21,0.0,5.09,Market Competitive,No recent promotion
+EMP-1148,2025-Q4,111504.83,19896.66,5.99,Above Market,No recent promotion
+EMP-1149,2025-Q4,79357.77,6669.87,2.48,Below Benchmark,No recent promotion
+EMP-1150,2025-Q4,111845.34,16052.68,8.18,Market Competitive,No recent promotion
+EMP-1151,2025-Q4,60722.49,0.0,7.48,Above Market,No recent promotion
+EMP-1152,2025-Q4,94353.36,7710.26,3.96,Market Competitive,No recent promotion
+EMP-1153,2025-Q4,104826.29,7524.12,6.02,Market Competitive,No recent promotion
+EMP-1154,2025-Q4,156836.23,8751.16,4.42,Market Competitive,No recent promotion
+EMP-1155,2025-Q4,93958.45,16589.06,1.92,Below Benchmark,No recent promotion
+EMP-1156,2025-Q4,64332.44,9226.82,9.04,Market Competitive,No recent promotion
+EMP-1157,2025-Q4,56751.07,0.0,4.28,Market Competitive,No recent promotion
+EMP-1158,2025-Q4,103024.23,0.0,6.09,Market Competitive,No recent promotion
+EMP-1159,2025-Q4,103188.84,14025.88,8.51,Market Competitive,No recent promotion
+EMP-1160,2025-Q4,101241.71,6909.88,5.01,Market Competitive,No recent promotion
+EMP-1161,2025-Q4,70712.19,0.0,5.62,Market Competitive,No recent promotion
+EMP-1162,2025-Q4,126913.77,0.0,1.85,Below Benchmark,No recent promotion
+EMP-1163,2025-Q4,149022.3,6762.05,7.3,Market Competitive,No recent promotion
+EMP-1164,2025-Q4,120095.4,9694.43,6.33,Above Market,No recent promotion
+EMP-1165,2025-Q4,93002.47,5470.47,8.03,Market Competitive,No recent promotion
+EMP-1166,2025-Q4,71901.3,0.0,3.54,Market Competitive,No recent promotion
+EMP-1167,2025-Q4,60747.2,10742.77,0.42,Below Benchmark,No recent promotion
+EMP-1168,2025-Q4,125006.04,13975.78,4.18,Market Competitive,No recent promotion
+EMP-1169,2025-Q4,55874.1,4999.96,0.97,Below Benchmark,No recent promotion
+EMP-1170,2025-Q4,105639.78,0.0,0.87,Below Benchmark,No recent promotion
+EMP-1171,2025-Q4,157156.79,0.0,4.19,Market Competitive,No recent promotion
+EMP-1172,2025-Q4,66779.26,0.0,6.7,Above Market,No recent promotion
+EMP-1173,2025-Q4,109001.33,0.0,3.53,Market Competitive,No recent promotion
+EMP-1174,2025-Q4,118881.18,0.0,1.09,Below Benchmark,No recent promotion
+EMP-1175,2025-Q4,89983.64,12411.88,1.87,Below Benchmark,No recent promotion
+EMP-1176,2025-Q4,181588.13,0.0,4.2,Market Competitive,Promoted in last 12m
+EMP-1177,2025-Q4,103301.85,5155.88,8.05,Market Competitive,No recent promotion
+EMP-1178,2025-Q4,72538.92,12103.79,9.4,Market Competitive,Promoted in last 12m
+EMP-1179,2025-Q4,115733.31,0.0,1.69,Below Benchmark,No recent promotion
+EMP-1180,2025-Q4,117859.68,4775.48,4.76,Above Market,Promoted in last 12m
+EMP-1181,2025-Q4,92254.12,0.0,5.22,Market Competitive,No recent promotion
+EMP-1182,2025-Q4,100097.62,4237.53,3.61,Market Competitive,No recent promotion
+EMP-1183,2025-Q4,89483.15,9192.78,1.67,Below Benchmark,No recent promotion
+EMP-1184,2025-Q4,185583.85,0.0,3.33,Market Competitive,No recent promotion
+EMP-1185,2025-Q4,112424.52,0.0,9.28,Above Market,No recent promotion
+EMP-1186,2025-Q4,51948.82,6265.6,6.49,Market Competitive,No recent promotion
+EMP-1187,2025-Q4,113950.62,19464.91,1.56,Below Benchmark,Promoted in last 12m
+EMP-1188,2025-Q4,110734.18,15286.71,0.4,Below Benchmark,No recent promotion
+EMP-1189,2025-Q4,95373.96,9788.14,4.11,Above Market,Promoted in last 12m
+EMP-1190,2025-Q4,55575.5,0.0,4.23,Market Competitive,No recent promotion
+EMP-1191,2025-Q4,99709.98,12899.38,7.03,Market Competitive,No recent promotion
+EMP-1192,2025-Q4,159762.67,7769.97,8.78,Market Competitive,No recent promotion
+EMP-1193,2025-Q4,98099.18,6798.55,8.47,Market Competitive,No recent promotion
+EMP-1194,2025-Q4,106573.05,17860.35,6.76,Market Competitive,No recent promotion
+EMP-1195,2025-Q4,128009.47,21240.84,5.22,Above Market,No recent promotion
+EMP-1196,2025-Q4,131937.48,0.0,0.78,Below Benchmark,No recent promotion
+EMP-1197,2025-Q4,123711.73,9061.64,8.66,Market Competitive,No recent promotion
+EMP-1198,2025-Q4,67344.75,7123.23,0.6,Below Benchmark,No recent promotion
+EMP-1199,2025-Q4,43581.17,4445.85,0.35,Below Benchmark,No recent promotion
+EMP-1200,2025-Q4,49507.92,3067.83,1.09,Below Benchmark,No recent promotion
+EMP-1201,2025-Q4,183001.3,0.0,5.64,Market Competitive,Promoted in last 12m
+EMP-1202,2025-Q4,173091.97,16342.39,4.55,Market Competitive,No recent promotion
+EMP-1203,2025-Q4,50807.84,3686.85,2.15,Below Benchmark,Promoted in last 12m
+EMP-1204,2025-Q4,53681.85,6608.82,8.73,Market Competitive,No recent promotion
+EMP-1205,2025-Q4,110015.38,11392.56,8.14,Market Competitive,No recent promotion
+EMP-1206,2025-Q4,57661.62,6540.56,4.99,Market Competitive,No recent promotion
+EMP-1207,2025-Q4,163544.83,10624.92,5.08,Above Market,Promoted in last 12m
+EMP-1208,2025-Q4,112642.54,4783.96,7.89,Above Market,No recent promotion
+EMP-1209,2025-Q4,92427.69,6521.54,1.1,Below Benchmark,Promoted in last 12m
+EMP-1210,2025-Q4,85560.5,12885.11,1.91,Below Benchmark,No recent promotion
+EMP-1211,2025-Q4,62921.22,2956.1,2.02,Below Benchmark,No recent promotion
+EMP-1212,2025-Q4,61980.33,0.0,3.37,Market Competitive,No recent promotion
+EMP-1213,2025-Q4,76360.34,0.0,5.52,Above Market,No recent promotion
+EMP-1214,2025-Q4,164997.18,8395.01,9.23,Above Market,No recent promotion
+EMP-1215,2025-Q4,103093.4,0.0,8.85,Market Competitive,No recent promotion
+EMP-1216,2025-Q4,105531.06,0.0,7.69,Market Competitive,No recent promotion
+EMP-1217,2025-Q4,102978.02,0.0,5.07,Market Competitive,No recent promotion
+EMP-1218,2025-Q4,112855.18,11712.97,5.63,Above Market,No recent promotion
+EMP-1219,2025-Q4,79859.97,3226.95,1.54,Below Benchmark,No recent promotion
+EMP-1220,2025-Q4,173299.56,22309.13,5.84,Market Competitive,No recent promotion
+EMP-1221,2025-Q4,99614.25,13597.26,9.0,Market Competitive,No recent promotion
+EMP-1222,2025-Q4,120662.69,0.0,6.2,Above Market,No recent promotion
+EMP-1223,2025-Q4,140549.67,10329.87,1.64,Below Benchmark,No recent promotion
+EMP-1224,2025-Q4,138992.13,14434.88,1.63,Below Benchmark,No recent promotion
+EMP-1225,2025-Q4,116600.16,12112.93,8.17,Market Competitive,Promoted in last 12m
+EMP-1226,2025-Q4,89077.47,5056.61,8.89,Above Market,No recent promotion
+EMP-1227,2025-Q4,54688.92,0.0,8.69,Market Competitive,No recent promotion
+EMP-1228,2025-Q4,65316.55,0.0,0.18,Below Benchmark,No recent promotion
+EMP-1229,2025-Q4,197505.4,17641.82,6.37,Above Market,No recent promotion
+EMP-1230,2025-Q4,85315.1,0.0,1.45,Below Benchmark,No recent promotion
+EMP-1231,2025-Q4,116578.94,14879.87,0.75,Below Benchmark,No recent promotion
+EMP-1232,2025-Q4,88314.98,0.0,2.11,Below Benchmark,No recent promotion
+EMP-1233,2025-Q4,112528.33,10775.15,6.33,Above Market,No recent promotion
+EMP-1234,2025-Q4,176423.54,0.0,0.56,Below Benchmark,No recent promotion
+EMP-1235,2025-Q4,110332.7,12139.65,4.46,Market Competitive,No recent promotion
+EMP-1236,2025-Q4,87309.72,14421.29,1.25,Below Benchmark,No recent promotion
+EMP-1237,2025-Q4,110056.41,18491.88,5.03,Above Market,No recent promotion
+EMP-1238,2025-Q4,193456.19,30431.1,8.76,Market Competitive,No recent promotion
+EMP-1239,2025-Q4,184633.23,0.0,3.2,Market Competitive,No recent promotion
+EMP-1240,2025-Q4,109311.25,9636.57,7.48,Market Competitive,No recent promotion
+EMP-1241,2025-Q4,132641.4,7900.24,2.26,Below Benchmark,No recent promotion
+EMP-1242,2025-Q4,113676.3,5835.34,0.04,Below Benchmark,No recent promotion
+EMP-1243,2025-Q4,166503.13,0.0,6.92,Above Market,No recent promotion
+EMP-1244,2025-Q4,120881.02,19333.98,1.13,Below Benchmark,No recent promotion
+EMP-1245,2025-Q4,107457.98,0.0,0.34,Below Benchmark,No recent promotion
+EMP-1246,2025-Q4,202421.28,0.0,8.75,Market Competitive,No recent promotion
+EMP-1247,2025-Q4,155756.37,0.0,0.24,Below Benchmark,Promoted in last 12m
+EMP-1248,2025-Q4,103573.95,17162.8,9.38,Market Competitive,No recent promotion
+EMP-1249,2025-Q4,77262.11,0.0,3.68,Above Market,No recent promotion
+EMP-1250,2025-Q4,74608.6,3095.82,4.39,Market Competitive,No recent promotion
+EMP-1251,2025-Q4,107030.82,18496.16,4.67,Market Competitive,Promoted in last 12m
+EMP-1252,2025-Q4,154316.74,15750.31,8.61,Above Market,No recent promotion
+EMP-1253,2025-Q4,54395.82,4173.39,3.7,Market Competitive,No recent promotion
+EMP-1254,2025-Q4,181684.5,11877.63,8.17,Above Market,No recent promotion
+EMP-1255,2025-Q4,103878.82,18567.1,5.21,Market Competitive,No recent promotion
+EMP-1256,2025-Q4,109895.61,15574.91,9.36,Market Competitive,No recent promotion
+EMP-1257,2025-Q4,51226.32,0.0,1.98,Below Benchmark,No recent promotion
+EMP-1258,2025-Q4,107063.38,17376.15,9.34,Market Competitive,No recent promotion
+EMP-1259,2025-Q4,107064.88,0.0,4.12,Market Competitive,No recent promotion
+EMP-1260,2025-Q4,78231.18,12013.4,7.89,Above Market,Promoted in last 12m
+EMP-1261,2025-Q4,105872.21,0.0,4.8,Market Competitive,No recent promotion
+EMP-1262,2025-Q4,77850.89,5746.24,3.02,Market Competitive,No recent promotion
+EMP-1263,2025-Q4,183740.77,14296.54,5.69,Market Competitive,No recent promotion
+EMP-1264,2025-Q4,52957.42,2231.47,0.74,Below Benchmark,Promoted in last 12m
+EMP-1265,2025-Q4,78627.07,9244.82,2.17,Below Benchmark,No recent promotion
+EMP-1266,2025-Q4,68837.76,8313.91,5.64,Market Competitive,Promoted in last 12m
+EMP-1267,2025-Q4,184604.44,0.0,5.56,Market Competitive,No recent promotion
+EMP-1268,2025-Q4,99353.55,3993.0,5.62,Market Competitive,No recent promotion
+EMP-1269,2025-Q4,157161.44,0.0,6.04,Market Competitive,Promoted in last 12m
+EMP-1270,2025-Q4,80019.27,5480.92,6.49,Market Competitive,Promoted in last 12m
+EMP-1271,2025-Q4,85938.23,10730.96,0.77,Below Benchmark,No recent promotion
+EMP-1272,2025-Q4,198006.16,12160.48,5.76,Market Competitive,No recent promotion
+EMP-1273,2025-Q4,158810.42,24272.84,0.28,Below Benchmark,No recent promotion
+EMP-1274,2025-Q4,83826.01,0.0,0.89,Below Benchmark,No recent promotion
+EMP-1275,2025-Q4,99561.93,8189.65,8.71,Market Competitive,No recent promotion
+EMP-1276,2025-Q4,92496.46,11572.61,1.05,Below Benchmark,Promoted in last 12m
+EMP-1277,2025-Q4,88977.28,0.0,2.03,Below Benchmark,No recent promotion
+EMP-1278,2025-Q4,119452.35,18240.62,0.07,Below Benchmark,Promoted in last 12m
+EMP-1279,2025-Q4,58954.4,2402.12,2.06,Below Benchmark,No recent promotion
+EMP-1280,2025-Q4,43620.67,0.0,1.38,Below Benchmark,No recent promotion
+EMP-1281,2025-Q4,132307.19,0.0,3.34,Market Competitive,No recent promotion
+EMP-1282,2025-Q4,77018.68,10238.23,1.04,Below Benchmark,No recent promotion
+EMP-1283,2025-Q4,122187.45,0.0,2.09,Below Benchmark,No recent promotion
+EMP-1284,2025-Q4,148816.8,0.0,0.34,Below Benchmark,No recent promotion
+EMP-1285,2025-Q4,160256.99,12435.62,6.39,Above Market,No recent promotion
+EMP-1286,2025-Q4,49210.93,2714.07,1.39,Below Benchmark,No recent promotion
+EMP-1287,2025-Q4,229225.95,38179.29,8.29,Above Market,No recent promotion
+EMP-1288,2025-Q4,42856.85,7281.84,0.31,Below Benchmark,No recent promotion
+EMP-1289,2025-Q4,132251.35,0.0,6.3,Market Competitive,No recent promotion
+EMP-1290,2025-Q4,56636.02,5970.58,2.42,Below Benchmark,No recent promotion
+EMP-1291,2025-Q4,112847.52,11287.18,7.01,Above Market,Promoted in last 12m
+EMP-1292,2025-Q4,73810.56,0.0,8.12,Market Competitive,No recent promotion
+EMP-1293,2025-Q4,128378.87,17083.63,8.28,Above Market,No recent promotion
+EMP-1294,2025-Q4,167073.0,12867.39,6.89,Market Competitive,No recent promotion
+EMP-1295,2025-Q4,92200.52,0.0,1.79,Below Benchmark,No recent promotion
+EMP-1296,2025-Q4,130747.83,10354.08,8.72,Above Market,Promoted in last 12m
+EMP-1297,2025-Q4,152969.53,0.0,6.46,Market Competitive,No recent promotion
+EMP-1298,2025-Q4,50899.99,0.0,4.37,Market Competitive,No recent promotion
+EMP-1299,2025-Q4,224251.84,0.0,5.61,Above Market,Promoted in last 12m
+EMP-1300,2025-Q4,182172.6,13456.51,5.23,Market Competitive,No recent promotion
+EMP-1301,2025-Q4,114467.64,5341.25,8.67,Market Competitive,No recent promotion
+EMP-1302,2025-Q4,166330.02,28657.44,6.66,Market Competitive,Promoted in last 12m
+EMP-1303,2025-Q4,194320.64,27999.73,4.5,Market Competitive,No recent promotion
+EMP-1304,2025-Q4,67837.54,7981.62,0.84,Below Benchmark,No recent promotion
+EMP-1305,2025-Q4,151231.28,10742.05,8.0,Market Competitive,No recent promotion
+EMP-1306,2025-Q4,110433.63,16213.85,0.2,Below Benchmark,No recent promotion
+EMP-1307,2025-Q4,70652.83,9242.12,4.79,Market Competitive,No recent promotion
+EMP-1308,2025-Q4,117679.86,5625.45,9.32,Market Competitive,No recent promotion
+EMP-1309,2025-Q4,188028.59,0.0,7.68,Market Competitive,No recent promotion
+EMP-1310,2025-Q4,89951.98,0.0,0.05,Below Benchmark,Promoted in last 12m
+EMP-1311,2025-Q4,126629.49,8591.61,7.4,Above Market,Promoted in last 12m
+EMP-1312,2025-Q4,131832.27,0.0,9.34,Market Competitive,No recent promotion
+EMP-1313,2025-Q4,180023.56,0.0,4.63,Market Competitive,No recent promotion
+EMP-1314,2025-Q4,133288.02,0.0,2.17,Below Benchmark,No recent promotion
+EMP-1315,2025-Q4,103134.48,0.0,0.84,Below Benchmark,Promoted in last 12m
+EMP-1316,2025-Q4,111251.41,12885.51,5.22,Market Competitive,No recent promotion
+EMP-1317,2025-Q4,117227.48,0.0,0.1,Below Benchmark,Promoted in last 12m
+EMP-1318,2025-Q4,69299.76,0.0,5.24,Market Competitive,No recent promotion
+EMP-1319,2025-Q4,107534.96,6892.34,1.3,Below Benchmark,No recent promotion
+EMP-1320,2025-Q4,78911.8,0.0,6.83,Market Competitive,No recent promotion
+EMP-1321,2025-Q4,58859.84,7867.87,7.42,Market Competitive,No recent promotion
+EMP-1322,2025-Q4,149651.01,0.0,7.27,Market Competitive,No recent promotion
+EMP-1323,2025-Q4,203018.03,20128.63,4.65,Above Market,No recent promotion
+EMP-1324,2025-Q4,89108.43,4466.9,5.83,Above Market,No recent promotion
+EMP-1325,2025-Q4,126285.96,10524.15,0.36,Below Benchmark,No recent promotion
+EMP-1326,2025-Q4,121717.18,14306.35,0.48,Below Benchmark,No recent promotion
+EMP-1327,2025-Q4,175034.12,0.0,8.54,Above Market,No recent promotion
+EMP-1328,2025-Q4,69575.84,0.0,4.92,Market Competitive,Promoted in last 12m
+EMP-1329,2025-Q4,168556.43,14458.24,6.61,Market Competitive,No recent promotion
+EMP-1330,2025-Q4,92573.01,0.0,9.24,Market Competitive,No recent promotion
+EMP-1331,2025-Q4,139273.59,14537.26,0.86,Below Benchmark,No recent promotion
+EMP-1332,2025-Q4,100198.62,0.0,4.2,Market Competitive,No recent promotion
+EMP-1333,2025-Q4,107491.49,7608.64,7.83,Market Competitive,No recent promotion
+EMP-1334,2025-Q4,103068.1,10221.9,7.63,Market Competitive,No recent promotion
+EMP-1335,2025-Q4,197438.66,30317.66,4.46,Market Competitive,No recent promotion
+EMP-1336,2025-Q4,105398.89,0.0,3.94,Market Competitive,No recent promotion
+EMP-1337,2025-Q4,162337.15,7581.34,1.77,Below Benchmark,No recent promotion
+EMP-1338,2025-Q4,190163.78,0.0,5.45,Market Competitive,No recent promotion
+EMP-1339,2025-Q4,184494.25,0.0,3.88,Market Competitive,No recent promotion
+EMP-1340,2025-Q4,59213.47,0.0,3.87,Market Competitive,No recent promotion
+EMP-1341,2025-Q4,53101.49,0.0,8.32,Market Competitive,No recent promotion
+EMP-1342,2025-Q4,56654.86,0.0,1.24,Below Benchmark,No recent promotion
+EMP-1343,2025-Q4,159896.78,10585.38,1.37,Below Benchmark,No recent promotion
+EMP-1344,2025-Q4,153855.01,23415.52,4.65,Market Competitive,Promoted in last 12m
+EMP-1345,2025-Q4,164436.99,27190.56,3.2,Above Market,No recent promotion
+EMP-1346,2025-Q4,188524.54,0.0,5.64,Market Competitive,Promoted in last 12m
+EMP-1347,2025-Q4,92953.95,13724.94,0.26,Below Benchmark,No recent promotion
+EMP-1348,2025-Q4,166566.28,21732.79,5.39,Above Market,No recent promotion
+EMP-1349,2025-Q4,75208.96,4714.33,8.28,Above Market,No recent promotion
+EMP-1350,2025-Q4,150300.79,22752.72,2.26,Below Benchmark,No recent promotion
+EMP-1351,2025-Q4,108838.92,5023.57,7.3,Market Competitive,No recent promotion
+EMP-1352,2025-Q4,113236.53,11280.8,4.11,Above Market,Promoted in last 12m
+EMP-1353,2025-Q4,51633.85,6137.91,3.58,Market Competitive,Promoted in last 12m
+EMP-1354,2025-Q4,203085.81,0.0,7.79,Above Market,No recent promotion
+EMP-1355,2025-Q4,114363.96,19254.6,1.86,Below Benchmark,No recent promotion
+EMP-1356,2025-Q4,159057.44,28215.64,5.73,Market Competitive,No recent promotion
+EMP-1357,2025-Q4,165707.93,17035.75,4.75,Above Market,No recent promotion
+EMP-1358,2025-Q4,176913.83,0.0,0.33,Below Benchmark,No recent promotion
+EMP-1359,2025-Q4,103994.15,14108.58,9.05,Market Competitive,No recent promotion
+EMP-1360,2025-Q4,37370.74,2911.28,1.0,Below Benchmark,No recent promotion
+EMP-1361,2025-Q4,177889.75,24298.97,6.61,Above Market,No recent promotion
+EMP-1362,2025-Q4,163003.39,12309.62,5.69,Above Market,No recent promotion
+EMP-1363,2025-Q4,111619.95,0.0,7.41,Above Market,No recent promotion
+EMP-1364,2025-Q4,98343.88,9419.09,5.0,Above Market,No recent promotion
+EMP-1365,2025-Q4,98986.99,0.0,5.62,Market Competitive,Promoted in last 12m
+EMP-1366,2025-Q4,201616.72,15719.03,6.27,Market Competitive,No recent promotion
+EMP-1367,2025-Q4,106523.76,12267.93,0.04,Below Benchmark,No recent promotion
+EMP-1368,2025-Q4,166712.25,13915.54,6.85,Above Market,No recent promotion
+EMP-1369,2025-Q4,169682.81,11996.1,5.5,Market Competitive,No recent promotion
+EMP-1370,2025-Q4,73366.74,4016.59,3.2,Market Competitive,No recent promotion
+EMP-1371,2025-Q4,117860.96,0.0,1.09,Below Benchmark,No recent promotion
+EMP-1372,2025-Q4,116695.4,0.0,9.09,Above Market,No recent promotion
+EMP-1373,2025-Q4,78341.68,7712.26,7.43,Above Market,No recent promotion
+EMP-1374,2025-Q4,115919.17,6153.04,5.7,Above Market,No recent promotion
+EMP-1375,2025-Q4,158215.52,14587.76,8.68,Market Competitive,No recent promotion
+EMP-1376,2025-Q4,144845.82,16514.74,1.93,Below Benchmark,No recent promotion
+EMP-1377,2025-Q4,153405.03,0.0,6.62,Above Market,No recent promotion
+EMP-1378,2025-Q4,150304.76,9149.56,5.7,Market Competitive,No recent promotion
+EMP-1379,2025-Q4,60763.87,0.0,0.65,Below Benchmark,No recent promotion
+EMP-1380,2025-Q4,61863.04,7491.46,4.47,Market Competitive,No recent promotion
+EMP-1381,2025-Q4,151674.99,18462.26,2.1,Below Benchmark,No recent promotion
+EMP-1382,2025-Q4,123324.18,9361.89,4.23,Above Market,Promoted in last 12m
+EMP-1383,2025-Q4,72318.41,3576.68,0.81,Below Benchmark,Promoted in last 12m
+EMP-1384,2025-Q4,85511.93,0.0,5.41,Above Market,Promoted in last 12m
+EMP-1385,2025-Q4,141788.92,11781.38,5.03,Market Competitive,No recent promotion
+EMP-1386,2025-Q4,104002.48,5491.12,0.32,Below Benchmark,No recent promotion
+EMP-1387,2025-Q4,182804.15,0.0,3.99,Market Competitive,No recent promotion
+EMP-1388,2025-Q4,121750.34,17433.71,1.46,Below Benchmark,Promoted in last 12m
+EMP-1389,2025-Q4,157495.66,0.0,6.62,Market Competitive,No recent promotion
+EMP-1390,2025-Q4,102408.22,18291.68,7.95,Market Competitive,No recent promotion
+EMP-1391,2025-Q4,66176.88,0.0,8.15,Market Competitive,No recent promotion
+EMP-1392,2025-Q4,90845.22,16104.87,8.39,Above Market,No recent promotion
+EMP-1393,2025-Q4,209710.0,0.0,4.97,Above Market,No recent promotion
+EMP-1394,2025-Q4,67783.27,0.0,0.21,Below Benchmark,No recent promotion
+EMP-1395,2025-Q4,100364.1,13936.27,7.8,Market Competitive,No recent promotion
+EMP-1396,2025-Q4,48118.24,0.0,0.13,Below Benchmark,Promoted in last 12m
+EMP-1397,2025-Q4,90939.66,6473.99,0.42,Below Benchmark,No recent promotion
+EMP-1398,2025-Q4,57928.62,0.0,5.64,Market Competitive,No recent promotion
+EMP-1399,2025-Q4,130819.49,19203.87,6.66,Market Competitive,No recent promotion
+EMP-1400,2025-Q4,82768.41,0.0,8.33,Market Competitive,No recent promotion
+EMP-1401,2025-Q4,73814.28,0.0,3.34,Market Competitive,No recent promotion
+EMP-1402,2025-Q4,104258.95,0.0,3.72,Market Competitive,No recent promotion
+EMP-1403,2025-Q4,161410.72,17033.54,7.06,Above Market,Promoted in last 12m
+EMP-1404,2025-Q4,52924.75,7682.09,3.52,Market Competitive,Promoted in last 12m
+EMP-1405,2025-Q4,143745.11,18087.47,5.52,Market Competitive,Promoted in last 12m
+EMP-1406,2025-Q4,177569.04,21398.6,7.52,Above Market,Promoted in last 12m
+EMP-1407,2025-Q4,84519.88,5412.85,2.3,Below Benchmark,No recent promotion
+EMP-1408,2025-Q4,81675.43,10554.32,1.41,Below Benchmark,No recent promotion
+EMP-1409,2025-Q4,117566.31,18522.27,9.2,Market Competitive,No recent promotion
+EMP-1410,2025-Q4,107262.16,8351.28,2.45,Below Benchmark,No recent promotion
+EMP-1411,2025-Q4,119569.81,0.0,1.94,Below Benchmark,No recent promotion
+EMP-1412,2025-Q4,115410.95,4685.62,9.1,Above Market,No recent promotion
+EMP-1413,2025-Q4,182208.18,0.0,6.65,Market Competitive,No recent promotion
+EMP-1414,2025-Q4,109579.83,13308.47,5.32,Market Competitive,No recent promotion
+EMP-1415,2025-Q4,86738.17,5238.6,6.92,Above Market,No recent promotion
+EMP-1416,2025-Q4,148674.2,9780.91,4.27,Market Competitive,No recent promotion
+EMP-1417,2025-Q4,84629.51,4738.81,6.46,Market Competitive,No recent promotion
+EMP-1418,2025-Q4,97327.54,0.0,1.42,Below Benchmark,No recent promotion
+EMP-1419,2025-Q4,65712.59,0.0,5.37,Market Competitive,No recent promotion
+EMP-1420,2025-Q4,146106.86,0.0,1.14,Below Benchmark,No recent promotion
+EMP-1421,2025-Q4,182834.43,19069.83,7.46,Market Competitive,No recent promotion
+EMP-1422,2025-Q4,77695.0,8770.77,4.89,Above Market,No recent promotion
+EMP-1423,2025-Q4,87413.38,7915.56,0.46,Below Benchmark,No recent promotion
+EMP-1424,2025-Q4,101158.74,6417.43,8.56,Market Competitive,No recent promotion
+EMP-1425,2025-Q4,167708.0,9787.75,5.75,Above Market,No recent promotion
+EMP-1426,2025-Q4,78470.0,9248.17,6.91,Market Competitive,No recent promotion
+EMP-1427,2025-Q4,147590.7,0.0,6.71,Market Competitive,No recent promotion
+EMP-1428,2025-Q4,57941.11,3789.82,2.5,Below Benchmark,Promoted in last 12m
+EMP-1429,2025-Q4,127386.91,0.0,4.43,Above Market,Promoted in last 12m
+EMP-1430,2025-Q4,178823.94,27411.1,6.22,Market Competitive,No recent promotion
+EMP-1431,2025-Q4,96363.08,17216.73,2.39,Below Benchmark,No recent promotion
+EMP-1432,2025-Q4,195116.45,30213.45,5.13,Market Competitive,No recent promotion
+EMP-1433,2025-Q4,79250.81,7914.37,1.92,Below Benchmark,No recent promotion
+EMP-1434,2025-Q4,166726.06,9997.49,6.49,Market Competitive,No recent promotion
+EMP-1435,2025-Q4,79036.04,3961.13,2.17,Below Benchmark,No recent promotion
+EMP-1436,2025-Q4,77608.27,0.0,0.1,Below Benchmark,No recent promotion
+EMP-1437,2025-Q4,74317.84,10863.57,6.41,Market Competitive,No recent promotion
+EMP-1438,2025-Q4,114453.67,7619.07,5.24,Above Market,No recent promotion
+EMP-1439,2025-Q4,221832.99,21195.06,3.65,Above Market,Promoted in last 12m
+EMP-1440,2025-Q4,181781.38,0.0,6.75,Market Competitive,No recent promotion
+EMP-1441,2025-Q4,105682.04,13501.88,3.99,Market Competitive,Promoted in last 12m
+EMP-1442,2025-Q4,105576.99,6382.41,9.05,Market Competitive,No recent promotion
+EMP-1443,2025-Q4,173780.19,0.0,3.1,Market Competitive,No recent promotion
+EMP-1444,2025-Q4,156851.62,25746.9,3.99,Market Competitive,No recent promotion
+EMP-1445,2025-Q4,88328.61,11854.85,0.08,Below Benchmark,No recent promotion
+EMP-1446,2025-Q4,124589.53,5398.82,2.32,Below Benchmark,Promoted in last 12m
+EMP-1447,2025-Q4,94698.66,0.0,5.86,Market Competitive,No recent promotion
+EMP-1448,2025-Q4,148117.65,10152.59,0.48,Below Benchmark,Promoted in last 12m
+EMP-1449,2025-Q4,92427.94,0.0,2.23,Below Benchmark,No recent promotion
+EMP-1450,2025-Q4,138925.91,8341.54,4.19,Market Competitive,No recent promotion
+EMP-1451,2025-Q4,77170.83,6708.49,8.33,Market Competitive,Promoted in last 12m
+EMP-1452,2025-Q4,134290.89,6557.49,1.07,Below Benchmark,No recent promotion
+EMP-1453,2025-Q4,119348.1,21413.42,3.57,Market Competitive,No recent promotion
+EMP-1454,2025-Q4,78748.26,3828.42,5.37,Above Market,No recent promotion
+EMP-1455,2025-Q4,104466.52,8839.79,7.01,Market Competitive,No recent promotion
+EMP-1456,2025-Q4,189203.94,19232.64,7.67,Market Competitive,Promoted in last 12m
+EMP-1457,2025-Q4,105574.2,0.0,4.22,Market Competitive,No recent promotion
+EMP-1458,2025-Q4,192240.48,0.0,8.69,Above Market,No recent promotion
+EMP-1459,2025-Q4,164606.44,18478.3,6.02,Above Market,No recent promotion
+EMP-1460,2025-Q4,84183.11,0.0,6.09,Market Competitive,No recent promotion
+EMP-1461,2025-Q4,81886.95,9688.48,0.77,Below Benchmark,No recent promotion
+EMP-1462,2025-Q4,145138.54,0.0,5.0,Market Competitive,No recent promotion
+EMP-1463,2025-Q4,81980.58,9602.56,5.97,Market Competitive,Promoted in last 12m
+EMP-1464,2025-Q4,83883.99,13101.77,9.36,Market Competitive,No recent promotion
+EMP-1465,2025-Q4,111526.41,0.0,1.55,Below Benchmark,No recent promotion
+EMP-1466,2025-Q4,52272.88,3731.45,5.2,Market Competitive,No recent promotion
+EMP-1467,2025-Q4,192015.11,16178.08,7.82,Above Market,No recent promotion
+EMP-1468,2025-Q4,114272.72,10882.82,2.3,Below Benchmark,Promoted in last 12m
+EMP-1469,2025-Q4,101033.98,0.0,3.83,Market Competitive,No recent promotion
+EMP-1470,2025-Q4,88144.72,0.0,8.7,Above Market,No recent promotion
+EMP-1471,2025-Q4,200126.07,0.0,6.55,Market Competitive,No recent promotion
+EMP-1472,2025-Q4,111416.5,18201.72,3.65,Above Market,No recent promotion
+EMP-1473,2025-Q4,159547.45,21363.52,3.91,Market Competitive,Promoted in last 12m
+EMP-1474,2025-Q4,146372.77,0.0,5.23,Market Competitive,Promoted in last 12m
+EMP-1475,2025-Q4,84279.51,11283.44,8.38,Market Competitive,No recent promotion
+EMP-1476,2025-Q4,138956.17,0.0,9.0,Market Competitive,Promoted in last 12m
+EMP-1477,2025-Q4,75584.84,0.0,8.23,Above Market,No recent promotion
+EMP-1478,2025-Q4,85242.56,0.0,1.0,Below Benchmark,No recent promotion
+EMP-1479,2025-Q4,181623.32,13897.15,8.25,Market Competitive,No recent promotion
+EMP-1480,2025-Q4,85578.53,0.0,7.05,Above Market,Promoted in last 12m
+EMP-1481,2025-Q4,85642.98,0.0,9.39,Market Competitive,No recent promotion
+EMP-1482,2025-Q4,58305.41,9783.68,4.24,Market Competitive,No recent promotion
+EMP-1483,2025-Q4,153144.36,16376.49,6.47,Market Competitive,No recent promotion
+EMP-1484,2025-Q4,153248.89,11128.94,4.86,Market Competitive,No recent promotion
+EMP-1485,2025-Q4,185077.78,25784.06,4.4,Above Market,No recent promotion
+EMP-1486,2025-Q4,112284.2,12238.47,9.46,Market Competitive,No recent promotion
+EMP-1487,2025-Q4,84827.12,14717.53,6.55,Market Competitive,Promoted in last 12m
+EMP-1488,2025-Q4,104241.03,0.0,8.11,Market Competitive,No recent promotion
+EMP-1489,2025-Q4,107889.81,15557.64,0.12,Below Benchmark,No recent promotion
+EMP-1490,2025-Q4,143737.5,24083.1,4.64,Market Competitive,No recent promotion
+EMP-1491,2025-Q4,153028.22,27543.47,7.57,Market Competitive,No recent promotion
+EMP-1492,2025-Q4,72935.99,0.0,4.54,Market Competitive,No recent promotion
+EMP-1493,2025-Q4,128030.16,8728.51,3.02,Above Market,No recent promotion
+EMP-1494,2025-Q4,182230.01,9281.81,6.57,Market Competitive,No recent promotion
+EMP-1495,2025-Q4,80034.35,8319.91,0.09,Below Benchmark,No recent promotion
+EMP-1496,2025-Q4,74388.35,10607.65,7.08,Market Competitive,No recent promotion
+EMP-1497,2025-Q4,90760.88,8006.2,1.83,Below Benchmark,No recent promotion
+EMP-1498,2025-Q4,86772.37,0.0,0.17,Below Benchmark,Promoted in last 12m
+EMP-1499,2025-Q4,180387.47,18792.02,8.68,Above Market,Promoted in last 12m
+EMP-1500,2025-Q4,68698.87,12190.92,3.9,Market Competitive,No recent promotion
+EMP-1501,2025-Q4,193063.2,0.0,8.72,Market Competitive,Promoted in last 12m
+EMP-1502,2025-Q4,157694.33,27189.58,4.33,Market Competitive,Promoted in last 12m
+EMP-1503,2025-Q4,124763.44,0.0,7.84,Above Market,No recent promotion
+EMP-1504,2025-Q4,85825.38,0.0,5.11,Above Market,No recent promotion
+EMP-1505,2025-Q4,140740.46,0.0,3.71,Market Competitive,No recent promotion
+EMP-1506,2025-Q4,67776.7,3516.86,4.41,Market Competitive,No recent promotion
+EMP-1507,2025-Q4,214444.51,0.0,4.09,Market Competitive,No recent promotion
+EMP-1508,2025-Q4,57105.85,10070.79,4.89,Market Competitive,No recent promotion
+EMP-1509,2025-Q4,103375.46,11979.76,4.29,Market Competitive,No recent promotion
+EMP-1510,2025-Q4,113397.53,18975.42,5.03,Market Competitive,No recent promotion
+EMP-1511,2025-Q4,85380.0,0.0,1.07,Below Benchmark,No recent promotion
+EMP-1512,2025-Q4,160896.17,14875.27,9.38,Above Market,Promoted in last 12m
+EMP-1513,2025-Q4,158386.63,10250.4,1.33,Below Benchmark,No recent promotion
+EMP-1514,2025-Q4,99905.61,10928.98,3.27,Market Competitive,No recent promotion
+EMP-1515,2025-Q4,193018.03,25708.66,5.71,Market Competitive,No recent promotion
+EMP-1516,2025-Q4,105723.04,11975.12,3.87,Market Competitive,No recent promotion
+EMP-1517,2025-Q4,79241.12,9951.6,9.29,Market Competitive,No recent promotion
+EMP-1518,2025-Q4,132562.69,20644.79,9.1,Market Competitive,No recent promotion
+EMP-1519,2025-Q4,150197.43,19624.95,0.96,Below Benchmark,No recent promotion
+EMP-1520,2025-Q4,165511.83,9205.27,7.68,Above Market,Promoted in last 12m
+EMP-1521,2025-Q4,95123.99,13048.64,3.85,Market Competitive,No recent promotion
+EMP-1522,2025-Q4,98280.22,9158.47,5.37,Market Competitive,No recent promotion
+EMP-1523,2025-Q4,85559.11,5222.84,4.66,Above Market,No recent promotion
+EMP-1524,2025-Q4,98327.71,16887.17,8.8,Market Competitive,No recent promotion
+EMP-1525,2025-Q4,119479.18,0.0,9.4,Market Competitive,No recent promotion
+EMP-1526,2025-Q4,108905.57,0.0,5.13,Market Competitive,No recent promotion
+EMP-1527,2025-Q4,115373.74,6116.76,4.28,Above Market,Promoted in last 12m
+EMP-1528,2025-Q4,54087.33,5460.42,5.52,Market Competitive,Promoted in last 12m
+EMP-1529,2025-Q4,98467.92,11133.0,3.4,Market Competitive,No recent promotion
+EMP-1530,2025-Q4,195948.48,27008.54,3.11,Above Market,No recent promotion
+EMP-1531,2025-Q4,125222.23,9461.2,6.64,Above Market,No recent promotion
+EMP-1532,2025-Q4,87360.67,5903.11,7.98,Above Market,No recent promotion
+EMP-1533,2025-Q4,160151.93,0.0,9.23,Market Competitive,Promoted in last 12m
+EMP-1534,2025-Q4,127958.42,7992.09,4.28,Above Market,No recent promotion
+EMP-1535,2025-Q4,137992.09,17290.64,1.99,Below Benchmark,Promoted in last 12m
+EMP-1536,2025-Q4,109980.82,0.0,4.34,Market Competitive,No recent promotion
+EMP-1537,2025-Q4,59597.66,4358.48,1.43,Below Benchmark,No recent promotion
+EMP-1538,2025-Q4,121196.42,15583.37,8.52,Above Market,No recent promotion
+EMP-1539,2025-Q4,79637.04,7491.15,2.13,Below Benchmark,Promoted in last 12m
+EMP-1540,2025-Q4,167073.17,13017.76,8.41,Above Market,No recent promotion
+EMP-1541,2025-Q4,83920.85,11862.67,1.42,Below Benchmark,No recent promotion
+EMP-1542,2025-Q4,167261.62,20818.04,9.17,Market Competitive,No recent promotion
+EMP-1543,2025-Q4,155842.07,16751.98,5.49,Market Competitive,No recent promotion
+EMP-1544,2025-Q4,178648.23,0.0,4.3,Market Competitive,No recent promotion
+EMP-1545,2025-Q4,92836.19,0.0,7.06,Market Competitive,Promoted in last 12m
+EMP-1546,2025-Q4,180815.77,0.0,5.93,Market Competitive,No recent promotion
+EMP-1547,2025-Q4,64985.49,0.0,8.62,Market Competitive,No recent promotion
+EMP-1548,2025-Q4,111070.65,4852.39,0.37,Below Benchmark,No recent promotion
+EMP-1549,2025-Q4,46939.22,8384.33,0.49,Below Benchmark,No recent promotion
+EMP-1550,2025-Q4,123773.82,0.0,3.35,Above Market,No recent promotion
+EMP-1551,2025-Q4,71459.17,0.0,1.74,Below Benchmark,No recent promotion
+EMP-1552,2025-Q4,175454.18,0.0,8.01,Market Competitive,Promoted in last 12m
+EMP-1553,2025-Q4,136193.9,22074.16,2.37,Below Benchmark,No recent promotion
+EMP-1554,2025-Q4,105526.6,7908.89,8.32,Market Competitive,No recent promotion
+EMP-1555,2025-Q4,179297.04,8711.14,3.08,Above Market,No recent promotion
+EMP-1556,2025-Q4,82381.21,5772.78,8.66,Market Competitive,No recent promotion
+EMP-1557,2025-Q4,226379.45,13508.81,3.66,Above Market,No recent promotion
+EMP-1558,2025-Q4,92997.33,0.0,5.81,Market Competitive,No recent promotion
+EMP-1559,2025-Q4,100427.62,12662.76,5.85,Market Competitive,No recent promotion
+EMP-1560,2025-Q4,112875.53,11762.53,9.22,Market Competitive,No recent promotion
+EMP-1561,2025-Q4,83809.4,5740.05,1.08,Below Benchmark,No recent promotion
+EMP-1562,2025-Q4,41886.26,0.0,2.39,Below Benchmark,No recent promotion
+EMP-1563,2025-Q4,117914.78,6172.27,8.73,Market Competitive,No recent promotion
+EMP-1564,2025-Q4,156137.34,0.0,4.99,Market Competitive,No recent promotion
+EMP-1565,2025-Q4,150180.33,10182.47,6.5,Above Market,No recent promotion
+EMP-1566,2025-Q4,107494.29,9334.9,9.06,Market Competitive,No recent promotion
+EMP-1567,2025-Q4,149279.35,19811.56,7.79,Market Competitive,No recent promotion
+EMP-1568,2025-Q4,46135.22,4302.67,1.52,Below Benchmark,No recent promotion
+EMP-1569,2025-Q4,219878.25,36440.31,6.49,Market Competitive,No recent promotion
+EMP-1570,2025-Q4,158712.4,13118.77,7.72,Market Competitive,Promoted in last 12m
+EMP-1571,2025-Q4,50863.93,0.0,5.81,Market Competitive,No recent promotion
+EMP-1572,2025-Q4,78590.73,3631.16,8.33,Above Market,No recent promotion
+EMP-1573,2025-Q4,85733.92,0.0,0.56,Below Benchmark,No recent promotion
+EMP-1574,2025-Q4,100954.55,15173.13,1.37,Below Benchmark,No recent promotion
+EMP-1575,2025-Q4,86479.08,4176.49,7.29,Above Market,No recent promotion
+EMP-1576,2025-Q4,138445.82,0.0,6.89,Market Competitive,Promoted in last 12m
+EMP-1577,2025-Q4,113643.53,14823.22,1.72,Below Benchmark,No recent promotion
+EMP-1578,2025-Q4,200380.67,15751.56,8.05,Market Competitive,No recent promotion
+EMP-1579,2025-Q4,105233.67,7455.27,7.46,Market Competitive,No recent promotion
+EMP-1580,2025-Q4,84450.3,14599.4,1.76,Below Benchmark,No recent promotion
+EMP-1581,2025-Q4,75597.03,11215.16,4.99,Market Competitive,No recent promotion
+EMP-1582,2025-Q4,83996.97,0.0,1.86,Below Benchmark,No recent promotion
+EMP-1583,2025-Q4,97418.76,0.0,8.54,Above Market,No recent promotion
+EMP-1584,2025-Q4,115102.21,6436.98,7.55,Market Competitive,No recent promotion
+EMP-1585,2025-Q4,42145.02,5048.65,1.47,Below Benchmark,No recent promotion
+EMP-1586,2025-Q4,121414.53,13657.96,1.87,Below Benchmark,No recent promotion
+EMP-1587,2025-Q4,183633.71,0.0,6.97,Market Competitive,No recent promotion
+EMP-1588,2025-Q4,53371.76,4823.04,7.83,Market Competitive,No recent promotion
+EMP-1589,2025-Q4,83515.79,0.0,2.29,Below Benchmark,No recent promotion
+EMP-1590,2025-Q4,44779.87,0.0,0.52,Below Benchmark,No recent promotion
+EMP-1591,2025-Q4,103390.35,18404.94,8.32,Market Competitive,No recent promotion
+EMP-1592,2025-Q4,108829.2,0.0,9.16,Market Competitive,Promoted in last 12m
+EMP-1593,2025-Q4,81922.94,0.0,0.06,Below Benchmark,No recent promotion
+EMP-1594,2025-Q4,64390.53,4500.82,9.17,Market Competitive,No recent promotion
+EMP-1595,2025-Q4,118169.71,19683.7,1.8,Below Benchmark,Promoted in last 12m
+EMP-1596,2025-Q4,157314.73,15364.8,4.24,Market Competitive,Promoted in last 12m
+EMP-1597,2025-Q4,80543.47,3477.31,3.55,Market Competitive,No recent promotion
+EMP-1598,2025-Q4,116798.63,14782.93,4.33,Market Competitive,No recent promotion
+EMP-1599,2025-Q4,127444.86,13727.22,2.36,Below Benchmark,No recent promotion
+EMP-1600,2025-Q4,199024.46,32958.18,3.45,Market Competitive,Promoted in last 12m
+EMP-1601,2025-Q4,105301.94,0.0,8.48,Market Competitive,No recent promotion
+EMP-1602,2025-Q4,171071.17,23980.71,6.4,Above Market,Promoted in last 12m
+EMP-1603,2025-Q4,176807.88,25711.39,6.95,Market Competitive,No recent promotion
+EMP-1604,2025-Q4,205505.9,0.0,5.33,Above Market,No recent promotion
+EMP-1605,2025-Q4,108774.98,6523.81,7.67,Market Competitive,No recent promotion
+EMP-1606,2025-Q4,55302.22,0.0,5.71,Market Competitive,No recent promotion
+EMP-1607,2025-Q4,86181.54,0.0,4.04,Market Competitive,No recent promotion
+EMP-1608,2025-Q4,106332.91,10682.4,3.87,Market Competitive,No recent promotion
+EMP-1609,2025-Q4,58600.68,8812.52,3.1,Market Competitive,No recent promotion
+EMP-1610,2025-Q4,162241.19,20016.85,9.47,Market Competitive,No recent promotion
+EMP-1611,2025-Q4,77796.99,0.0,1.15,Below Benchmark,No recent promotion
+EMP-1612,2025-Q4,172225.5,19018.35,7.01,Market Competitive,No recent promotion
+EMP-1613,2025-Q4,62120.57,9570.15,9.38,Above Market,No recent promotion
+EMP-1614,2025-Q4,144221.98,23842.84,1.66,Below Benchmark,No recent promotion
+EMP-1615,2025-Q4,186061.41,0.0,5.73,Market Competitive,No recent promotion
+EMP-1616,2025-Q4,100506.05,0.0,4.47,Market Competitive,No recent promotion
+EMP-1617,2025-Q4,66054.0,6071.47,0.05,Below Benchmark,No recent promotion
+EMP-1618,2025-Q4,154118.35,18519.81,5.42,Above Market,No recent promotion
+EMP-1619,2025-Q4,93575.63,6656.03,5.02,Market Competitive,No recent promotion
+EMP-1620,2025-Q4,71488.9,0.0,5.14,Market Competitive,Promoted in last 12m
+EMP-1621,2025-Q4,105660.36,14527.3,8.78,Market Competitive,No recent promotion
+EMP-1622,2025-Q4,62850.54,7092.99,7.62,Above Market,No recent promotion
+EMP-1623,2025-Q4,179221.6,13382.66,6.88,Market Competitive,No recent promotion
+EMP-1624,2025-Q4,114264.42,19655.95,8.21,Market Competitive,Promoted in last 12m
+EMP-1625,2025-Q4,80329.25,0.0,1.02,Below Benchmark,No recent promotion
+EMP-1626,2025-Q4,73237.04,11139.86,3.28,Market Competitive,No recent promotion
+EMP-1627,2025-Q4,168511.53,8230.25,7.77,Market Competitive,No recent promotion
+EMP-1628,2025-Q4,130537.84,21252.67,1.93,Below Benchmark,No recent promotion
+EMP-1629,2025-Q4,171787.88,15110.38,5.76,Above Market,No recent promotion
+EMP-1630,2025-Q4,154035.36,0.0,5.12,Market Competitive,No recent promotion
+EMP-1631,2025-Q4,126740.41,0.0,2.28,Below Benchmark,Promoted in last 12m
+EMP-1632,2025-Q4,103158.7,0.0,0.6,Below Benchmark,No recent promotion
+EMP-1633,2025-Q4,148345.38,26257.65,7.75,Market Competitive,Promoted in last 12m
+EMP-1634,2025-Q4,48865.2,6067.01,1.63,Below Benchmark,No recent promotion
+EMP-1635,2025-Q4,108104.89,0.0,6.79,Market Competitive,No recent promotion
+EMP-1636,2025-Q4,188697.3,11417.3,6.17,Market Competitive,No recent promotion
+EMP-1637,2025-Q4,97757.53,0.0,3.77,Market Competitive,No recent promotion
+EMP-1638,2025-Q4,196748.47,32070.26,7.08,Above Market,No recent promotion
+EMP-1639,2025-Q4,169337.34,0.0,8.44,Above Market,No recent promotion
+EMP-1640,2025-Q4,167082.49,9690.71,7.55,Above Market,No recent promotion
+EMP-1641,2025-Q4,190545.23,0.0,6.7,Above Market,No recent promotion
+EMP-1642,2025-Q4,105969.43,10961.94,0.85,Below Benchmark,No recent promotion
+EMP-1643,2025-Q4,71134.71,0.0,0.9,Below Benchmark,No recent promotion
+EMP-1644,2025-Q4,101280.93,12818.53,5.0,Market Competitive,No recent promotion
+EMP-1645,2025-Q4,148464.38,26300.99,3.41,Market Competitive,Promoted in last 12m
+EMP-1646,2025-Q4,99165.38,0.0,0.21,Below Benchmark,Promoted in last 12m
+EMP-1647,2025-Q4,84453.82,4944.26,1.93,Below Benchmark,No recent promotion
+EMP-1648,2025-Q4,57746.73,5165.24,1.81,Below Benchmark,No recent promotion
+EMP-1649,2025-Q4,142445.86,7100.4,1.91,Below Benchmark,No recent promotion
+EMP-1650,2025-Q4,185281.14,18756.16,9.36,Market Competitive,No recent promotion
+EMP-1651,2025-Q4,65252.43,9278.22,0.82,Below Benchmark,No recent promotion
+EMP-1652,2025-Q4,66928.93,7157.59,5.6,Market Competitive,No recent promotion
+EMP-1653,2025-Q4,55553.64,0.0,6.76,Market Competitive,No recent promotion
+EMP-1654,2025-Q4,158618.12,20875.75,1.78,Below Benchmark,No recent promotion
+EMP-1655,2025-Q4,128719.42,20333.52,0.29,Below Benchmark,No recent promotion
+EMP-1656,2025-Q4,158971.54,14146.5,6.15,Market Competitive,No recent promotion
+EMP-1657,2025-Q4,186707.27,27345.87,5.24,Market Competitive,No recent promotion
+EMP-1658,2025-Q4,136576.39,22131.31,2.24,Below Benchmark,No recent promotion
+EMP-1659,2025-Q4,106851.22,4654.15,4.12,Market Competitive,No recent promotion
+EMP-1660,2025-Q4,191966.38,0.0,8.77,Above Market,No recent promotion
+EMP-1661,2025-Q4,86592.05,0.0,8.56,Market Competitive,Promoted in last 12m
+EMP-1662,2025-Q4,72660.48,0.0,5.15,Market Competitive,No recent promotion
+EMP-1663,2025-Q4,67600.38,10085.23,0.76,Below Benchmark,No recent promotion
+EMP-1664,2025-Q4,157023.53,27721.62,3.55,Market Competitive,No recent promotion
+EMP-1665,2025-Q4,136120.84,19845.4,1.94,Below Benchmark,No recent promotion
+EMP-1666,2025-Q4,152527.48,23878.01,1.99,Below Benchmark,No recent promotion
+EMP-1667,2025-Q4,166021.84,25498.88,5.78,Market Competitive,No recent promotion
+EMP-1668,2025-Q4,44544.71,2785.24,0.77,Below Benchmark,No recent promotion
+EMP-1669,2025-Q4,104243.41,0.0,9.07,Market Competitive,No recent promotion
+EMP-1670,2025-Q4,72679.61,0.0,4.98,Market Competitive,No recent promotion
+EMP-1671,2025-Q4,199596.71,10514.12,6.57,Market Competitive,No recent promotion
+EMP-1672,2025-Q4,149253.9,0.0,3.68,Market Competitive,No recent promotion
+EMP-1673,2025-Q4,165247.4,0.0,3.09,Above Market,No recent promotion
+EMP-1674,2025-Q4,115342.61,0.0,6.36,Market Competitive,No recent promotion
+EMP-1675,2025-Q4,115466.59,0.0,3.09,Market Competitive,No recent promotion
+EMP-1676,2025-Q4,58108.56,0.0,0.37,Below Benchmark,No recent promotion
+EMP-1677,2025-Q4,57775.86,0.0,5.35,Market Competitive,Promoted in last 12m
+EMP-1678,2025-Q4,123298.46,0.0,9.09,Market Competitive,No recent promotion
+EMP-1679,2025-Q4,178350.59,0.0,9.11,Market Competitive,No recent promotion
+EMP-1680,2025-Q4,54830.56,8104.61,8.4,Market Competitive,No recent promotion
+EMP-1681,2025-Q4,68632.31,0.0,2.38,Below Benchmark,No recent promotion
+EMP-1682,2025-Q4,127613.8,10741.96,8.15,Above Market,No recent promotion
+EMP-1683,2025-Q4,88621.3,0.0,5.08,Above Market,No recent promotion
+EMP-1684,2025-Q4,110788.3,0.0,8.04,Market Competitive,Promoted in last 12m
+EMP-1685,2025-Q4,149909.83,0.0,7.71,Market Competitive,No recent promotion
+EMP-1686,2025-Q4,98276.26,9376.33,4.9,Market Competitive,No recent promotion
+EMP-1687,2025-Q4,110428.97,16908.54,1.87,Below Benchmark,No recent promotion
+EMP-1688,2025-Q4,100454.57,8434.17,3.02,Market Competitive,Promoted in last 12m
+EMP-1689,2025-Q4,73291.28,11423.75,6.43,Market Competitive,Promoted in last 12m
+EMP-1690,2025-Q4,208231.41,0.0,4.68,Market Competitive,No recent promotion
+EMP-1691,2025-Q4,166213.29,8681.38,3.66,Market Competitive,No recent promotion
+EMP-1692,2025-Q4,98660.14,14687.75,8.17,Above Market,Promoted in last 12m
+EMP-1693,2025-Q4,86243.49,0.0,1.7,Below Benchmark,No recent promotion
+EMP-1694,2025-Q4,81862.4,0.0,1.76,Below Benchmark,No recent promotion
+EMP-1695,2025-Q4,85917.63,9700.47,6.2,Above Market,No recent promotion
+EMP-1696,2025-Q4,83211.08,0.0,4.06,Market Competitive,No recent promotion
+EMP-1697,2025-Q4,147498.33,0.0,3.56,Market Competitive,No recent promotion
+EMP-1698,2025-Q4,134494.88,18971.14,0.32,Below Benchmark,Promoted in last 12m
+EMP-1699,2025-Q4,74709.7,4365.26,9.14,Market Competitive,No recent promotion
+EMP-1700,2025-Q4,130302.79,0.0,7.06,Above Market,Promoted in last 12m
+EMP-1701,2025-Q4,110754.44,7188.47,5.83,Above Market,Promoted in last 12m
+EMP-1702,2025-Q4,52559.27,6352.36,7.59,Market Competitive,No recent promotion
+EMP-1703,2025-Q4,124266.04,15661.57,3.28,Above Market,No recent promotion
+EMP-1704,2025-Q4,179013.21,0.0,8.48,Market Competitive,No recent promotion
+EMP-1705,2025-Q4,145930.48,11630.14,3.46,Market Competitive,No recent promotion
+EMP-1706,2025-Q4,177973.31,9435.48,8.65,Above Market,No recent promotion
+EMP-1707,2025-Q4,87574.56,14525.01,2.19,Below Benchmark,No recent promotion
+EMP-1708,2025-Q4,62400.25,0.0,1.98,Below Benchmark,Promoted in last 12m
+EMP-1709,2025-Q4,120944.55,0.0,7.57,Market Competitive,No recent promotion
+EMP-1710,2025-Q4,72253.12,6318.33,2.41,Below Benchmark,No recent promotion
+EMP-1711,2025-Q4,109979.38,16154.26,0.3,Below Benchmark,Promoted in last 12m
+EMP-1712,2025-Q4,115343.47,13875.9,6.46,Above Market,No recent promotion
+EMP-1713,2025-Q4,74761.24,3273.92,3.25,Market Competitive,Promoted in last 12m
+EMP-1714,2025-Q4,201536.14,11161.31,7.46,Above Market,No recent promotion
+EMP-1715,2025-Q4,74076.7,3549.51,8.5,Market Competitive,No recent promotion
+EMP-1716,2025-Q4,65734.47,0.0,4.45,Market Competitive,No recent promotion
+EMP-1717,2025-Q4,113725.99,0.0,5.95,Above Market,Promoted in last 12m
+EMP-1718,2025-Q4,108748.48,9621.89,8.37,Market Competitive,Promoted in last 12m
+EMP-1719,2025-Q4,43584.32,0.0,1.85,Below Benchmark,No recent promotion
+EMP-1720,2025-Q4,119975.49,8190.81,4.32,Market Competitive,No recent promotion
+EMP-1721,2025-Q4,158263.44,0.0,6.67,Market Competitive,Promoted in last 12m
+EMP-1722,2025-Q4,154397.14,8413.72,0.85,Below Benchmark,Promoted in last 12m
+EMP-1723,2025-Q4,147055.06,0.0,6.16,Market Competitive,No recent promotion
+EMP-1724,2025-Q4,96691.07,6858.15,0.76,Below Benchmark,No recent promotion
+EMP-1725,2025-Q4,179357.45,0.0,5.58,Above Market,No recent promotion
+EMP-1726,2025-Q4,189589.86,0.0,5.85,Above Market,No recent promotion
+EMP-1727,2025-Q4,164391.3,9374.7,7.29,Above Market,No recent promotion
+EMP-1728,2025-Q4,110070.85,4473.72,7.86,Above Market,No recent promotion
+EMP-1729,2025-Q4,130562.49,19203.72,5.6,Market Competitive,No recent promotion
+EMP-1730,2025-Q4,83191.92,7936.93,0.38,Below Benchmark,No recent promotion
+EMP-1731,2025-Q4,229882.99,15068.9,6.57,Above Market,No recent promotion
+EMP-1732,2025-Q4,106914.39,8342.5,8.02,Market Competitive,No recent promotion
+EMP-1733,2025-Q4,147056.44,8027.65,3.31,Market Competitive,Promoted in last 12m
+EMP-1734,2025-Q4,40229.24,5671.52,1.15,Below Benchmark,No recent promotion
+EMP-1735,2025-Q4,77323.71,0.0,7.84,Market Competitive,No recent promotion
+EMP-1736,2025-Q4,167321.96,7161.21,3.52,Above Market,No recent promotion
+EMP-1737,2025-Q4,90719.21,13098.98,4.1,Market Competitive,No recent promotion
+EMP-1738,2025-Q4,154764.66,6437.01,2.23,Below Benchmark,No recent promotion
+EMP-1739,2025-Q4,160128.3,0.0,7.86,Market Competitive,No recent promotion
+EMP-1740,2025-Q4,185547.48,24504.96,7.8,Above Market,No recent promotion
+EMP-1741,2025-Q4,62595.69,0.0,2.3,Below Benchmark,Promoted in last 12m
+EMP-1742,2025-Q4,108216.31,0.0,6.47,Market Competitive,No recent promotion
+EMP-1743,2025-Q4,113660.45,12930.94,7.16,Market Competitive,No recent promotion
+EMP-1744,2025-Q4,65466.26,5059.48,0.74,Below Benchmark,No recent promotion
+EMP-1745,2025-Q4,150855.96,0.0,5.26,Market Competitive,No recent promotion
+EMP-1746,2025-Q4,180271.65,0.0,6.0,Market Competitive,No recent promotion
+EMP-1747,2025-Q4,126312.0,12163.4,6.43,Above Market,Promoted in last 12m
+EMP-1748,2025-Q4,68913.5,7560.19,7.77,Market Competitive,No recent promotion
+EMP-1749,2025-Q4,58377.88,0.0,4.17,Market Competitive,No recent promotion
+EMP-1750,2025-Q4,103342.08,5293.19,4.42,Market Competitive,No recent promotion
+EMP-1751,2025-Q4,85693.56,0.0,7.77,Above Market,No recent promotion
+EMP-1752,2025-Q4,110121.46,12134.99,6.89,Above Market,No recent promotion
+EMP-1753,2025-Q4,111998.37,0.0,0.47,Below Benchmark,Promoted in last 12m
+EMP-1754,2025-Q4,115111.73,10801.67,7.44,Market Competitive,No recent promotion
+EMP-1755,2025-Q4,173690.13,0.0,4.12,Market Competitive,Promoted in last 12m
+EMP-1756,2025-Q4,73816.44,3693.13,0.82,Below Benchmark,No recent promotion
+EMP-1757,2025-Q4,86551.82,10157.29,6.39,Above Market,No recent promotion
+EMP-1758,2025-Q4,144799.77,0.0,9.37,Above Market,No recent promotion
+EMP-1759,2025-Q4,198207.24,12844.46,9.22,Above Market,Promoted in last 12m
+EMP-1760,2025-Q4,152161.9,18739.37,3.21,Above Market,No recent promotion
+EMP-1761,2025-Q4,97505.74,0.0,8.79,Market Competitive,No recent promotion
+EMP-1762,2025-Q4,52564.87,0.0,3.31,Market Competitive,No recent promotion
+EMP-1763,2025-Q4,149403.9,0.0,4.5,Market Competitive,No recent promotion
+EMP-1764,2025-Q4,75079.48,13261.61,2.09,Below Benchmark,Promoted in last 12m
+EMP-1765,2025-Q4,215845.61,34554.36,4.1,Market Competitive,No recent promotion
+EMP-1766,2025-Q4,83377.78,11702.22,0.9,Below Benchmark,No recent promotion
+EMP-1767,2025-Q4,92604.37,5630.28,8.85,Market Competitive,No recent promotion
+EMP-1768,2025-Q4,105614.13,0.0,6.87,Market Competitive,No recent promotion
+EMP-1769,2025-Q4,72651.43,3232.63,1.74,Below Benchmark,No recent promotion
+EMP-1770,2025-Q4,108879.88,6449.76,3.04,Market Competitive,No recent promotion
+EMP-1771,2025-Q4,117838.28,7330.92,1.12,Below Benchmark,No recent promotion
+EMP-1772,2025-Q4,140646.84,17116.89,7.55,Market Competitive,Promoted in last 12m
+EMP-1773,2025-Q4,85849.83,13823.26,1.67,Below Benchmark,No recent promotion
+EMP-1774,2025-Q4,194497.02,25773.67,6.02,Above Market,Promoted in last 12m
+EMP-1775,2025-Q4,122644.96,0.0,2.36,Below Benchmark,No recent promotion
+EMP-1776,2025-Q4,203848.11,20254.52,8.82,Above Market,No recent promotion
+EMP-1777,2025-Q4,112160.95,15612.36,6.67,Above Market,No recent promotion
+EMP-1778,2025-Q4,90345.69,16137.93,0.44,Below Benchmark,No recent promotion
+EMP-1779,2025-Q4,180331.56,16564.89,9.37,Market Competitive,No recent promotion
+EMP-1780,2025-Q4,98129.0,15469.66,8.88,Market Competitive,Promoted in last 12m
+EMP-1781,2025-Q4,139936.86,14673.3,0.97,Below Benchmark,No recent promotion
+EMP-1782,2025-Q4,83049.17,0.0,6.88,Market Competitive,No recent promotion
+EMP-1783,2025-Q4,57604.15,0.0,4.81,Market Competitive,No recent promotion
+EMP-1784,2025-Q4,163695.8,6581.0,7.07,Above Market,No recent promotion
+EMP-1785,2025-Q4,77532.04,7134.23,3.38,Market Competitive,No recent promotion
+EMP-1786,2025-Q4,157947.47,0.0,1.2,Below Benchmark,No recent promotion
+EMP-1787,2025-Q4,108198.35,11435.54,8.49,Market Competitive,No recent promotion
+EMP-1788,2025-Q4,106147.7,6798.46,3.83,Market Competitive,No recent promotion
+EMP-1789,2025-Q4,100032.2,16931.29,7.73,Market Competitive,No recent promotion
+EMP-1790,2025-Q4,61837.18,4895.17,3.67,Above Market,No recent promotion
+EMP-1791,2025-Q4,114094.49,0.0,5.02,Above Market,No recent promotion
+EMP-1792,2025-Q4,196695.18,0.0,6.49,Market Competitive,No recent promotion
+EMP-1793,2025-Q4,172410.31,15489.65,4.13,Market Competitive,No recent promotion
+EMP-1794,2025-Q4,154959.77,17647.15,7.34,Market Competitive,No recent promotion
+EMP-1795,2025-Q4,87316.16,0.0,8.48,Market Competitive,No recent promotion
+EMP-1796,2025-Q4,108503.37,5097.27,6.76,Market Competitive,No recent promotion
+EMP-1797,2025-Q4,161339.03,0.0,8.07,Above Market,No recent promotion
+EMP-1798,2025-Q4,146921.0,25694.16,1.18,Below Benchmark,No recent promotion
+EMP-1799,2025-Q4,71916.34,0.0,0.61,Below Benchmark,No recent promotion
+EMP-1800,2025-Q4,198447.16,25625.53,4.69,Market Competitive,No recent promotion
+EMP-1801,2025-Q4,153375.42,0.0,1.45,Below Benchmark,No recent promotion
+EMP-1802,2025-Q4,160500.71,14518.96,5.64,Above Market,No recent promotion
+EMP-1803,2025-Q4,175280.65,28681.08,3.74,Market Competitive,No recent promotion
+EMP-1804,2025-Q4,59347.39,0.0,5.07,Above Market,No recent promotion
+EMP-1805,2025-Q4,85019.67,11438.97,5.49,Above Market,No recent promotion
+EMP-1806,2025-Q4,107417.59,0.0,7.42,Market Competitive,No recent promotion
+EMP-1807,2025-Q4,113362.91,9767.96,5.08,Market Competitive,No recent promotion
+EMP-1808,2025-Q4,189258.42,0.0,8.93,Market Competitive,No recent promotion
+EMP-1809,2025-Q4,111664.41,5997.24,4.5,Above Market,No recent promotion
+EMP-1810,2025-Q4,163513.84,16918.14,6.13,Above Market,No recent promotion
+EMP-1811,2025-Q4,79238.23,8124.46,2.44,Below Benchmark,No recent promotion
+EMP-1812,2025-Q4,177209.4,15781.78,5.18,Market Competitive,Promoted in last 12m
+EMP-1813,2025-Q4,206411.14,18339.07,3.52,Above Market,No recent promotion
+EMP-1814,2025-Q4,116769.41,15427.16,5.67,Above Market,No recent promotion
+EMP-1815,2025-Q4,164070.47,0.0,5.19,Above Market,No recent promotion
+EMP-1816,2025-Q4,134208.22,23097.92,1.34,Below Benchmark,Promoted in last 12m
+EMP-1817,2025-Q4,175390.95,20042.83,5.26,Above Market,No recent promotion
+EMP-1818,2025-Q4,130874.62,10593.91,8.47,Market Competitive,No recent promotion
+EMP-1819,2025-Q4,111201.38,0.0,7.32,Above Market,No recent promotion
+EMP-1820,2025-Q4,171286.39,24623.96,3.43,Above Market,No recent promotion
+EMP-1821,2025-Q4,143157.77,24706.88,5.87,Market Competitive,No recent promotion
+EMP-1822,2025-Q4,52196.47,0.0,2.06,Below Benchmark,Promoted in last 12m
+EMP-1823,2025-Q4,105734.88,13468.44,8.77,Market Competitive,No recent promotion
+EMP-1824,2025-Q4,176635.45,14851.01,7.41,Market Competitive,No recent promotion
+EMP-1825,2025-Q4,179170.61,0.0,6.26,Market Competitive,No recent promotion
+EMP-1826,2025-Q4,109296.96,18513.81,3.52,Market Competitive,Promoted in last 12m
+EMP-1827,2025-Q4,173601.58,18086.17,3.96,Market Competitive,No recent promotion
+EMP-1828,2025-Q4,126924.49,20143.4,6.68,Above Market,No recent promotion
+EMP-1829,2025-Q4,103373.75,14324.29,8.39,Market Competitive,No recent promotion
+EMP-1830,2025-Q4,94382.88,0.0,7.36,Market Competitive,No recent promotion
+EMP-1831,2025-Q4,100119.87,7364.07,3.72,Market Competitive,No recent promotion
+EMP-1832,2025-Q4,47764.26,0.0,0.99,Below Benchmark,No recent promotion
+EMP-1833,2025-Q4,134928.6,0.0,1.76,Below Benchmark,No recent promotion
+EMP-1834,2025-Q4,69785.96,7171.47,8.15,Market Competitive,No recent promotion
+EMP-1835,2025-Q4,148133.96,0.0,6.37,Market Competitive,No recent promotion
+EMP-1836,2025-Q4,167241.66,27003.04,6.88,Market Competitive,No recent promotion
+EMP-1837,2025-Q4,101198.25,8694.32,7.12,Market Competitive,No recent promotion
+EMP-1838,2025-Q4,66602.81,4384.15,9.4,Market Competitive,No recent promotion
+EMP-1839,2025-Q4,71948.66,9549.28,7.16,Market Competitive,No recent promotion
+EMP-1840,2025-Q4,112631.9,0.0,6.67,Market Competitive,Promoted in last 12m
+EMP-1841,2025-Q4,191674.6,23303.02,9.17,Market Competitive,Promoted in last 12m
+EMP-1842,2025-Q4,86394.07,11433.42,0.7,Below Benchmark,No recent promotion
+EMP-1843,2025-Q4,127963.07,0.0,7.07,Above Market,No recent promotion
+EMP-1844,2025-Q4,141825.32,12604.46,6.52,Market Competitive,Promoted in last 12m
+EMP-1845,2025-Q4,137535.64,13721.85,8.51,Market Competitive,No recent promotion
+EMP-1846,2025-Q4,119178.87,0.0,0.07,Below Benchmark,No recent promotion
+EMP-1847,2025-Q4,58069.37,0.0,0.89,Below Benchmark,No recent promotion
+EMP-1848,2025-Q4,102962.28,0.0,7.02,Market Competitive,Promoted in last 12m
+EMP-1849,2025-Q4,71554.06,8381.85,8.11,Market Competitive,Promoted in last 12m
+EMP-1850,2025-Q4,112931.03,14368.84,4.01,Market Competitive,Promoted in last 12m
+EMP-1851,2025-Q4,226325.73,0.0,3.14,Above Market,No recent promotion
+EMP-1852,2025-Q4,74798.19,0.0,3.43,Market Competitive,No recent promotion
+EMP-1853,2025-Q4,100888.33,7098.97,8.89,Market Competitive,No recent promotion
+EMP-1854,2025-Q4,120911.58,13139.37,1.53,Below Benchmark,No recent promotion
+EMP-1855,2025-Q4,118623.63,9912.34,1.11,Below Benchmark,No recent promotion
+EMP-1856,2025-Q4,111893.18,7841.01,6.2,Market Competitive,No recent promotion
+EMP-1857,2025-Q4,101298.02,0.0,6.77,Market Competitive,No recent promotion
+EMP-1858,2025-Q4,167447.14,14294.78,3.12,Market Competitive,No recent promotion
+EMP-1859,2025-Q4,180087.9,12660.39,9.28,Market Competitive,No recent promotion
+EMP-1860,2025-Q4,135274.41,15425.17,0.97,Below Benchmark,No recent promotion
+EMP-1861,2025-Q4,106749.71,15824.88,3.15,Market Competitive,Promoted in last 12m
+EMP-1862,2025-Q4,76873.16,0.0,5.2,Above Market,No recent promotion
+EMP-1863,2025-Q4,46787.42,0.0,1.62,Below Benchmark,No recent promotion
+EMP-1864,2025-Q4,92050.72,0.0,3.66,Market Competitive,No recent promotion
+EMP-1865,2025-Q4,147263.78,0.0,0.29,Below Benchmark,No recent promotion
+EMP-1866,2025-Q4,221877.43,34978.01,4.31,Above Market,No recent promotion
+EMP-1867,2025-Q4,176525.71,26669.28,7.07,Market Competitive,No recent promotion
+EMP-1868,2025-Q4,102736.75,0.0,4.72,Market Competitive,No recent promotion
+EMP-1869,2025-Q4,111294.24,0.0,4.4,Above Market,No recent promotion
+EMP-1870,2025-Q4,97630.24,13441.89,5.93,Market Competitive,No recent promotion
+EMP-1871,2025-Q4,152172.67,16362.87,7.83,Market Competitive,No recent promotion
+EMP-1872,2025-Q4,98043.52,15753.5,8.41,Market Competitive,No recent promotion
+EMP-1873,2025-Q4,101249.61,13728.1,4.31,Market Competitive,No recent promotion
+EMP-1874,2025-Q4,106712.07,6486.51,7.31,Market Competitive,No recent promotion
+EMP-1875,2025-Q4,113569.2,0.0,6.55,Market Competitive,No recent promotion
+EMP-1876,2025-Q4,157279.86,21160.91,4.52,Above Market,No recent promotion
+EMP-1877,2025-Q4,87003.28,6362.14,0.45,Below Benchmark,No recent promotion
+EMP-1878,2025-Q4,154498.21,8672.29,6.4,Market Competitive,No recent promotion
+EMP-1879,2025-Q4,193160.34,34501.09,5.39,Market Competitive,No recent promotion
+EMP-1880,2025-Q4,204112.17,10496.92,3.66,Above Market,No recent promotion
+EMP-1881,2025-Q4,85170.11,5497.38,4.66,Above Market,No recent promotion
+EMP-1882,2025-Q4,97352.52,6811.03,2.3,Below Benchmark,No recent promotion
+EMP-1883,2025-Q4,94731.12,12464.76,4.7,Market Competitive,No recent promotion
+EMP-1884,2025-Q4,199412.08,0.0,5.53,Market Competitive,No recent promotion
+EMP-1885,2025-Q4,135034.58,0.0,8.26,Market Competitive,No recent promotion
+EMP-1886,2025-Q4,179780.04,7694.28,6.73,Above Market,No recent promotion
+EMP-1887,2025-Q4,57463.4,0.0,7.43,Market Competitive,Promoted in last 12m
+EMP-1888,2025-Q4,147195.15,21481.22,3.07,Market Competitive,No recent promotion
+EMP-1889,2025-Q4,173647.74,20895.84,6.51,Market Competitive,No recent promotion
+EMP-1890,2025-Q4,185885.01,29259.56,4.25,Above Market,No recent promotion
+EMP-1891,2025-Q4,122856.74,0.0,4.29,Above Market,No recent promotion
+EMP-1892,2025-Q4,156947.43,24055.94,1.81,Below Benchmark,No recent promotion
+EMP-1893,2025-Q4,74629.24,8275.84,6.82,Market Competitive,No recent promotion
+EMP-1894,2025-Q4,64524.86,0.0,1.5,Below Benchmark,No recent promotion
+EMP-1895,2025-Q4,51078.01,2572.06,5.18,Market Competitive,No recent promotion
+EMP-1896,2025-Q4,73697.9,3347.04,3.3,Market Competitive,No recent promotion
+EMP-1897,2025-Q4,77615.08,12589.41,5.97,Market Competitive,Promoted in last 12m
+EMP-1898,2025-Q4,157412.35,0.0,8.86,Market Competitive,No recent promotion
+EMP-1899,2025-Q4,85863.81,0.0,6.22,Above Market,No recent promotion
+EMP-1900,2025-Q4,108729.14,0.0,5.59,Market Competitive,No recent promotion
+EMP-1901,2025-Q4,72860.59,5188.9,8.27,Market Competitive,No recent promotion
+EMP-1902,2025-Q4,183710.93,9596.32,7.2,Market Competitive,No recent promotion
+EMP-1903,2025-Q4,181177.15,31686.23,0.19,Below Benchmark,No recent promotion
+EMP-1904,2025-Q4,45418.12,6421.46,0.14,Below Benchmark,Promoted in last 12m
+EMP-1905,2025-Q4,79127.55,10291.49,5.7,Market Competitive,No recent promotion
+EMP-1906,2025-Q4,80359.23,4587.15,1.67,Below Benchmark,No recent promotion
+EMP-1907,2025-Q4,108789.81,6832.69,5.56,Market Competitive,No recent promotion
+EMP-1908,2025-Q4,182149.19,0.0,5.66,Above Market,Promoted in last 12m
+EMP-1909,2025-Q4,98039.07,15463.89,8.36,Market Competitive,No recent promotion
+EMP-1910,2025-Q4,58008.94,0.0,8.71,Above Market,No recent promotion
+EMP-1911,2025-Q4,101099.6,7806.36,7.65,Market Competitive,No recent promotion
+EMP-1912,2025-Q4,170314.8,29296.95,3.72,Market Competitive,No recent promotion
+EMP-1913,2025-Q4,109034.69,13341.52,1.77,Below Benchmark,No recent promotion
+EMP-1914,2025-Q4,106138.59,4671.79,8.31,Market Competitive,Promoted in last 12m
+EMP-1915,2025-Q4,118324.95,0.0,8.78,Market Competitive,Promoted in last 12m
+EMP-1916,2025-Q4,107037.27,15970.9,6.46,Market Competitive,No recent promotion
+EMP-1917,2025-Q4,105643.42,0.0,5.31,Market Competitive,No recent promotion
+EMP-1918,2025-Q4,91876.33,11700.65,5.28,Market Competitive,No recent promotion
+EMP-1919,2025-Q4,165684.46,28128.07,0.38,Below Benchmark,No recent promotion
+EMP-1920,2025-Q4,161956.5,15519.83,4.37,Above Market,No recent promotion
+EMP-1921,2025-Q4,152854.29,20857.12,4.9,Market Competitive,No recent promotion
+EMP-1922,2025-Q4,95950.91,11816.06,7.84,Market Competitive,Promoted in last 12m
+EMP-1923,2025-Q4,107141.48,0.0,9.09,Market Competitive,No recent promotion
+EMP-1924,2025-Q4,166728.55,27965.89,6.26,Market Competitive,No recent promotion
+EMP-1925,2025-Q4,61099.75,0.0,7.8,Above Market,No recent promotion
+EMP-1926,2025-Q4,166238.4,13467.29,5.51,Market Competitive,Promoted in last 12m
+EMP-1927,2025-Q4,173375.13,20821.21,6.6,Market Competitive,No recent promotion
+EMP-1928,2025-Q4,214903.73,20123.9,5.07,Market Competitive,No recent promotion
+EMP-1929,2025-Q4,177578.08,19852.18,0.63,Below Benchmark,No recent promotion
+EMP-1930,2025-Q4,80086.68,8635.6,3.69,Market Competitive,No recent promotion
+EMP-1931,2025-Q4,183995.17,0.0,6.1,Market Competitive,No recent promotion
+EMP-1932,2025-Q4,88040.12,7185.55,6.3,Market Competitive,No recent promotion
+EMP-1933,2025-Q4,125985.31,15991.45,5.38,Above Market,No recent promotion
+EMP-1934,2025-Q4,161910.78,0.0,7.39,Market Competitive,No recent promotion
+EMP-1935,2025-Q4,48341.22,2250.33,1.07,Below Benchmark,No recent promotion
+EMP-1936,2025-Q4,143308.61,17432.95,6.66,Market Competitive,No recent promotion
+EMP-1937,2025-Q4,103865.28,17433.21,6.21,Market Competitive,No recent promotion
+EMP-1938,2025-Q4,118601.04,12938.46,7.34,Market Competitive,No recent promotion
+EMP-1939,2025-Q4,75377.22,0.0,5.43,Market Competitive,No recent promotion
+EMP-1940,2025-Q4,117033.87,20154.51,8.87,Above Market,No recent promotion
+EMP-1941,2025-Q4,48626.33,2425.58,2.32,Below Benchmark,No recent promotion
+EMP-1942,2025-Q4,117892.39,17983.02,5.19,Market Competitive,Promoted in last 12m
+EMP-1943,2025-Q4,106287.44,12858.33,8.86,Market Competitive,No recent promotion
+EMP-1944,2025-Q4,135915.4,23345.54,1.09,Below Benchmark,No recent promotion
+EMP-1945,2025-Q4,155044.13,0.0,4.4,Above Market,No recent promotion
+EMP-1946,2025-Q4,67811.67,0.0,3.56,Market Competitive,No recent promotion
+EMP-1947,2025-Q4,126760.91,19581.75,0.9,Below Benchmark,Promoted in last 12m
+EMP-1948,2025-Q4,72680.1,11914.14,7.73,Market Competitive,No recent promotion
+EMP-1949,2025-Q4,83418.55,14290.05,6.22,Market Competitive,No recent promotion
+EMP-1950,2025-Q4,150282.72,0.0,6.44,Market Competitive,No recent promotion
+EMP-1951,2025-Q4,74685.15,7945.98,4.65,Market Competitive,Promoted in last 12m
+EMP-1952,2025-Q4,129174.87,6248.6,1.0,Below Benchmark,No recent promotion
+EMP-1953,2025-Q4,83439.37,12939.98,4.92,Market Competitive,No recent promotion
+EMP-1954,2025-Q4,108520.07,19407.71,7.21,Market Competitive,Promoted in last 12m
+EMP-1955,2025-Q4,123615.86,0.0,8.83,Above Market,No recent promotion
+EMP-1956,2025-Q4,183500.67,0.0,4.65,Above Market,No recent promotion
+EMP-1957,2025-Q4,61918.21,8434.95,6.44,Market Competitive,Promoted in last 12m
+EMP-1958,2025-Q4,140375.64,0.0,4.17,Market Competitive,No recent promotion
+EMP-1959,2025-Q4,132393.1,6274.48,2.34,Below Benchmark,Promoted in last 12m
+EMP-1960,2025-Q4,89103.98,0.0,0.54,Below Benchmark,No recent promotion
+EMP-1961,2025-Q4,99943.67,10619.15,3.86,Market Competitive,No recent promotion
+EMP-1962,2025-Q4,150693.37,21394.71,3.22,Above Market,No recent promotion
+EMP-1963,2025-Q4,103186.4,13350.42,5.91,Market Competitive,Promoted in last 12m
+EMP-1964,2025-Q4,57273.03,3002.49,1.43,Below Benchmark,Promoted in last 12m
+EMP-1965,2025-Q4,118961.67,17923.43,8.94,Market Competitive,No recent promotion
+EMP-1966,2025-Q4,72617.89,12040.38,6.58,Market Competitive,No recent promotion
+EMP-1967,2025-Q4,145123.31,12120.52,0.61,Below Benchmark,No recent promotion
+EMP-1968,2025-Q4,190687.06,0.0,4.77,Above Market,No recent promotion
+EMP-1969,2025-Q4,85163.08,8366.73,4.09,Above Market,No recent promotion
+EMP-1970,2025-Q4,147382.31,5980.16,9.21,Market Competitive,No recent promotion
+EMP-1971,2025-Q4,92004.17,0.0,7.77,Market Competitive,No recent promotion
+EMP-1972,2025-Q4,76264.1,0.0,6.89,Market Competitive,No recent promotion
+EMP-1973,2025-Q4,112939.08,16750.65,3.05,Above Market,No recent promotion
+EMP-1974,2025-Q4,125072.78,6995.27,6.3,Above Market,Promoted in last 12m
+EMP-1975,2025-Q4,68761.14,9592.22,1.48,Below Benchmark,No recent promotion
+EMP-1976,2025-Q4,111191.78,0.0,7.21,Above Market,No recent promotion
+EMP-1977,2025-Q4,65061.42,10639.35,1.91,Below Benchmark,No recent promotion
+EMP-1978,2025-Q4,167134.81,19997.02,6.82,Market Competitive,No recent promotion
+EMP-1979,2025-Q4,151197.98,17081.52,4.49,Above Market,Promoted in last 12m
+EMP-1980,2025-Q4,112295.53,13298.82,8.3,Market Competitive,No recent promotion
+EMP-1981,2025-Q4,109186.5,16079.49,3.52,Market Competitive,No recent promotion
+EMP-1982,2025-Q4,133465.5,20978.21,8.65,Market Competitive,No recent promotion
+EMP-1983,2025-Q4,144864.16,12739.07,1.11,Below Benchmark,No recent promotion
+EMP-1984,2025-Q4,93918.9,9145.4,5.5,Market Competitive,No recent promotion
+EMP-1985,2025-Q4,180073.39,0.0,4.5,Above Market,No recent promotion
+EMP-1986,2025-Q4,122801.64,0.0,8.21,Market Competitive,No recent promotion
+EMP-1987,2025-Q4,80509.78,3782.7,2.03,Below Benchmark,Promoted in last 12m
+EMP-1988,2025-Q4,171512.6,29014.87,6.06,Market Competitive,No recent promotion
+EMP-1989,2025-Q4,76908.75,12244.08,6.35,Market Competitive,Promoted in last 12m
+EMP-1990,2025-Q4,116687.67,11478.58,8.39,Above Market,No recent promotion
+EMP-1991,2025-Q4,115798.95,0.0,1.72,Below Benchmark,No recent promotion
+EMP-1992,2025-Q4,179291.42,23387.85,6.74,Above Market,No recent promotion
+EMP-1993,2025-Q4,84873.89,6417.98,1.99,Below Benchmark,No recent promotion
+EMP-1994,2025-Q4,71631.88,5326.18,8.13,Market Competitive,No recent promotion
+EMP-1995,2025-Q4,217611.6,17831.65,9.2,Market Competitive,No recent promotion
+EMP-1996,2025-Q4,114567.83,14771.42,8.45,Market Competitive,Promoted in last 12m
+EMP-1997,2025-Q4,137538.59,0.0,2.0,Below Benchmark,No recent promotion
+EMP-1998,2025-Q4,110407.37,0.0,0.25,Below Benchmark,No recent promotion
+EMP-1999,2025-Q4,100629.04,9762.93,7.36,Market Competitive,No recent promotion
+EMP-2000,2025-Q4,125834.38,19232.14,5.33,Above Market,No recent promotion
+EMP-2001,2025-Q4,106194.23,10278.49,1.76,Below Benchmark,No recent promotion
+EMP-2002,2025-Q4,121594.42,11567.22,9.03,Market Competitive,Promoted in last 12m
+EMP-2003,2025-Q4,172934.94,8553.05,4.63,Above Market,No recent promotion
+EMP-2004,2025-Q4,64623.49,6870.92,0.71,Below Benchmark,Promoted in last 12m
+EMP-2005,2025-Q4,110508.86,9357.79,6.0,Market Competitive,No recent promotion
+EMP-2006,2025-Q4,82609.89,8249.69,6.12,Market Competitive,No recent promotion
+EMP-2007,2025-Q4,123025.92,0.0,6.69,Market Competitive,No recent promotion
+EMP-2008,2025-Q4,153488.54,0.0,1.63,Below Benchmark,No recent promotion
+EMP-2009,2025-Q4,64019.16,0.0,9.33,Market Competitive,Promoted in last 12m
+EMP-2010,2025-Q4,137559.89,13643.31,0.89,Below Benchmark,No recent promotion
+EMP-2011,2025-Q4,147411.82,7066.52,0.43,Below Benchmark,No recent promotion
+EMP-2012,2025-Q4,141045.52,0.0,3.8,Market Competitive,No recent promotion
+EMP-2013,2025-Q4,41117.49,1863.55,0.79,Below Benchmark,No recent promotion
+EMP-2014,2025-Q4,182730.3,19024.94,7.22,Market Competitive,No recent promotion
+EMP-2015,2025-Q4,146994.9,15213.02,3.62,Market Competitive,No recent promotion
+EMP-2016,2025-Q4,73468.81,0.0,4.73,Market Competitive,No recent promotion
+EMP-2017,2025-Q4,117120.14,6389.93,5.58,Market Competitive,No recent promotion
+EMP-2018,2025-Q4,74927.7,8842.29,1.63,Below Benchmark,No recent promotion
+EMP-2019,2025-Q4,114503.21,7373.0,8.88,Market Competitive,No recent promotion
+EMP-2020,2025-Q4,103859.28,0.0,6.79,Market Competitive,Promoted in last 12m
+EMP-2021,2025-Q4,50333.84,5390.75,4.42,Market Competitive,No recent promotion
+EMP-2022,2025-Q4,84867.1,5398.27,7.05,Market Competitive,No recent promotion
+EMP-2023,2025-Q4,94625.88,0.0,0.11,Below Benchmark,Promoted in last 12m
+EMP-2024,2025-Q4,118314.08,20481.6,6.58,Market Competitive,No recent promotion
+EMP-2025,2025-Q4,122395.84,17131.17,5.38,Market Competitive,No recent promotion
+EMP-2026,2025-Q4,56539.06,0.0,2.26,Below Benchmark,No recent promotion
+EMP-2027,2025-Q4,151228.88,0.0,5.45,Above Market,Promoted in last 12m
+EMP-2028,2025-Q4,139504.73,0.0,8.81,Market Competitive,Promoted in last 12m
+EMP-2029,2025-Q4,111034.2,8252.74,7.32,Market Competitive,No recent promotion
+EMP-2030,2025-Q4,84522.09,10004.4,8.75,Market Competitive,Promoted in last 12m
+EMP-2031,2025-Q4,168196.32,0.0,5.67,Market Competitive,No recent promotion
+EMP-2032,2025-Q4,158028.12,26538.88,4.26,Market Competitive,No recent promotion
+EMP-2033,2025-Q4,179785.1,26014.79,2.2,Below Benchmark,No recent promotion
+EMP-2034,2025-Q4,125607.74,11553.4,0.75,Below Benchmark,Promoted in last 12m
+EMP-2035,2025-Q4,188548.86,25972.91,8.7,Above Market,Promoted in last 12m
+EMP-2036,2025-Q4,55827.66,0.0,7.11,Market Competitive,Promoted in last 12m
+EMP-2037,2025-Q4,48109.96,6423.29,1.09,Below Benchmark,Promoted in last 12m
+EMP-2038,2025-Q4,84499.25,10365.72,8.36,Market Competitive,No recent promotion
+EMP-2039,2025-Q4,112298.63,0.0,8.14,Above Market,No recent promotion
+EMP-2040,2025-Q4,77327.23,6729.17,1.87,Below Benchmark,Promoted in last 12m
+EMP-2041,2025-Q4,155291.59,14430.52,4.69,Market Competitive,No recent promotion
+EMP-2042,2025-Q4,52275.47,0.0,7.6,Market Competitive,No recent promotion
+EMP-2043,2025-Q4,85007.97,12036.94,8.71,Market Competitive,No recent promotion
+EMP-2044,2025-Q4,80743.03,0.0,1.49,Below Benchmark,Promoted in last 12m
+EMP-2045,2025-Q4,172554.03,0.0,9.05,Market Competitive,No recent promotion
+EMP-2046,2025-Q4,141083.33,0.0,4.29,Above Market,No recent promotion
+EMP-2047,2025-Q4,75295.78,12434.87,8.29,Market Competitive,No recent promotion
+EMP-2048,2025-Q4,136353.65,8944.32,7.85,Market Competitive,No recent promotion
+EMP-2049,2025-Q4,51377.3,7000.88,0.14,Below Benchmark,No recent promotion
+EMP-2050,2025-Q4,97651.35,16061.33,4.86,Market Competitive,No recent promotion
+EMP-2051,2025-Q4,212962.8,0.0,4.99,Market Competitive,No recent promotion
+EMP-2052,2025-Q4,104678.3,16938.64,7.78,Market Competitive,Promoted in last 12m
+EMP-2053,2025-Q4,117127.15,9263.17,8.84,Above Market,Promoted in last 12m
+EMP-2054,2025-Q4,73506.74,4089.17,6.39,Market Competitive,No recent promotion
+EMP-2055,2025-Q4,63382.81,5071.73,3.64,Market Competitive,Promoted in last 12m
+EMP-2056,2025-Q4,113830.42,5904.89,4.37,Above Market,No recent promotion
+EMP-2057,2025-Q4,184866.38,8065.97,9.08,Market Competitive,Promoted in last 12m
+EMP-2058,2025-Q4,112570.81,0.0,6.81,Above Market,No recent promotion
+EMP-2059,2025-Q4,59148.37,0.0,1.09,Below Benchmark,No recent promotion
+EMP-2060,2025-Q4,88611.94,6866.31,0.35,Below Benchmark,No recent promotion
+EMP-2061,2025-Q4,90307.77,10468.54,6.46,Market Competitive,No recent promotion
+EMP-2062,2025-Q4,162487.73,24833.63,7.69,Above Market,No recent promotion
+EMP-2063,2025-Q4,83915.73,8010.87,7.18,Market Competitive,No recent promotion
+EMP-2064,2025-Q4,190725.09,33303.85,7.71,Market Competitive,No recent promotion
+EMP-2065,2025-Q4,100570.8,0.0,3.37,Market Competitive,No recent promotion
+EMP-2066,2025-Q4,103561.9,12348.67,3.44,Market Competitive,No recent promotion
+EMP-2067,2025-Q4,71370.5,9772.26,0.23,Below Benchmark,No recent promotion
+EMP-2068,2025-Q4,162623.38,19856.47,6.86,Market Competitive,No recent promotion
+EMP-2069,2025-Q4,88470.18,15264.58,1.69,Below Benchmark,No recent promotion
+EMP-2070,2025-Q4,111981.65,0.0,4.63,Above Market,No recent promotion
+EMP-2071,2025-Q4,136234.78,16459.97,2.34,Below Benchmark,No recent promotion
+EMP-2072,2025-Q4,88526.1,14210.68,1.27,Below Benchmark,No recent promotion
+EMP-2073,2025-Q4,57070.17,0.0,4.08,Market Competitive,No recent promotion
+EMP-2074,2025-Q4,59987.25,5789.8,4.15,Above Market,Promoted in last 12m
+EMP-2075,2025-Q4,115311.31,10627.31,7.59,Market Competitive,Promoted in last 12m
+EMP-2076,2025-Q4,74382.15,0.0,6.6,Market Competitive,No recent promotion
+EMP-2077,2025-Q4,104700.23,14908.25,6.17,Market Competitive,No recent promotion
+EMP-2078,2025-Q4,160925.23,28029.96,5.07,Market Competitive,Promoted in last 12m
+EMP-2079,2025-Q4,56417.2,0.0,3.17,Market Competitive,No recent promotion
+EMP-2080,2025-Q4,183595.3,19930.24,3.12,Market Competitive,No recent promotion
+EMP-2081,2025-Q4,185631.61,20869.61,7.13,Above Market,No recent promotion
+EMP-2082,2025-Q4,110375.69,11227.68,1.16,Below Benchmark,No recent promotion
+EMP-2083,2025-Q4,183892.58,0.0,5.59,Market Competitive,No recent promotion
+EMP-2084,2025-Q4,133208.85,15990.91,1.57,Below Benchmark,Promoted in last 12m
+EMP-2085,2025-Q4,124548.59,5506.84,1.86,Below Benchmark,No recent promotion
+EMP-2086,2025-Q4,153577.29,11177.78,1.54,Below Benchmark,No recent promotion
+EMP-2087,2025-Q4,138625.41,16800.95,6.87,Market Competitive,No recent promotion
+EMP-2088,2025-Q4,61354.91,0.0,3.6,Market Competitive,No recent promotion
+EMP-2089,2025-Q4,58831.62,7139.08,9.24,Market Competitive,No recent promotion
+EMP-2090,2025-Q4,53907.77,6016.4,4.1,Market Competitive,No recent promotion
+EMP-2091,2025-Q4,54792.73,5394.53,6.58,Market Competitive,Promoted in last 12m
+EMP-2092,2025-Q4,109387.12,6672.67,0.66,Below Benchmark,No recent promotion
+EMP-2093,2025-Q4,165689.67,0.0,7.08,Above Market,No recent promotion
+EMP-2094,2025-Q4,196806.73,30132.81,5.86,Market Competitive,No recent promotion
+EMP-2095,2025-Q4,202345.08,26710.52,6.33,Above Market,No recent promotion
+EMP-2096,2025-Q4,55635.52,3158.81,6.41,Market Competitive,Promoted in last 12m
+EMP-2097,2025-Q4,58257.73,0.0,0.62,Below Benchmark,No recent promotion
+EMP-2098,2025-Q4,123685.09,0.0,8.58,Market Competitive,Promoted in last 12m
+EMP-2099,2025-Q4,100449.45,0.0,6.8,Market Competitive,No recent promotion
+EMP-2100,2025-Q4,132974.93,0.0,8.45,Market Competitive,No recent promotion
+EMP-2101,2025-Q4,107553.24,0.0,0.34,Below Benchmark,No recent promotion
+EMP-2102,2025-Q4,52353.97,0.0,3.22,Market Competitive,No recent promotion
+EMP-2103,2025-Q4,37252.01,3363.31,2.49,Below Benchmark,No recent promotion
+EMP-2104,2025-Q4,102186.09,0.0,6.18,Market Competitive,Promoted in last 12m
+EMP-2105,2025-Q4,116856.94,0.0,4.64,Market Competitive,No recent promotion
+EMP-2106,2025-Q4,138503.47,16002.28,8.66,Market Competitive,Promoted in last 12m
+EMP-2107,2025-Q4,124980.29,17524.62,8.44,Market Competitive,No recent promotion
+EMP-2108,2025-Q4,220952.71,39601.73,7.0,Above Market,No recent promotion
+EMP-2109,2025-Q4,133508.96,6889.65,8.67,Market Competitive,No recent promotion
+EMP-2110,2025-Q4,211754.25,0.0,6.7,Market Competitive,No recent promotion
+EMP-2111,2025-Q4,173885.33,28932.02,7.19,Market Competitive,Promoted in last 12m
+EMP-2112,2025-Q4,53444.03,5750.97,4.69,Market Competitive,No recent promotion
+EMP-2113,2025-Q4,92530.84,4350.98,0.07,Below Benchmark,No recent promotion
+EMP-2114,2025-Q4,137913.89,14805.61,1.29,Below Benchmark,No recent promotion
+EMP-2115,2025-Q4,119374.01,0.0,3.64,Market Competitive,No recent promotion
+EMP-2116,2025-Q4,181774.03,12571.35,7.49,Market Competitive,No recent promotion
+EMP-2117,2025-Q4,129572.49,7256.46,7.27,Above Market,Promoted in last 12m
+EMP-2118,2025-Q4,115897.72,16419.89,0.69,Below Benchmark,Promoted in last 12m
+EMP-2119,2025-Q4,65325.35,0.0,4.68,Market Competitive,Promoted in last 12m
+EMP-2120,2025-Q4,194795.83,16352.4,4.98,Market Competitive,No recent promotion
+EMP-2121,2025-Q4,168595.99,0.0,8.36,Market Competitive,Promoted in last 12m
+EMP-2122,2025-Q4,111878.79,0.0,1.97,Below Benchmark,No recent promotion
+EMP-2123,2025-Q4,166158.99,25266.03,4.6,Above Market,No recent promotion
+EMP-2124,2025-Q4,80968.43,10131.83,4.17,Market Competitive,No recent promotion
+EMP-2125,2025-Q4,146362.12,18763.12,5.17,Above Market,No recent promotion
+EMP-2126,2025-Q4,136279.06,15024.41,0.71,Below Benchmark,Promoted in last 12m
+EMP-2127,2025-Q4,176684.77,11444.55,3.01,Market Competitive,No recent promotion
+EMP-2128,2025-Q4,139654.48,0.0,0.65,Below Benchmark,No recent promotion
+EMP-2129,2025-Q4,79179.77,11799.78,0.54,Below Benchmark,No recent promotion
+EMP-2130,2025-Q4,73519.75,0.0,7.17,Market Competitive,No recent promotion
+EMP-2131,2025-Q4,176121.86,27295.97,7.21,Above Market,No recent promotion
+EMP-2132,2025-Q4,107239.34,12114.6,6.9,Market Competitive,No recent promotion
+EMP-2133,2025-Q4,149259.18,23017.17,4.96,Market Competitive,No recent promotion
+EMP-2134,2025-Q4,71999.67,0.0,8.09,Market Competitive,No recent promotion
+EMP-2135,2025-Q4,169579.86,0.0,6.39,Market Competitive,No recent promotion
+EMP-2136,2025-Q4,105108.42,14315.69,5.75,Market Competitive,No recent promotion
+EMP-2137,2025-Q4,152196.42,11773.54,2.01,Below Benchmark,Promoted in last 12m
+EMP-2138,2025-Q4,105118.67,0.0,9.08,Market Competitive,No recent promotion
+EMP-2139,2025-Q4,59137.6,3801.08,1.91,Below Benchmark,No recent promotion
+EMP-2140,2025-Q4,110623.76,17549.81,6.01,Market Competitive,Promoted in last 12m
+EMP-2141,2025-Q4,164946.27,0.0,8.75,Market Competitive,No recent promotion
+EMP-2142,2025-Q4,139372.58,19893.53,6.96,Market Competitive,No recent promotion
+EMP-2143,2025-Q4,93206.74,0.0,6.83,Market Competitive,No recent promotion
+EMP-2144,2025-Q4,71148.74,0.0,0.86,Below Benchmark,Promoted in last 12m
+EMP-2145,2025-Q4,102470.96,0.0,7.66,Market Competitive,No recent promotion
+EMP-2146,2025-Q4,78179.33,0.0,0.48,Below Benchmark,No recent promotion
+EMP-2147,2025-Q4,86104.34,0.0,0.44,Below Benchmark,No recent promotion
+EMP-2148,2025-Q4,92131.44,0.0,2.12,Below Benchmark,No recent promotion
+EMP-2149,2025-Q4,84818.32,7277.01,8.32,Market Competitive,No recent promotion
+EMP-2150,2025-Q4,165817.75,0.0,2.03,Below Benchmark,Promoted in last 12m
+EMP-2151,2025-Q4,97734.73,0.0,3.53,Market Competitive,No recent promotion
+EMP-2152,2025-Q4,147590.46,0.0,6.44,Market Competitive,Promoted in last 12m
+EMP-2153,2025-Q4,51357.96,7483.76,2.24,Below Benchmark,No recent promotion
+EMP-2154,2025-Q4,102846.88,8904.08,3.67,Market Competitive,Promoted in last 12m
+EMP-2155,2025-Q4,90280.84,0.0,1.61,Below Benchmark,No recent promotion
+EMP-2156,2025-Q4,92577.96,0.0,3.4,Market Competitive,No recent promotion
+EMP-2157,2025-Q4,50906.33,7338.56,1.9,Below Benchmark,No recent promotion
+EMP-2158,2025-Q4,113247.86,0.0,7.72,Market Competitive,Promoted in last 12m
+EMP-2159,2025-Q4,157135.92,0.0,1.76,Below Benchmark,No recent promotion
+EMP-2160,2025-Q4,100030.78,0.0,7.16,Market Competitive,No recent promotion
+EMP-2161,2025-Q4,119851.04,17673.44,9.22,Market Competitive,No recent promotion
+EMP-2162,2025-Q4,43758.93,0.0,0.67,Below Benchmark,No recent promotion
+EMP-2163,2025-Q4,52739.38,8098.4,8.78,Market Competitive,Promoted in last 12m
+EMP-2164,2025-Q4,86270.91,4843.84,0.75,Below Benchmark,No recent promotion
+EMP-2165,2025-Q4,158566.5,22338.64,0.67,Below Benchmark,Promoted in last 12m
+EMP-2166,2025-Q4,68740.78,5614.58,7.69,Market Competitive,No recent promotion
+EMP-2167,2025-Q4,59533.19,0.0,1.05,Below Benchmark,Promoted in last 12m
+EMP-2168,2025-Q4,86053.78,0.0,7.17,Above Market,No recent promotion
+EMP-2169,2025-Q4,109741.29,0.0,0.93,Below Benchmark,No recent promotion
+EMP-2170,2025-Q4,87669.51,4160.33,0.61,Below Benchmark,No recent promotion
+EMP-2171,2025-Q4,75562.86,11121.99,7.94,Above Market,No recent promotion
+EMP-2172,2025-Q4,86368.65,11471.07,0.85,Below Benchmark,No recent promotion
+EMP-2173,2025-Q4,111226.2,12038.63,5.19,Above Market,No recent promotion
+EMP-2174,2025-Q4,84472.54,13574.54,6.17,Market Competitive,No recent promotion
+EMP-2175,2025-Q4,139870.03,11326.0,8.57,Market Competitive,Promoted in last 12m
+EMP-2176,2025-Q4,103394.39,0.0,3.02,Market Competitive,No recent promotion
+EMP-2177,2025-Q4,121268.61,0.0,3.26,Above Market,No recent promotion
+EMP-2178,2025-Q4,95880.69,9558.08,0.74,Below Benchmark,No recent promotion
+EMP-2179,2025-Q4,111570.94,0.0,0.98,Below Benchmark,No recent promotion
+EMP-2180,2025-Q4,157585.6,0.0,1.32,Below Benchmark,No recent promotion
+EMP-2181,2025-Q4,63388.8,3597.31,7.24,Market Competitive,No recent promotion
+EMP-2182,2025-Q4,75087.26,7993.43,6.27,Above Market,No recent promotion
+EMP-2183,2025-Q4,71429.82,4615.99,3.42,Market Competitive,No recent promotion
+EMP-2184,2025-Q4,148623.44,7413.3,4.92,Market Competitive,No recent promotion
+EMP-2185,2025-Q4,60426.85,0.0,6.16,Market Competitive,No recent promotion
+EMP-2186,2025-Q4,105368.86,7160.36,4.79,Market Competitive,No recent promotion
+EMP-2187,2025-Q4,160509.04,17500.6,8.15,Above Market,Promoted in last 12m
+EMP-2188,2025-Q4,111334.75,0.0,7.63,Market Competitive,No recent promotion
+EMP-2189,2025-Q4,199935.23,35045.26,3.53,Market Competitive,No recent promotion
+EMP-2190,2025-Q4,108203.03,0.0,0.75,Below Benchmark,No recent promotion
+EMP-2191,2025-Q4,152835.69,0.0,6.19,Above Market,No recent promotion
+EMP-2192,2025-Q4,80157.34,12586.63,0.96,Below Benchmark,No recent promotion
+EMP-2193,2025-Q4,167088.32,0.0,8.1,Market Competitive,Promoted in last 12m
+EMP-2194,2025-Q4,158720.98,20177.53,6.35,Market Competitive,No recent promotion
+EMP-2195,2025-Q4,65656.64,8513.83,2.42,Below Benchmark,No recent promotion
+EMP-2196,2025-Q4,45250.27,0.0,2.2,Below Benchmark,No recent promotion
+EMP-2197,2025-Q4,47210.2,0.0,1.21,Below Benchmark,No recent promotion
+EMP-2198,2025-Q4,129267.4,0.0,3.16,Above Market,Promoted in last 12m
+EMP-2199,2025-Q4,96159.82,9196.9,1.96,Below Benchmark,No recent promotion
